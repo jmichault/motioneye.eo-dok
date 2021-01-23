@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "eo"
+msgstr "pa"
+
+#. type: YAML Front Matter: lang-niv
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "homa"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "010-instalado"
+msgstr "010-instalado"
+
+#. type: YAML Front Matter: layout
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./instalado_en_debian.md:1
+#, no-wrap
+#, fuzzy
+msgid "Instalado sur _debian_"
+msgstr " _debian_ਤੇ ਸਥਾਪਨਾ"
+
+#. type: Plain text
+#: ./instalado_en_debian.md:10
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii pri "
+"aliaj distribuoj _debian_.\n"
+msgstr "ਇਸ ਪ੍ਰਕਿਰਿਆ ਦੀ ਜਾਂਚ _Raspbian buster_'ਤੇ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ ਹੋਰ ਡਿਸਟਰੀਬਿ .ਸ਼ਨਾਂ _debian_' ਤੇ ਕੰਮ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ.\n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:11
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia "
+"[dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
+msgstr "ਜੇ _motioneye_ ਸਥਾਪਿਤ ਹੈ, ਤਾਂ ਇਸ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰੋ: ਇਸਦੇ [ਡੌਕੂਮੈਂਟੇਸ਼ਨ](https://github.com/ccrisan/motioneye/wiki)ਵੇਖੋ.  \n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:14
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
+msgstr " _MotionEye.eo_ ਦੇ ਸਰੋਤ ਇਕੱਤਰ ਕਰੋ:\n"
+
+#. type: Fenced code block (bash)
+#: ./instalado_en_debian.md:16
+#, no-wrap
+msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:21
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "komenci la instaladon:\n"
+msgstr "ਸਥਾਪਨਾ ਅਰੰਭ ਕਰੋ:\n"
+
+#. type: Fenced code block (bash)
+#: ./instalado_en_debian.md:23
+#, no-wrap
+msgid ""
+"cd motioneye.eo\n"
+"sudo ./debian_install\n"
+msgstr ""
+"cd motioneye.eo\n"
+"sudo ./debian_install\n"
+
+#. type: Plain text
+#: ./instalado_en_debian.md:29
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ "
+"](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en "
+"la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
+msgstr "_Motioneye.eo_ ਹੁਣ ਪੋਰਟ 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( ਜਾਂ _http://IP_ਜਾਂ_nomo:8765/_ ਦੇ ਅਹਾਤੇ ਦੇ ਕਿਸੇ ਹੋਰ ਸਟੇਸ਼ਨ ਤੋਂ ਪਹੁੰਚਯੋਗ ਹੈ. ਨੈੱਟਵਰਕ). ਮੂਲ ਉਪਭੋਗਤਾ _«admin»_ਬਿਨਾਂ ਪਾਸਵਰਡ ਤੋਂ ਹੁੰਦਾ ਹੈ.\n"
+

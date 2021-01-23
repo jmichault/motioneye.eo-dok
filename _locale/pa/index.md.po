@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "eo"
+msgstr "pa"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "homa"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "000-indekso"
+msgstr "000-indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, no-wrap
+#, fuzzy
+msgid " _Motioneye.eo_ "
+msgstr " _Motioneye.eo_ "
+
+#. type: Title #
+#: index.md:8
+#, no-wrap
+#, fuzzy
+msgid "Kio estas motionEye.eo?"
+msgstr "ਮੋਸ਼ਨ ਈ.ਈਓ ਕੀ ਹੈ?"
+
+#. type: Plain text
+#: index.md:11
+#, no-wrap
+#, fuzzy
+msgid "motionEye.eo estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun detekto de movado.\n"
+msgstr "ਮੋਸ਼ਨ ਈ.ਈਓ ਸੌਫਟਵੇਅਰ [ _motion_ ](https://motion-project.github.io/)ਲਈ ਇੱਕ onlineਨਲਾਈਨ ਇੰਟਰਫੇਸ ਹੈ, ਮੋਸ਼ਨ ਖੋਜ ਦੇ ਨਾਲ ਇੱਕ ਵੀਡੀਓ ਨਿਗਰਾਨੀ ਪ੍ਰੋਗਰਾਮ.\n"
+
+#. type: Plain text
+#: index.md:12
+#, no-wrap
+#, fuzzy
+msgid "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  \n"
+msgstr "ਇਹ ਅੰਤਰਰਾਸ਼ਟਰੀਕਰਨ ਦੇ ਨਾਲ [ _motionEye_ ](https://github.com/ccrisan/motioneye) ਦਾ ਇੱਕ ਵੰਡ ਹੈ.  \n"
+
+#. type: Plain text
+#: index.md:14
+#, no-wrap
+#, fuzzy
+msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
+msgstr "ਸਮਰਥਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ: ਫ੍ਰੈਂਚ, ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਅੰਗਰੇਜ਼ੀ.\n"
+
+#. type: Plain text
+#: index.md:16
+#, no-wrap
+#, fuzzy
+msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
+msgstr "ਹੇਠ ਲਿਖੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਅਨੁਵਾਦ ਮਸ਼ੀਨ ਅਨੁਵਾਦ ਦੁਆਰਾ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਸਹੀ ਕੀਤਾ ਜਾਣਾ ਲਾਜ਼ਮੀ ਹੈ:\n"
+
+#. type: Bullet: '* '
+#: index.md:18
+#, no-wrap
+#, fuzzy
+msgid "Araba ( _العربية_ )\n"
+msgstr "ਅਰਬੀ ( _العربية_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:20
+#, no-wrap
+#, fuzzy
+msgid "bengala ( _বাংলা _ )\n"
+msgstr "ਬੰਗਾਲ ( _বাংলা _ )\n\n"
+
+#. type: Bullet: '* '
+#: index.md:23
+#, no-wrap
+#, fuzzy
+msgid "Germana ( _Deutsch_ )\n"
+msgstr "ਜਰਮਨ ( _Deutsch_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:25
+#, no-wrap
+#, fuzzy
+msgid "Hispana ( _Español_ )\n"
+msgstr "ਹਿਸਪਾਨਾ ( _Español_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:27
+#, no-wrap
+#, fuzzy
+msgid "Hinda ( _हिन्दी _ )\n"
+msgstr "ਦਰਸਾਉਂਦਾ ਹੈ ( _हिन्दी _ )\n\n"
+
+#. type: Bullet: '* '
+#: index.md:30
+#, no-wrap
+#, fuzzy
+msgid "Itala ( _Italiano_ )\n"
+msgstr "ਇਟਾਲਾ ( _Italiano_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:32
+#, no-wrap
+#, fuzzy
+msgid "Japana ( _日本語_ )\n"
+msgstr "ਜਪਾਨ ( _日本語_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:34
+#, no-wrap
+#, fuzzy
+msgid "Malaja ( _بهاس ملايو_ )\n"
+msgstr "ਮਾਲੇਈ ( _بهاس ملايو_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:36
+#, no-wrap
+#, fuzzy
+msgid "Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+msgstr "ਪੰਜਾਬ ( _ਪੰਜਾਬੀ _ )\n\n"
+
+#. type: Bullet: '* '
+#: index.md:39
+#, no-wrap
+#, fuzzy
+msgid "Portugala ( _Português_ )\n"
+msgstr "ਪੁਰਤਗਾਲ ( _Português_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:41
+#, no-wrap
+#, fuzzy
+msgid "Rusa ( _русский язык_ )\n"
+msgstr "ਰਸ਼ੀਅਨ ( _русский язык_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:43
+#, no-wrap
+#, fuzzy
+msgid "Ĉina ( _中文_ )\n"
+msgstr "ਚੀਨੀ ( _中文_ )\n"
+
+#. type: Plain text
+#: index.md:47
+#, no-wrap
+#, fuzzy
+msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+msgstr "ਵਧੇਰੇ ਜਾਣਕਾਰੀ (ਪਰ ਸਿਰਫ ਅੰਗਰੇਜ਼ੀ ਵਿਚ) ਵਿਕੀ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)ਵਿਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#~ msgid "indekso"
+#~ msgstr "indekso"
+
+#~ msgid "index"
+#~ msgstr "index"
+
+#, fuzzy
+#~ msgid "Plej novaj afiŝoj"
+#~ msgstr "ਤਾਜ਼ਾ ਪੋਸਟਾਂ"

@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "eo"
+msgstr "ms"
+
+#. type: YAML Front Matter: lang-niv
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "homa"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "010-instalado"
+msgstr "010-instalado"
+
+#. type: YAML Front Matter: layout
+#: ./instalado_en_debian.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./instalado_en_debian.md:1
+#, no-wrap
+#, fuzzy
+msgid "Instalado sur _debian_"
+msgstr "Pemasangan pada _debian_"
+
+#. type: Plain text
+#: ./instalado_en_debian.md:10
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii pri "
+"aliaj distribuoj _debian_.\n"
+msgstr "Prosedur ini telah diuji pada _Raspbian buster_, tetapi mesti dilakukan pada pengedaran lain _debian_.\n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:11
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia "
+"[dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
+msgstr "Sekiranya _motioneye_ dipasang, nyahpasangnya: rujuk dokumentasi [](https://github.com/ccrisan/motioneye/wiki).  \n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:14
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
+msgstr "Kumpulkan sumber _MotionEye.eo_ :\n"
+
+#. type: Fenced code block (bash)
+#: ./instalado_en_debian.md:16
+#, no-wrap
+msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
+
+#. type: Bullet: '* '
+#: ./instalado_en_debian.md:21
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "komenci la instaladon:\n"
+msgstr "mulakan pemasangan:\n"
+
+#. type: Fenced code block (bash)
+#: ./instalado_en_debian.md:23
+#, no-wrap
+msgid ""
+"cd motioneye.eo\n"
+"sudo ./debian_install\n"
+msgstr ""
+"cd motioneye.eo\n"
+"sudo ./debian_install\n"
+
+#. type: Plain text
+#: ./instalado_en_debian.md:29
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ "
+"](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en "
+"la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
+msgstr "_Motioneye.eo_ kini boleh diakses di pelabuhan 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( atau _http://IP_atau_nomo:8765/_ dari stesen lain di premis rangkaian). Pengguna lalai adalah _«admin»_, tanpa kata laluan.\n"
+

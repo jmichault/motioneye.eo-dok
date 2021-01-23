@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-23 18:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./gxisdatigi.md:1
+#, no-wrap
+msgid "eo"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: ./gxisdatigi.md:1
+#, no-wrap
+msgid "homa"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: ./gxisdatigi.md:1
+#, no-wrap
+msgid "030-gxisdatigi"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: ./gxisdatigi.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./gxisdatigi.md:1
+#, no-wrap
+msgid "Ĝisdatigo"
+msgstr ""
+
+#. type: Plain text
+#: ./gxisdatigi.md:10
+#, markdown-text, no-wrap
+msgid "Malfermu terminalon sur la _raspberry_, kaj lanĉu la jenajn komandojn: \n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: ./gxisdatigi.md:11
+#, no-wrap
+msgid ""
+"    cd motioneye.eo\n"
+"    git pull\n"
+"    sudo systemctl stop motioneye\n"
+"    sudo pip3 install .\n"
+"    sudo systemctl start motioneye\n"
+msgstr ""
+
+#. type: Plain text
+#: ./gxisdatigi.md:18
+#, markdown-text, no-wrap
+msgid ""
+"(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu "
+"troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon de "
+"via uzanto).\n"
+msgstr ""

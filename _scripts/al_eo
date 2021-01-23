@@ -10,6 +10,11 @@ if [ -f ../_locale/${lang0}/${FIC}.po ]
 then
   rm -f ../_locale/${lang0}/${FIC}.po
 fi
+#
+if [ -f ../eo/${FIC} ]
+then
+  rm -f ../eo/${FIC}
+fi
 
   if [ ! -f ../_locale/${lang0}/${FIC}.pot ]
   then

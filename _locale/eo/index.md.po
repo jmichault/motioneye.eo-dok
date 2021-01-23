@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-23 18:08+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "fr"
+msgstr "eo"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "fonto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "000-indekso"
+msgstr "000-indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, no-wrap
+msgid " _Motioneye.eo_ "
+msgstr " _Motioneye.eo_ "
+
+#. type: Title #
+#: index.md:8
+#, no-wrap
+msgid "Qu'est-ce que motionEye.eo?"
+msgstr "Kio estas motionEye.eo?"
+
+#. type: Plain text
+#: index.md:11
+#, no-wrap
+msgid "motionEye.eo est une interface web pour le logiciel [ _motion_ ](https://motion-project.github.io/), un programme de vidéo-surveillance avec détection de mouvements.\n"
+msgstr "motionEye.eo estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun detekto de movado.\n"
+
+#. type: Plain text
+#: index.md:12
+#, no-wrap
+msgid "C'est une bifurcation de [ _motionEye_ ](https://github.com/ccrisan/motioneye) avec l'ajout de l'internationalisation.  \n"
+msgstr "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  \n"
+
+#. type: Plain text
+#: index.md:14
+#, no-wrap
+msgid "Les langues prises en charge sont : le français, l'espéranto et l'anglais.\n"
+msgstr "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
+
+#. type: Plain text
+#: index.md:16
+#, no-wrap
+msgid "Les langues suivantes ont été traduites par une traduction automatique et ont besoin d'être corrigées :\n"
+msgstr "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "arabe ( _العربية_ )\n"
+msgstr "Araba ( _العربية_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "bengali ( _বাংলা _ )\n"
+msgstr ""
+"bengala ( _বাংলা _ )\n"
+"\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "allemand ( _Deutsch_ )\n"
+msgstr "Germana ( _Deutsch_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "espagnol ( _Español_ )\n"
+msgstr "Hispana ( _Español_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "hindi ( _हिन्दी _ )\n"
+msgstr ""
+"Hinda ( _हिन्दी _ )\n"
+"\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "italien ( _Italiano_ )\n"
+msgstr "Itala ( _Italiano_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "japonais ( _日本語_ )\n"
+msgstr "Japana ( _日本語_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "malais ( _بهاس ملايو_ )\n"
+msgstr "Malaja ( _بهاس ملايو_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "pendjabi ( _ਪੰਜਾਬੀ _ )\n"
+msgstr ""
+"Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+"\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "portugais ( _Português_ )\n"
+msgstr "Portugala ( _Português_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "russe ( _русский язык_ )\n"
+msgstr "Rusa ( _русский язык_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:29
+#, no-wrap
+msgid "chinois ( _中文_ )\n"
+msgstr "Ĉina ( _中文_ )\n"
+
+#. type: Plain text
+#: index.md:32
+#, no-wrap
+msgid "Plus d'informations (mais seulement en anglais) peuvent être trouvées sur le [wiki _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+msgstr "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+
