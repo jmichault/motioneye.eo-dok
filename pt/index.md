@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# O que é motionEye.eo?
+# O que é [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 
 
-motionEye.eo é uma interface online para o software [ _motion_ ](https://motion-project.github.io/), um programa de vigilância por vídeo com detecção de movimento.
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) é uma interface de Internet para o software [ _motion_ ](https://motion-project.github.io/), um programa de vigilância por vídeo com detecção de movimento.
 
 É uma divisão de [ _motionEye_ ](https://github.com/ccrisan/motioneye) com o acréscimo da internacionalização.  
 Os idiomas suportados são: francês, esperanto e inglês.

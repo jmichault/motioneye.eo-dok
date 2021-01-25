@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# Apa itu motionEye.eo?
+# Apakah [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 
 
-motionEye.eo adalah antara muka dalam talian untuk perisian [ _motion_ ](https://motion-project.github.io/), program pengawasan video dengan pengesanan gerakan.
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) adalah antara muka Internet untuk perisian [ _motion_ ](https://motion-project.github.io/), program pengawasan video dengan pengesanan gerakan.
 
 Ia adalah pemisahan [ _motionEye_ ](https://github.com/ccrisan/motioneye) dengan penambahan pengantarabangsaan.  
 Bahasa yang disokong adalah: Perancis, Esperanto dan Inggeris.

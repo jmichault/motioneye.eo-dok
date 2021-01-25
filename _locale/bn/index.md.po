@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:47+0100\n"
+"POT-Creation-Date: 2021-01-23 20:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,8 +42,7 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Motioneye.eo_ "
 msgstr " _Motioneye.eo_ "
 
@@ -51,127 +50,130 @@ msgstr " _Motioneye.eo_ "
 #: index.md:8
 #, no-wrap
 #, fuzzy
-msgid "Kio estas motionEye.eo?"
-msgstr "মোশনই.ইও কী?"
+msgid "Kio estas [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
+msgstr " [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) "
 
 #. type: Plain text
 #: index.md:11
 #, no-wrap
 #, fuzzy
-msgid "motionEye.eo estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun detekto de movado.\n"
-msgstr "মোশনই.ইইও এই সফ্টওয়্যারটির জন্য একটি অনলাইন ইন্টারফেস [ _motion_ ](https://motion-project.github.io/), গতি সনাক্তকরণ সহ একটি ভিডিও নজরদারি প্রোগ্রাম।\n"
+msgid "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun movado-detekto.\n"
+msgstr "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) সফ্টওয়্যার [ _motion_ ](https://motion-project.github.io/)এর একটি ইন্টারনেট ইন্টারফেস, গতি সনাক্তকরণ সহ একটি ভিডিও নজরদারি প্রোগ্রাম।\n"
 
 #. type: Plain text
 #: index.md:12
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  \n"
 msgstr "এটি আন্তর্জাতিকীকরণ সংযোজন সহ [ _motionEye_ ](https://github.com/ccrisan/motioneye) এর বিভাজন।  \n"
 
 #. type: Plain text
 #: index.md:14
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
 msgstr "সমর্থিত ভাষা হ'ল: ফরাসি, এস্পেরান্তো এবং ইংরেজি।\n"
 
 #. type: Plain text
 #: index.md:16
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 msgstr "নিম্নলিখিত ভাষাগুলি মেশিন অনুবাদ দ্বারা অনুবাদ করা হয়েছে এবং অবশ্যই সংশোধন করতে হবে:\n"
 
 #. type: Bullet: '* '
 #: index.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Araba ( _العربية_ )\n"
 msgstr "আরবি ( _العربية_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "bengala ( _বাংলা _ )\n"
-msgstr "বেঙ্গল ( _বাংলা _ )\n\n"
+msgstr ""
+"বেঙ্গল ( _বাংলা _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:23
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Germana ( _Deutsch_ )\n"
 msgstr "জার্মান ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Hispana ( _Español_ )\n"
 msgstr "হিস্পানা ( _Español_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Hinda ( _हिन्दी _ )\n"
-msgstr "সূচক ( _हिन्दी _ )\n\n"
+msgstr ""
+"সূচক ( _हिन्दी _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:30
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Itala ( _Italiano_ )\n"
 msgstr "ইতালা ( _Italiano_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:32
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Japana ( _日本語_ )\n"
 msgstr "জাপান ( _日本語_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:34
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Malaja ( _بهاس ملايو_ )\n"
 msgstr "মালয় ( _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:36
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
-msgstr "পাঞ্জাব ( _ਪੰਜਾਬੀ _ )\n\n"
+msgstr ""
+"পাঞ্জাব ( _ਪੰਜਾਬੀ _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:39
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Portugala ( _Português_ )\n"
 msgstr "পর্তুগাল ( _Português_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Rusa ( _русский язык_ )\n"
 msgstr "রাশিয়ান ( _русский язык_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:43
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĉina ( _中文_ )\n"
 msgstr "চাইনিজ ( _中文_ )\n"
 
 #. type: Plain text
 #: index.md:47
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
 msgstr "আরও তথ্য (তবে কেবল ইংরেজিতে) উইকি _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)](https://github.com/ccrisan/motioneye/wiki)এ পাওয়া যাবে\n"
+
+#, fuzzy
+#~ msgid "Kio estas motionEye.eo?"
+#~ msgstr "মোশনই.ইও কী?"
+
+#, fuzzy
+#~ msgid ""
+#~ "motionEye.eo estas interreta interfaco por la programaro [ _motion_ ]"
+#~ "(https://motion-project.github.io/), videovigila programo kun detekto de "
+#~ "movado.\n"
+#~ msgstr ""
+#~ "মোশনই.ইইও এই সফ্টওয়্যারটির জন্য একটি অনলাইন ইন্টারফেস [ _motion_ ](https://"
+#~ "motion-project.github.io/), গতি সনাক্তকরণ সহ একটি ভিডিও নজরদারি প্রোগ্রাম।\n"
 
 #~ msgid "fonto"
 #~ msgstr "auto"

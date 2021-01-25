@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# 什么是motionEye.eo？
+# 什么是 [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 
 
-motionEye.eo是软件 [ _motion_ ](https://motion-project.github.io/)（具有运动检测功能的视频监视程序）的在线界面。
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 是软件 [ _motion_ ](https://motion-project.github.io/)的Internet接口，该软件是带有运动检测的视频监视程序。
 
 它是 [ _motionEye_ ](https://github.com/ccrisan/motioneye) 的一部分，并附加了国际化功能。  
 支持的语言是：法语，世界语和英语。

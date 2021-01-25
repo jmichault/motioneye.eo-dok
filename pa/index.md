@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# ਮੋਸ਼ਨ ਈ.ਈਓ ਕੀ ਹੈ?
+#  [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ਕੀ ਹੈ
 
-ਮੋਸ਼ਨ ਈ.ਈਓ ਸੌਫਟਵੇਅਰ [ _motion_ ](https://motion-project.github.io/)ਲਈ ਇੱਕ onlineਨਲਾਈਨ ਇੰਟਰਫੇਸ ਹੈ, ਮੋਸ਼ਨ ਖੋਜ ਦੇ ਨਾਲ ਇੱਕ ਵੀਡੀਓ ਨਿਗਰਾਨੀ ਪ੍ਰੋਗਰਾਮ.
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ਸਾੱਫਟਵੇਅਰ [ _motion_ ](https://motion-project.github.io/)ਦਾ ਇੱਕ ਇੰਟਰਨੈਟ ਇੰਟਰਫੇਸ ਹੈ, ਮੋਸ਼ਨ ਖੋਜ ਨਾਲ ਇੱਕ ਵੀਡੀਓ ਨਿਗਰਾਨੀ ਪ੍ਰੋਗਰਾਮ.
 
 ਇਹ ਅੰਤਰਰਾਸ਼ਟਰੀਕਰਨ ਦੇ ਨਾਲ [ _motionEye_ ](https://github.com/ccrisan/motioneye) ਦਾ ਇੱਕ ਵੰਡ ਹੈ.  
 ਸਮਰਥਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ: ਫ੍ਰੈਂਚ, ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਅੰਗਰੇਜ਼ੀ.

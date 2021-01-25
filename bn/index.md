@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# মোশনই.ইও কী?
+#  [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 
 
-মোশনই.ইইও এই সফ্টওয়্যারটির জন্য একটি অনলাইন ইন্টারফেস [ _motion_ ](https://motion-project.github.io/), গতি সনাক্তকরণ সহ একটি ভিডিও নজরদারি প্রোগ্রাম।
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) সফ্টওয়্যার [ _motion_ ](https://motion-project.github.io/)এর একটি ইন্টারনেট ইন্টারফেস, গতি সনাক্তকরণ সহ একটি ভিডিও নজরদারি প্রোগ্রাম।
 
 এটি আন্তর্জাতিকীকরণ সংযোজন সহ [ _motionEye_ ](https://github.com/ccrisan/motioneye) এর বিভাজন।  
 সমর্থিত ভাষা হ'ল: ফরাসি, এস্পেরান্তো এবং ইংরেজি।

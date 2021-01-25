@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# मोशनइयो क्या है?
+# क्या है [ _MotionEye.eo_ (° ४ °)
 
-गति का पता लगाने के साथ एक वीडियो निगरानी कार्यक्रम सॉफ्टवेयर [ _motion_ ](https://motion-project.github.io/)के लिए एक ऑनलाइन इंटरफ़ेस है।
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) सॉफ्टवेयर (° ६ °)](https://motion-project.github.io/)(° ९ °) सॉफ्टवेयर (गति ९ °), गति का पता लगाने वाला एक वीडियो निगरानी कार्यक्रम है।
 
 यह अंतर्राष्ट्रीयकरण के साथ [ _motionEye_ ](https://github.com/ccrisan/motioneye) का विभाजन है।  
 समर्थित भाषाएं हैं: फ्रेंच, एस्पेरांतो और अंग्रेजी।

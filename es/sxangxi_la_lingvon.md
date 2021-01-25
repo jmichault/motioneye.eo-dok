@@ -6,7 +6,7 @@ layout: page
 title: 'Cambia el idioma'
 ---
 
-Si desea que motioneye use un idioma diferente al sistema predeterminado: modifique el archivo _"/etc/systemd/system/motioneye.service"_ sin comentar en la línea _"#Environment=LANGUAGE=en"_ (elimine el _"#"_ ) ) ) y reemplace _"en"_ con el código de idioma deseado.
+Si desea que [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) utilice un idioma que no sea el sistema predeterminado: modifique el archivo _"/etc/systemd/system/motioneye.service"_ comentando en la línea _"#Environment=LANGUAGE=en"_ (elimine el _"#"_ ) y reemplace _"en"_ con el código de idioma deseado.
 
 ```bash
     sudo nano /etc/systemd/system/motioneye.service

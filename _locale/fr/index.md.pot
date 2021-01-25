@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:08+0100\n"
+"POT-Creation-Date: 2021-01-23 20:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,13 +49,13 @@ msgstr ""
 #. type: Title #
 #: index.md:8
 #, no-wrap
-msgid "Qu'est-ce que motionEye.eo?"
+msgid "Qu'est-ce que [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
 msgstr ""
 
 #. type: Plain text
 #: index.md:11
 #, no-wrap
-msgid "motionEye.eo est une interface web pour le logiciel [ _motion_ ](https://motion-project.github.io/), un programme de vidéo-surveillance avec détection de mouvements.\n"
+msgid "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) est une interface web pour le logiciel [ _motion_ ](https://motion-project.github.io/), un programme de vidéo-surveillance avec détection de mouvements.\n"
 msgstr ""
 
 #. type: Plain text

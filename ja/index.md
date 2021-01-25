@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# motionEye.eoとは何ですか？
+#  [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) とは
 
-motionEye.eoは、モーション検出機能を備えたビデオ監視プログラムであるソフトウェア [ _motion_ ](https://motion-project.github.io/)のオンラインインターフェイスです。
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) は、モーション検出機能を備えたビデオ監視プログラムであるソフトウェア [ _motion_ ](https://motion-project.github.io/)のインターネットインターフェイスです。
 
 これは、国際化が追加された [ _motionEye_ ](https://github.com/ccrisan/motioneye) の分割です。  
 サポートされている言語は、フランス語、エスペラント、英語です。

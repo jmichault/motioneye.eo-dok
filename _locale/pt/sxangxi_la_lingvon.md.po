@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"POT-Creation-Date: 2021-01-23 20:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,49 +17,44 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./sxangxi_la_lingvon.md:1
+#: sxangxi_la_lingvon.md:1
 #, no-wrap
 msgid "eo"
 msgstr "pt"
 
 #. type: YAML Front Matter: lang-niv
-#: ./sxangxi_la_lingvon.md:1
+#: sxangxi_la_lingvon.md:1
 #, no-wrap
-msgid "homa"
+msgid "auto"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./sxangxi_la_lingvon.md:1
+#: sxangxi_la_lingvon.md:1
 #, no-wrap
 msgid "020-sxangxi_la_lingvon"
 msgstr "020-sxangxi_la_lingvon"
 
 #. type: YAML Front Matter: layout
-#: ./sxangxi_la_lingvon.md:1
+#: sxangxi_la_lingvon.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./sxangxi_la_lingvon.md:1
-#, no-wrap
-#, fuzzy
+#: sxangxi_la_lingvon.md:1
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la lingvon"
 msgstr "Alterar o idioma"
 
 #. type: Plain text
-#: ./sxangxi_la_lingvon.md:10
-#, markdown-text, no-wrap
+#: sxangxi_la_lingvon.md:10
+#, no-wrap
 #, fuzzy
-msgid ""
-"Se vi volas ke motioneye uzu lingvon krom la defaŭltosistemo: modifu la "
-"dosieron _\"/etc/systemd/system/motioneye.service\"_ per nekomentado de la "
-"linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) ) kaj anstataŭigu "
-"_\"en\"_ kun la dezirata lingvokodo.\n"
-msgstr "Se você quiser que o motioneye use um idioma diferente do sistema padrão: modifique o arquivo _\"/etc/systemd/system/motioneye.service\"_ não comentando na linha _\"#Environment=LANGUAGE=en\"_ (exclua o _\"#\"_ ) ) ) e substitua _\"en\"_ pelo código de idioma desejado.\n"
+msgid "Se vi volas ke [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) uzas lingvon krom la defaŭltosistemo: modifu la dosieron _\"/etc/systemd/system/motioneye.service\"_ per komentado de la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) kaj anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
+msgstr "Se você deseja [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) para usar um idioma diferente do sistema padrão: modifique o arquivo _\"/etc/systemd/system/motioneye.service\"_ comentando na linha _\"#Environment=LANGUAGE=en\"_ (remova o _\"#\"_ ) e substitua _\"en\"_ pelo código de idioma desejado.\n"
 
 #. type: Fenced code block (bash)
-#: ./sxangxi_la_lingvon.md:11
+#: sxangxi_la_lingvon.md:11
 #, no-wrap
 msgid ""
 "    sudo nano /etc/systemd/system/motioneye.service\n"
@@ -70,3 +65,17 @@ msgstr ""
 "    sudo systemctl daemon-reload\n"
 "    sudo systemctl restart motioneye\n"
 
+#~ msgid "homa"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid ""
+#~ "Se vi volas ke motioneye uzu lingvon krom la defaŭltosistemo: modifu la "
+#~ "dosieron _\"/etc/systemd/system/motioneye.service\"_ per nekomentado de "
+#~ "la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) ) kaj "
+#~ "anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
+#~ msgstr ""
+#~ "Se você quiser que o motioneye use um idioma diferente do sistema padrão: "
+#~ "modifique o arquivo _\"/etc/systemd/system/motioneye.service\"_ não "
+#~ "comentando na linha _\"#Environment=LANGUAGE=en\"_ (exclua o _\"#"
+#~ "\"_ ) ) ) e substitua _\"en\"_ pelo código de idioma desejado.\n"

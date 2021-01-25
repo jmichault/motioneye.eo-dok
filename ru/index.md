@@ -5,9 +5,9 @@ lang-ref: 000-indekso
 layout: page
 title: ' _Motioneye.eo_ '
 ---
-# Что такое motionEye.eo?
+# Что такое [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 
 
-motionEye.eo - это онлайн-интерфейс для программного обеспечения [ _motion_ ](https://motion-project.github.io/), программы видеонаблюдения с обнаружением движения.
+[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) - это Интернет-интерфейс для программного обеспечения [ _motion_ ](https://motion-project.github.io/), программы видеонаблюдения с обнаружением движения.
 
 Это разделение [ _motionEye_ ](https://github.com/ccrisan/motioneye) с добавлением интернационализации.  
 Поддерживаемые языки: французский, эсперанто и английский.
