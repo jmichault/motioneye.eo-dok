@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 20:53+0100\n"
+"POT-Creation-Date: 2021-02-06 18:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,15 +48,13 @@ msgstr " _Motioneye.eo_ "
 
 #. type: Title #
 #: index.md:8
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Kio estas [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
 msgstr "क्या है [ _MotionEye.eo_ (° ४ °)"
 
 #. type: Plain text
 #: index.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun movado-detekto.\n"
 msgstr "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) सॉफ्टवेयर (° ६ °)](https://motion-project.github.io/)(° ९ °) सॉफ्टवेयर (गति ९ °), गति का पता लगाने वाला एक वीडियो निगरानी कार्यक्रम है।\n"
 
@@ -161,6 +159,21 @@ msgstr "चीनी ( _中文_ (° ४ °) (° ५ °)\n"
 #, fuzzy, no-wrap
 msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
 msgstr "अधिक जानकारी (लेकिन केवल अंग्रेजी) में [विकी (° ४ °) (° ६ °)°) पाया जा सकता है\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "lang: eo\n"
+#~ "lang-niv: homa\n"
+#~ "lang-ref: 000-indekso\n"
+#~ "layout: page\n"
+#~ "title: ' _Motioneye.eo_ '\n"
+#~ msgstr ""
+#~ "lang: eo\n"
+#~ "lang-niv: homa\n"
+#~ "lang-Ref: 000-indekso\n"
+#~ "लेआउट: पृष्ठ\n"
+#~ "शीर्षक: '\n"
+#~ "'°)\n"
 
 #, fuzzy
 #~ msgid "Kio estas motionEye.eo?"

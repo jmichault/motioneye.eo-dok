@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:43+0100\n"
+"POT-Creation-Date: 2021-02-06 18:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,4 +72,3 @@ msgstr ""
 #, no-wrap
 msgid "(Remplacez _motioneye.eo_ sur la première ligne par le répertoire dans lequel se trouvent les sources, si vous ne les avez pas déposées directement dans le dossier de travail de votre utilisateur).\n"
 msgstr "(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon de via uzanto).\n"
-

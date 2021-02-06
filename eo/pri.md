@@ -1,7 +1,7 @@
 ---
 lang: eo
 lang-niv: auto
-lang-ref: 999-pri
+lang-ref: pri
 layout: page
 title: 'Pri la Aŭtoro'
 ---

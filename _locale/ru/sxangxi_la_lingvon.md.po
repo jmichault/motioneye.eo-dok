@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 20:54+0100\n"
+"POT-Creation-Date: 2021-02-06 18:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "Сменить язык"
 
 #. type: Plain text
 #: sxangxi_la_lingvon.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Se vi volas ke [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) uzas lingvon krom la defaŭltosistemo: modifu la dosieron _\"/etc/systemd/system/motioneye.service\"_ per komentado de la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) kaj anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
 msgstr "Если вы хотите [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) использовать язык, отличный от системы по умолчанию: измените файл _\"/etc/systemd/system/motioneye.service\"_ , добавив комментарий к строке _\"#Environment=LANGUAGE=en\"_ (, удалите _\"#\"_ ) и замените _\"en\"_ желаемым кодом языка.\n"
 

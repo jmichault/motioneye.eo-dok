@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 16:24+0100\n"
+"POT-Creation-Date: 2021-02-06 18:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,18 +42,16 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: pri.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "À propos de l'auteur"
 msgstr "Pri la Aŭtoro"
 
 #. type: Plain text
 #: pri.md:10
-#, markdown-text, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
-"Passionné d'électronique depuis l'âge de 10 ans et accro aux ordinateurs "
-"depuis l'âge de 18 ans.\n"
+"Passionné d'électronique depuis l'âge de 10 ans et accro aux ordinateurs depuis l'âge de 18 ans.\n"
 "Je suis impliqué dans l'open source depuis la fin du 20ème siècle.\n"
-msgstr "Pasia pri elektroniko ekde la aĝo de 10 jaroj kaj toksomaniulo al komputiloj ekde la aĝo de 18 jaroj.\nMi okupiĝis pri malfermfonteco ekde la fino de la 20a jarcento.\n"
-
+msgstr ""
+"Pasia pri elektroniko ekde la aĝo de 10 jaroj kaj toksomaniulo al komputiloj ekde la aĝo de 18 jaroj.\n"
+"Mi okupiĝis pri malfermfonteco ekde la fino de la 20a jarcento.\n"

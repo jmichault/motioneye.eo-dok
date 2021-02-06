@@ -1,3 +1,4 @@
+---
 lang: eo
 lang-niv: homa
 lang-ref: 000-indekso

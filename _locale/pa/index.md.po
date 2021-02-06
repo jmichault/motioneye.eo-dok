@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 20:54+0100\n"
+"POT-Creation-Date: 2021-02-06 18:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,15 +48,13 @@ msgstr " _Motioneye.eo_ "
 
 #. type: Title #
 #: index.md:8
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Kio estas [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
 msgstr " [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ਕੀ ਹੈ"
 
 #. type: Plain text
 #: index.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun movado-detekto.\n"
 msgstr "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ਸਾੱਫਟਵੇਅਰ [ _motion_ ](https://motion-project.github.io/)ਦਾ ਇੱਕ ਇੰਟਰਨੈਟ ਇੰਟਰਫੇਸ ਹੈ, ਮੋਸ਼ਨ ਖੋਜ ਨਾਲ ਇੱਕ ਵੀਡੀਓ ਨਿਗਰਾਨੀ ਪ੍ਰੋਗਰਾਮ.\n"
 
@@ -161,6 +159,20 @@ msgstr "ਚੀਨੀ ( _中文_ )\n"
 #, fuzzy, no-wrap
 msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
 msgstr "ਵਧੇਰੇ ਜਾਣਕਾਰੀ (ਪਰ ਸਿਰਫ ਅੰਗਰੇਜ਼ੀ ਵਿਚ) ਵਿਕੀ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)ਵਿਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "lang: eo\n"
+#~ "lang-niv: homa\n"
+#~ "lang-ref: 000-indekso\n"
+#~ "layout: page\n"
+#~ "title: ' _Motioneye.eo_ '\n"
+#~ msgstr ""
+#~ "ਲੰਗ: ਈਓ\n"
+#~ "ਲੰਗ-ਨਿਵ: ਹੋਮਾ\n"
+#~ "ਲੰਗ-ਰੈਫ: 000-kਰਡੀਕਸੋ\n"
+#~ "ਖਾਕਾ: ਪੰਨਾ\n"
+#~ "ਸਿਰਲੇਖ: ' _Motioneye.eo_ '\n"
 
 #, fuzzy
 #~ msgid "Kio estas motionEye.eo?"

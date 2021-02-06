@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 20:54+0100\n"
+"POT-Creation-Date: 2021-02-06 18:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "ਭਾਸ਼ਾ ਬਦਲੋ"
 
 #. type: Plain text
 #: sxangxi_la_lingvon.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Se vi volas ke [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) uzas lingvon krom la defaŭltosistemo: modifu la dosieron _\"/etc/systemd/system/motioneye.service\"_ per komentado de la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) kaj anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
 msgstr "ਜੇ ਤੁਸੀਂ [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) ਨੂੰ ਡਿਫਾਲਟ ਸਿਸਟਮ ਤੋਂ ਇਲਾਵਾ ਕਿਸੇ ਹੋਰ ਭਾਸ਼ਾ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ: ਫਾਈਲ ਨੂੰ ਸੋਧੋ _\"/etc/systemd/system/motioneye.service\"_ ਲਾਈਨ ਉੱਤੇ ਟਿੱਪਣੀ ਕਰਕੇ _\"#Environment=LANGUAGE=en\"_ (ਹਟਾਓ _\"#\"_ ) ਅਤੇ _\"en\"_ ਨੂੰ ਲੋੜੀਂਦੇ ਭਾਸ਼ਾ ਕੋਡ ਨਾਲ ਬਦਲੋ.\n"
 

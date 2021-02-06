@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:20+0100\n"
+"POT-Creation-Date: 2021-02-06 18:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,5 +90,3 @@ msgstr ""
 #, no-wrap
 msgid "_Motioneye.eo_ est maintenant accessible sur le port 8765 : [ _http://localhost:8765/_ ](http://localhost:8765/) ( ou _http://IP_ou_nom:8765/_ depuis un autre poste du réseau local). L'utilisateur par défaut est _«admin»_, sans mot de passe.\n"
 msgstr "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
-
-
