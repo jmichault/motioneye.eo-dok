@@ -14,7 +14,7 @@ Bahasa yang disokong adalah: Perancis, Esperanto dan Inggeris.
 
 Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulkan:
 
-* Arab ( _العربية_ )
+* Bahasa Arab ( _العربية_ )
 
 
 * Bengal ( _বাংলা _ )
@@ -58,5 +58,57 @@ Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulk
 
 
 
-Maklumat lebih lanjut (tetapi hanya dalam bahasa Inggeris) yang terdapat di [wiki _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)
+# Perubahan utama selepas bifurkasi adalah:
+
+* 20210207: versi 21.02.2:
+
+
+  * konfigurasi dalam mod _async_ beberapa javascript untuk persembahan. (terima kasih [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).
+
+
+  * penggabungan perubahan _motioneye_.
+
+
+* 20210115: versi 21.01.1:
+
+
+  * **penambahan butang untuk memainkan video hari dalam percepatan dan berikut.** (terima kasih [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).
+
+
+  * penggabungan perubahan _motioneye_.
+
+
+* 20201214: versi 20.12.1:
+
+
+  * **penghijrahan ke _python3_** (terima kasih [ _Vlsarro_ ](https://github.com/Vlsarro) ).
+
+
+  * penggabungan perubahan _motioneye_.
+
+
+* 20201008: versi 20.10.0:
+
+
+  * **penambahan skrip _debian install_ untuk memudahkan pemasangan.**
+
+
+  * penggabungan perubahan _motioneye_.
+
+
+* 20200815: versi 20.8.0:
+
+
+  * **pelbagai bahasa.**
+
+
+  * _motioneye_ dilaksanakan oleh pengguna _motion_ secara lalai (dan bukannya _root_).
+
+
+  * penggabungan perubahan _motioneye_.
+
+
+* 20200704: garpu.
+
+
 

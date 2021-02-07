@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:21+0100\n"
+"POT-Creation-Date: 2021-02-07 23:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,9 +78,10 @@ msgstr "निम्नलिखित भाषाओं का अनुवा
 
 #. type: Bullet: '* '
 #: index.md:18
-#, fuzzy, no-wrap
-msgid "Araba ( _العربية_ )\n"
-msgstr "अरबी ( _العربية_ (° ४ °) (° ५ °)\n"
+#, no-wrap
+#, fuzzy
+msgid "araba ( _العربية_ )\n"
+msgstr "अरबी ( _العربية_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:20
@@ -154,11 +155,137 @@ msgstr "रूसी ( _русский язык_ )\n"
 msgid "Ĉina ( _中文_ )\n"
 msgstr "चीनी ( _中文_ (° ४ °) (° ५ °)\n"
 
-#. type: Plain text
-#: index.md:47
+#. type: Title #
+#: index.md:46
 #, fuzzy, no-wrap
-msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
-msgstr "अधिक जानकारी (लेकिन केवल अंग्रेजी) में [विकी (° ४ °) (° ६ °)°) पाया जा सकता है\n"
+msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
+msgstr "द्विभाजन के बाद मुख्य परिवर्तन हैं:"
+
+#. type: Bullet: '* '
+#: index.md:49
+#, fuzzy, no-wrap
+msgid "20210207: versio 21.02.2:\n"
+msgstr "20210207: संस्करण 21.02.2:\n"
+
+#. type: Bullet: '  * '
+#: index.md:51
+#, fuzzy, no-wrap
+msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr "प्रस्तुति के लिए कुछ javascripts के मोड _async_ में सेटिंग। (धन्यवाद [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) )।\n"
+
+#. type: Bullet: '  * '
+#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#, fuzzy, no-wrap
+msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
+msgstr " _motioneye_के परिवर्तनों का समावेश।\n"
+
+#. type: Bullet: '* '
+#: index.md:55
+#, fuzzy, no-wrap
+msgid "20210115: versio 21.01.1:\n"
+msgstr "20210115: संस्करण 21.01.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:57
+#, no-wrap
+#, fuzzy
+msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr "**त्वरण और निम्नलिखित में दिन के वीडियो खेलने के लिए एक बटन के अलावा।** (धन्यवाद [ _Lu-Fi_ ](https://github.com/Lu-Fi) )।\n"
+
+#. type: Bullet: '* '
+#: index.md:61
+#, fuzzy, no-wrap
+msgid "20201214: versio 20.12.1:\n"
+msgstr "20201214: संस्करण 20.12.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, fuzzy, no-wrap
+msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr "**तक प्रवास _python3_** (धन्यवाद [ _Vlsarro_ ](https://github.com/Vlsarro) ))।\n"
+
+#. type: Bullet: '* '
+#: index.md:67
+#, fuzzy, no-wrap
+msgid "20201008: versio 20.10.0:\n"
+msgstr "20201008: संस्करण 20.10.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:69
+#, fuzzy, no-wrap
+msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
+msgstr "**स्थापना की सुविधा के लिए स्क्रिप्ट _debian install_ के अलावा।**\n"
+
+#. type: Bullet: '* '
+#: index.md:73
+#, fuzzy, no-wrap
+msgid "20200815: versio 20.8.0:\n"
+msgstr "20200815: संस्करण 20.8.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:75
+#, fuzzy, no-wrap
+msgid "**plurlingva.**\n"
+msgstr "**बहुभाषी।**\n"
+
+#. type: Bullet: '  * '
+#: index.md:77
+#, fuzzy, no-wrap
+msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
+msgstr "_motioneye_ उपयोगकर्ता _motion_ डिफ़ॉल्ट रूप से _root_)के बजाय _root_)द्वारा निष्पादित किया जाता है।\n"
+
+#. type: Bullet: '* '
+#: index.md:81
+#, no-wrap
+#, fuzzy
+msgid "20200704: forko.\n"
+msgstr "20200704: कांटा।\n"
+
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Araba ( _العربية_ )\n"
+#~ msgstr "अरबी ( _العربية_ (° ४ °) (° ५ °)\n"
+
+#, fuzzy
+#~ msgid "**aldono de butono por reprodukti la filmetojn de la tago en tempopaso kaj poste.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+#~ msgstr "**समय और बाद में दिन के वीडियो चलाने के लिए एक बटन के अलावा।** (धन्यवाद [ _Lu-Fi_ ](https://github.com/Lu-Fi) )।\n"
+
+#, fuzzy
+#~ msgid "20200704: krucvojo.\n"
+#~ msgstr "20200704: जंक्शन।\n"
+
+#, fuzzy
+#~ msgid "enkadrigo de movokulŝanĝoj.\n"
+#~ msgstr "फ्रेमिंग आई मूवमेंट में बदलाव।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**migrado al python3** (dankon [ _Vlsarro_ ](https://github.com/"
+#~ "Vlsarro) ).\n"
+#~ msgstr ""
+#~ "**माइग्रेशन python3** (के लिए धन्यवाद [ _Vlsarro_ ](https://github.com/"
+#~ "Vlsarro) )।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**aldono de la debiana skribo_install pour faciliter l'installation.**\n"
+#~ msgstr ""
+#~ "**डेबियन लिपि के अलावा_install pour faciliter l'installation.**\n"
+#~ "\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "_motioneye_ efektivigita per uzanta defaŭlta movado (anstataŭ radiko).\n"
+#~ msgstr "_motioneye_ एक रूट)के बजाय एक डिफ़ॉल्ट आंदोलन (का उपयोग किया जाता है।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ]"
+#~ "(https://github.com/ccrisan/motioneye/wiki)\n"
+#~ msgstr ""
+#~ "अधिक जानकारी (लेकिन केवल अंग्रेजी) में [विकी (° ४ °) (° ६ °)°) पाया जा सकता है\n"
 
 #, fuzzy
 #~ msgid ""

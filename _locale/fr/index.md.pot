@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:21+0100\n"
+"POT-Creation-Date: 2021-02-07 21:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -148,8 +148,86 @@ msgstr ""
 msgid "chinois ( _中文_ )\n"
 msgstr ""
 
-#. type: Plain text
-#: index.md:32
+#. type: Title #
+#: index.md:31
 #, no-wrap
-msgid "Plus d'informations (mais seulement en anglais) peuvent être trouvées sur le [wiki _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+msgid "Les principaux changements depuis la bifurcation sont :"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20210207 : version 21.02.2 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "incorporation des changements de _motioneye_.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20210115 : version 21.01.1 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20201214 : version 20.12.1 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20201008 : version 20.10.0 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**ajout du script _debian install_ pour faciliter l'installation.**\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20200815 : version 20.8.0 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**multilangage.**\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "_motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20200704 : bifurcation.\n"
 msgstr ""

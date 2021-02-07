@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:21+0100\n"
+"POT-Creation-Date: 2021-02-07 23:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,8 +78,9 @@ msgstr "Los siguientes idiomas se han traducido mediante traducción automática
 
 #. type: Bullet: '* '
 #: index.md:18
-#, fuzzy, no-wrap
-msgid "Araba ( _العربية_ )\n"
+#, no-wrap
+#, fuzzy
+msgid "araba ( _العربية_ )\n"
 msgstr "Árabe ( _العربية_ )\n"
 
 #. type: Bullet: '* '
@@ -154,11 +155,141 @@ msgstr "Ruso ( _русский язык_ )\n"
 msgid "Ĉina ( _中文_ )\n"
 msgstr "Chino ( _中文_ )\n"
 
-#. type: Plain text
-#: index.md:47
+#. type: Title #
+#: index.md:46
 #, fuzzy, no-wrap
-msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
-msgstr "Se puede encontrar más información (pero solo en inglés) en la wiki de [ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)](https://github.com/ccrisan/motioneye/wiki)\n"
+msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
+msgstr "Los principales cambios tras la bifurcación son:"
+
+#. type: Bullet: '* '
+#: index.md:49
+#, fuzzy, no-wrap
+msgid "20210207: versio 21.02.2:\n"
+msgstr "20210207: versión 21.02.2:\n"
+
+#. type: Bullet: '  * '
+#: index.md:51
+#, fuzzy, no-wrap
+msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr "configuración en modo _async_ de algunos javascripts para la presentación. (gracias [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+
+#. type: Bullet: '  * '
+#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#, fuzzy, no-wrap
+msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
+msgstr "incorporación de cambios de _motioneye_.\n"
+
+#. type: Bullet: '* '
+#: index.md:55
+#, fuzzy, no-wrap
+msgid "20210115: versio 21.01.1:\n"
+msgstr "20210115: versión 21.01.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:57
+#, no-wrap
+#, fuzzy
+msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr "**adición de un botón para reproducir los videos del día en aceleración y seguimiento.** (gracias [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:61
+#, fuzzy, no-wrap
+msgid "20201214: versio 20.12.1:\n"
+msgstr "20201214: versión 20.12.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, fuzzy, no-wrap
+msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr "**migración a _python3_** (gracias [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:67
+#, fuzzy, no-wrap
+msgid "20201008: versio 20.10.0:\n"
+msgstr "20201008: versión 20.10.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:69
+#, fuzzy, no-wrap
+msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
+msgstr "**adición del guión _debian install_ para facilitar la instalación.**\n"
+
+#. type: Bullet: '* '
+#: index.md:73
+#, fuzzy, no-wrap
+msgid "20200815: versio 20.8.0:\n"
+msgstr "20200815: versión 20.8.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:75
+#, fuzzy, no-wrap
+msgid "**plurlingva.**\n"
+msgstr "**multilingüe.**\n"
+
+#. type: Bullet: '  * '
+#: index.md:77
+#, fuzzy, no-wrap
+msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
+msgstr "_motioneye_ ejecutado por el usuario _motion_ por defecto (en lugar de _root_).\n"
+
+#. type: Bullet: '* '
+#: index.md:81
+#, no-wrap
+#, fuzzy
+msgid "20200704: forko.\n"
+msgstr "20200704: tenedor.\n"
+
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Araba ( _العربية_ )\n"
+#~ msgstr "Árabe ( _العربية_ )\n"
+
+#, fuzzy
+#~ msgid "**aldono de butono por reprodukti la filmetojn de la tago en tempopaso kaj poste.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+#~ msgstr "**adición de un botón para reproducir los videos del día a lo largo del tiempo y más tarde.** (gracias [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+
+#, fuzzy
+#~ msgid "20200704: krucvojo.\n"
+#~ msgstr "20200704: cruce.\n"
+
+#, fuzzy
+#~ msgid "enkadrigo de movokulŝanĝoj.\n"
+#~ msgstr "cambios en el movimiento ocular enmarcado.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**migrado al python3** (dankon [ _Vlsarro_ ](https://github.com/"
+#~ "Vlsarro) ).\n"
+#~ msgstr ""
+#~ "**migración a python3** (gracias [ _Vlsarro_ ](https://github.com/"
+#~ "Vlsarro) ).\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**aldono de la debiana skribo_install pour faciliter l'installation.**\n"
+#~ msgstr ""
+#~ "**adición del script Debian_install pour faciliter l'installation.**\n"
+#~ "\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "_motioneye_ efektivigita per uzanta defaŭlta movado (anstataŭ radiko).\n"
+#~ msgstr ""
+#~ "_motioneye_ realizado con un movimiento predeterminado (en lugar de una "
+#~ "raíz).\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ]"
+#~ "(https://github.com/ccrisan/motioneye/wiki)\n"
+#~ msgstr ""
+#~ "Se puede encontrar más información (pero solo en inglés) en la wiki de "
+#~ "[ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)](https://"
+#~ "github.com/ccrisan/motioneye/wiki)\n"
 
 #, fuzzy
 #~ msgid ""

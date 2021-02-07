@@ -28,5 +28,23 @@ Les langues suivantes ont été traduites par une traduction automatique et ont 
 * chinois ( _中文_ )
 
 
-Plus d'informations (mais seulement en anglais) peuvent être trouvées sur le [wiki _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)
+# Les principaux changements depuis la bifurcation sont :
+
+* 20210207 : version 21.02.2 :
+  * mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).
+  * incorporation des changements de _motioneye_.
+* 20210115 : version 21.01.1 :
+  * **ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).
+  * incorporation des changements de _motioneye_.
+* 20201214 : version 20.12.1 :
+  * **migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).
+  * incorporation des changements de _motioneye_.
+* 20201008 : version 20.10.0 :
+  * **ajout du script _debian install_ pour faciliter l'installation.**
+  * incorporation des changements de _motioneye_.
+* 20200815 : version 20.8.0 :
+  * **multilangage.**
+  * _motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).
+  * incorporation des changements de _motioneye_.
+* 20200704 : bifurcation.
 

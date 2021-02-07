@@ -5,15 +5,17 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2021-01-23 20:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-07 23:10+0100\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: YAML Front Matter: lang
 #: sxangxi_la_lingvon.md:1
@@ -48,7 +50,6 @@ msgstr "Ŝanĝi la lingvon"
 #. type: Plain text
 #: sxangxi_la_lingvon.md:10
 #, no-wrap
-#, fuzzy
 msgid "Si vous souhaitez que [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) utilise une langue autre que la langue par défaut du système : modifiez le fichier _\"/etc/systemd/system/motioneye.service\"_ en décommentant la ligne _\"#Environment=LANGUAGE=en\"_ (supprimez le _\"#\"_ ) et remplacez _\"en\"_ par le code de la langue désirée.\n"
 msgstr "Se vi volas ke [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) uzas lingvon krom la defaŭltosistemo: modifu la dosieron _\"/etc/systemd/system/motioneye.service\"_ per komentado de la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) kaj anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
 
@@ -63,4 +64,3 @@ msgstr ""
 "    sudo nano /etc/systemd/system/motioneye.service\n"
 "    sudo systemctl daemon-reload\n"
 "    sudo systemctl restart motioneye\n"
-

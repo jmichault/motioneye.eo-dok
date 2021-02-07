@@ -3,98 +3,82 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2021-02-06 18:24+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-02-07 23:19+0100\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. type: Hash Value - Key: Funkciigita
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Propulsé par"
 msgstr "Funkciigita de"
 
 #. type: Hash Value - Key: cxiujAfisxoj
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Tous les messages"
 msgstr "Ĉiuj afiŝoj"
 
 #. type: Hash Value - Key: elektuLingvon
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Choisissez votre langue"
 msgstr "Elektu vian lingvon"
 
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Lisez cette page dans une autre langue"
 msgstr "Legu ĉi tiun paĝon en alia lingvo"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "MotionEye.eo: une bifurcation multilingue de motionEye."
-msgstr "MotionEye.eo: plurlingva forkiĝo de motionEye."
+msgstr "MotionEye.eo: plurlingva forko de motionEye."
 
 #. type: Hash Value - Key: rajtoj
 #: >lang
 #, no-wrap
-#, fuzzy
 msgid "Licence <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"Licence Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY-SA 4.0\"/></a>"
 msgstr "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></a>"
 
 #. type: Hash Value - Key: rigardiEn
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Regarder dans"
 msgstr "Enrigardu"
 
 #. type: Hash Value - Key: rilatajAfisxoj
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Articles Similaires"
-msgstr "Similaj Eroj"
+msgstr "Similaj Afiŝoj"
 
 #. type: Hash Value - Key: sercxi
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Recherche Google."
 msgstr "Google serĉo."
 
 #. type: Hash Value - Key: titolo
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "MotionEye.eo"
 msgstr "MotionEye.eo"
 
 #. type: Hash Value - Key: tradukoAverto
 #: >lang
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Attention : cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues :"
 msgstr "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 
-#, fuzzy
-#~ msgid ""
-#~ "Licence <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
-#~ "sa/4.0/\"><img alt =\"Licence Creative Commons\" style=\"display:inline;"
-#~ "border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png"
-#~ "\" title=\"CC-BY-SA 4.0\"/></ a>"
-#~ msgstr ""
-#~ "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:"
-#~ "inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-"
-#~ "sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></ a>"
-
-#, fuzzy
-#~ msgid "licence"
-#~ msgstr "Permesilo"

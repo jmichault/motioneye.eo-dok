@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:24+0100\n"
+"POT-Creation-Date: 2021-02-07 23:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 #. type: Hash Value - Key: priskribo
 #: >lang
 #, no-wrap
-msgid "MotionEye.eo: plurlingva forkiĝo de motionEye."
+msgid "MotionEye.eo: plurlingva forko de motionEye."
 msgstr ""
 
 #. type: Hash Value - Key: rajtoj
@@ -61,7 +61,7 @@ msgstr ""
 #. type: Hash Value - Key: rilatajAfisxoj
 #: >lang
 #, no-wrap
-msgid "Similaj Eroj"
+msgid "Similaj Afiŝoj"
 msgstr ""
 
 #. type: Hash Value - Key: sercxi

@@ -58,5 +58,57 @@ title: ' _Motioneye.eo_ '
 
 
 
-在 [维基 _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)](https://github.com/ccrisan/motioneye/wiki)](https://github.com/ccrisan/motioneye/wiki)上可以找到更多信息 (，但只有英语) 
+# 分叉后的主要变化是：
+
+* 20210207：版本21.02.2：
+
+
+  * 演示文稿的某些javascript模式 _async_ 配置。 (谢谢 [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) )。
+
+
+  * 合并变化 _motioneye_。
+
+
+* 20210115：版本21.01.1：
+
+
+  * **添加一个按钮以加速和跟随方式播放当天的视频。** (谢谢 [ _Lu-Fi_ ](https://github.com/Lu-Fi) )。
+
+
+  * 合并变化 _motioneye_。
+
+
+* 20201214：版本20.12.1：
+
+
+  * **迁移到 _python3_** (谢谢 [ _Vlsarro_ ](https://github.com/Vlsarro) )。
+
+
+  * 合并变化 _motioneye_。
+
+
+* 20201008：版本20.10.0：
+
+
+  * **添加脚本 _debian install_ 以方便安装。**
+
+
+  * 合并变化 _motioneye_。
+
+
+* 20200815：版本20.8.0：
+
+
+  * **多语言。**
+
+
+  * 默认情况下 (由用户 _motion_ 执行，而不是 _root_)执行_motioneye_ 。
+
+
+  * 合并变化 _motioneye_。
+
+
+* 20200704：叉子。
+
+
 

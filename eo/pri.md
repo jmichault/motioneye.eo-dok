@@ -1,6 +1,6 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: pri
 layout: page
 title: 'Pri la Aŭtoro'

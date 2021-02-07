@@ -5,15 +5,17 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:21+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-07 21:28+0100\n"
+"PO-Revision-Date: 2021-02-07 23:20+0100\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: YAML Front Matter: lang
 #: index.md:1
@@ -79,7 +81,7 @@ msgstr "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti ko
 #: index.md:29
 #, no-wrap
 msgid "arabe ( _العربية_ )\n"
-msgstr "Araba ( _العربية_ )\n"
+msgstr "araba ( _العربية_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:29
@@ -153,20 +155,86 @@ msgstr "Rusa ( _русский язык_ )\n"
 msgid "chinois ( _中文_ )\n"
 msgstr "Ĉina ( _中文_ )\n"
 
-#. type: Plain text
-#: index.md:32
+#. type: Title #
+#: index.md:31
 #, no-wrap
-msgid "Plus d'informations (mais seulement en anglais) peuvent être trouvées sur le [wiki _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
-msgstr "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+msgid "Les principaux changements depuis la bifurcation sont :"
+msgstr "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 
-#~ msgid "Qu'est-ce que motionEye.eo?"
-#~ msgstr "Kio estas motionEye.eo?"
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20210207 : version 21.02.2 :\n"
+msgstr "20210207: versio 21.02.2:\n"
 
-#~ msgid ""
-#~ "motionEye.eo est une interface web pour le logiciel [ _motion_ ](https://"
-#~ "motion-project.github.io/), un programme de vidéo-surveillance avec "
-#~ "détection de mouvements.\n"
-#~ msgstr ""
-#~ "motionEye.eo estas interreta interfaco por la programaro [ _motion_ ]"
-#~ "(https://motion-project.github.io/), videovigila programo kun detekto de "
-#~ "movado.\n"
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "incorporation des changements de _motioneye_.\n"
+msgstr "aliĝo de ŝanĝoj de _motioneye_.\n"
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20210115 : version 21.01.1 :\n"
+msgstr "20210115: versio 21.01.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20201214 : version 20.12.1 :\n"
+msgstr "20201214: versio 20.12.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20201008 : version 20.10.0 :\n"
+msgstr "20201008: versio 20.10.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**ajout du script _debian install_ pour faciliter l'installation.**\n"
+msgstr "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20200815 : version 20.8.0 :\n"
+msgstr "20200815: versio 20.8.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "**multilangage.**\n"
+msgstr "**plurlingva.**\n"
+
+#. type: Bullet: '  * '
+#: index.md:50
+#, no-wrap
+msgid "_motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).\n"
+msgstr "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
+
+#. type: Bullet: '* '
+#: index.md:50
+#, no-wrap
+msgid "20200704 : bifurcation.\n"
+msgstr "20200704: forko.\n"

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 20:53+0100\n"
+"POT-Creation-Date: 2021-02-07 23:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,7 +79,7 @@ msgstr ""
 #. type: Bullet: '* '
 #: index.md:18
 #, no-wrap
-msgid "Araba ( _العربية_ )\n"
+msgid "araba ( _العربية_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
@@ -148,8 +148,86 @@ msgstr ""
 msgid "Ĉina ( _中文_ )\n"
 msgstr ""
 
-#. type: Plain text
-#: index.md:47
+#. type: Title #
+#: index.md:46
 #, no-wrap
-msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
+msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:49
+#, no-wrap
+msgid "20210207: versio 21.02.2:\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:51
+#, no-wrap
+msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#, no-wrap
+msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:55
+#, no-wrap
+msgid "20210115: versio 21.01.1:\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:57
+#, no-wrap
+msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:61
+#, no-wrap
+msgid "20201214: versio 20.12.1:\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, no-wrap
+msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:67
+#, no-wrap
+msgid "20201008: versio 20.10.0:\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:69
+#, no-wrap
+msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:73
+#, no-wrap
+msgid "20200815: versio 20.8.0:\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:75
+#, no-wrap
+msgid "**plurlingva.**\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:77
+#, no-wrap
+msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:81
+#, no-wrap
+msgid "20200704: forko.\n"
 msgstr ""

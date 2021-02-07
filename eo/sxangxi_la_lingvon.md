@@ -1,6 +1,6 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 020-sxangxi_la_lingvon
 layout: page
 title: 'Ŝanĝi la lingvon'

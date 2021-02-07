@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:21+0100\n"
+"POT-Creation-Date: 2021-02-07 23:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,8 +78,9 @@ msgstr "ਹੇਠ ਲਿਖੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਅਨੁ�
 
 #. type: Bullet: '* '
 #: index.md:18
-#, fuzzy, no-wrap
-msgid "Araba ( _العربية_ )\n"
+#, no-wrap
+#, fuzzy
+msgid "araba ( _العربية_ )\n"
 msgstr "ਅਰਬੀ ( _العربية_ )\n"
 
 #. type: Bullet: '* '
@@ -154,11 +155,137 @@ msgstr "ਰਸ਼ੀਅਨ ( _русский язык_ )\n"
 msgid "Ĉina ( _中文_ )\n"
 msgstr "ਚੀਨੀ ( _中文_ )\n"
 
-#. type: Plain text
-#: index.md:47
+#. type: Title #
+#: index.md:46
 #, fuzzy, no-wrap
-msgid "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)\n"
-msgstr "ਵਧੇਰੇ ਜਾਣਕਾਰੀ (ਪਰ ਸਿਰਫ ਅੰਗਰੇਜ਼ੀ ਵਿਚ) ਵਿਕੀ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)ਵਿਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ\n"
+msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
+msgstr "ਵਿਭਾਜਨ ਤੋਂ ਬਾਅਦ ਮੁੱਖ ਬਦਲਾਅ ਇਹ ਹਨ:"
+
+#. type: Bullet: '* '
+#: index.md:49
+#, fuzzy, no-wrap
+msgid "20210207: versio 21.02.2:\n"
+msgstr "20210207: ਸੰਸਕਰਣ 21.02.2:\n"
+
+#. type: Bullet: '  * '
+#: index.md:51
+#, fuzzy, no-wrap
+msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+msgstr "ਪੇਸ਼ਕਾਰੀ ਲਈ ਕੁਝ ਜਾਵਾ ਸਕ੍ਰਿਪਟਾਂ ਦੇ modeੰਗ ਵਿੱਚ _async_ . (ਧੰਨਵਾਦ [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
+
+#. type: Bullet: '  * '
+#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#, fuzzy, no-wrap
+msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
+msgstr " _motioneye_ਦੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨਾ.\n"
+
+#. type: Bullet: '* '
+#: index.md:55
+#, fuzzy, no-wrap
+msgid "20210115: versio 21.01.1:\n"
+msgstr "20210115: ਸੰਸਕਰਣ 21.01.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:57
+#, no-wrap
+#, fuzzy
+msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr "**ਦਿਨ ਦੇ ਵੀਡੀਓ ਤੇਜ਼ ਕਰਨ ਅਤੇ ਹੇਠ ਲਿਖਣ ਲਈ ਇੱਕ ਬਟਨ ਦਾ ਜੋੜ.** (ਤੁਹਾਡਾ ਧੰਨਵਾਦ [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:61
+#, fuzzy, no-wrap
+msgid "20201214: versio 20.12.1:\n"
+msgstr "20201214: ਸੰਸਕਰਣ 20.12.1:\n"
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, fuzzy, no-wrap
+msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+msgstr "**ਮਾਈਗ੍ਰੇਸ਼ਨ _python3_** (ਧੰਨਵਾਦ [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+
+#. type: Bullet: '* '
+#: index.md:67
+#, fuzzy, no-wrap
+msgid "20201008: versio 20.10.0:\n"
+msgstr "20201008: ਸੰਸਕਰਣ 20.10.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:69
+#, fuzzy, no-wrap
+msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
+msgstr "**ਸਕ੍ਰਿਪਟ ਦਾ ਜੋੜ _debian install_ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਸਹੂਲਤ ਲਈ.**\n"
+
+#. type: Bullet: '* '
+#: index.md:73
+#, fuzzy, no-wrap
+msgid "20200815: versio 20.8.0:\n"
+msgstr "20200815: ਸੰਸਕਰਣ 20.8.0:\n"
+
+#. type: Bullet: '  * '
+#: index.md:75
+#, fuzzy, no-wrap
+msgid "**plurlingva.**\n"
+msgstr "**ਬਹੁਭਾਸ਼ਾਈ.**\n"
+
+#. type: Bullet: '  * '
+#: index.md:77
+#, fuzzy, no-wrap
+msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
+msgstr "_motioneye_ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਚਲਾਇਆ ਗਿਆ _motion_ ਮੂਲ ਰੂਪ ਵਿੱਚ ( _root_)ਦੀ ਬਜਾਏ.\n"
+
+#. type: Bullet: '* '
+#: index.md:81
+#, no-wrap
+#, fuzzy
+msgid "20200704: forko.\n"
+msgstr "20200704: ਕਾਂਟਾ.\n"
+
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Araba ( _العربية_ )\n"
+#~ msgstr "ਅਰਬੀ ( _العربية_ )\n"
+
+#, fuzzy
+#~ msgid "**aldono de butono por reprodukti la filmetojn de la tago en tempopaso kaj poste.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+#~ msgstr "**ਸਮੇਂ ਦੇ ਨਾਲ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਦਿਨ ਦੇ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਇੱਕ ਬਟਨ ਦਾ ਜੋੜ.** (ਤੁਹਾਡਾ ਧੰਨਵਾਦ [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+
+#, fuzzy
+#~ msgid "20200704: krucvojo.\n"
+#~ msgstr "20200704: ਜੰਕਸ਼ਨ.\n"
+
+#, fuzzy
+#~ msgid "enkadrigo de movokulŝanĝoj.\n"
+#~ msgstr "ਫਰੇਮਿੰਗ ਅੱਖਾਂ ਦੀ ਲਹਿਰ ਬਦਲ ਜਾਂਦੀ ਹੈ.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**migrado al python3** (dankon [ _Vlsarro_ ](https://github.com/"
+#~ "Vlsarro) ).\n"
+#~ msgstr ""
+#~ "**ਪਾਈਥਨ 3** (ਦਾ ਧੰਨਵਾਦ [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "**aldono de la debiana skribo_install pour faciliter l'installation.**\n"
+#~ msgstr ""
+#~ "**ਡੇਬੀਅਨ ਸਕ੍ਰਿਪਟ ਦਾ ਜੋੜ_install pour faciliter l'installation.**\n"
+#~ "\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "_motioneye_ efektivigita per uzanta defaŭlta movado (anstataŭ radiko).\n"
+#~ msgstr "_motioneye_ ਰੂਟ)ਦੀ ਬਜਾਏ ਇੱਕ ਡਿਫੌਲਟ ਅੰਦੋਲਨ (ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕੀਤੀ ਗਈ.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pliaj informoj (sed nur en la angla) troveblas en la [vikio _motionEye_ ]"
+#~ "(https://github.com/ccrisan/motioneye/wiki)\n"
+#~ msgstr ""
+#~ "ਵਧੇਰੇ ਜਾਣਕਾਰੀ (ਪਰ ਸਿਰਫ ਅੰਗਰੇਜ਼ੀ ਵਿਚ) ਵਿਕੀ _motionEye_ ](https://github.com/"
+#~ "ccrisan/motioneye/wiki)ਵਿਚ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ\n"
 
 #, fuzzy
 #~ msgid ""

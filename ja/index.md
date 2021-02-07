@@ -58,5 +58,57 @@ title: ' _Motioneye.eo_ '
 
 
 
-詳細 (、ただし英語) のみ [ウィキ _motionEye_ ](https://github.com/ccrisan/motioneye/wiki)
+# 分岐後の主な変更点は次のとおりです。
+
+* 20210207：バージョン21.02.2：
+
+
+  * プレゼンテーション用のいくつかのJavaScriptのモード _async_ での構成。 (ありがとう [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) )。
+
+
+  *  _motioneye_の変化の組み込み。
+
+
+* 20210115：バージョン21.01.1：
+
+
+  * **加速とフォローでその日のビデオを再生するためのボタンの追加。** (ありがとう [ _Lu-Fi_ ](https://github.com/Lu-Fi) )。
+
+
+  *  _motioneye_の変化の組み込み。
+
+
+* 20201214：バージョン20.12.1：
+
+
+  * ** _python3_** (への移行ありがとうございます [ _Vlsarro_ ](https://github.com/Vlsarro) )。
+
+
+  *  _motioneye_の変化の組み込み。
+
+
+* 20201008：バージョン20.10.0：
+
+
+  * **インストールを容易にするためのスクリプト _debian install_ の追加。**
+
+
+  *  _motioneye_の変化の組み込み。
+
+
+* 20200815：バージョン20.8.0：
+
+
+  * **多言語。**
+
+
+  *  _root_)の代わりにデフォルト (でユーザー _motion_ によって実行される_motioneye_ 。
+
+
+  *  _motioneye_の変化の組み込み。
+
+
+* 20200704：フォーク。
+
+
 
