@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-07 23:22+0100\n"
+"POT-Creation-Date: 2021-02-19 19:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,27 @@ msgstr "ਸਾਰੇ ਪੋਸਟ"
 msgid "Elektu vian lingvon"
 msgstr "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "ਟਿੱਪਣੀ ਕੀਤੀ:"
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "ਗੀਥਬ)'ਤੇ ਟਿੱਪਣੀ (ਸ਼ਾਮਲ ਕਰੋ"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Komentoj:"
+msgstr "ਟਿੱਪਣੀਆਂ:"
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -50,8 +71,8 @@ msgstr "ਮੋਸ਼ਨ ਈ.ਈਓ: ਮੋਸ਼ਨ ਈਈ ਦਾ ਬਹੁ-ਭ�
 #. type: Hash Value - Key: rajtoj
 #: >lang
 #, fuzzy, no-wrap
-msgid "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></a>"
-msgstr "ਲਾਇਸੈਂਸ <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img Alt =\"ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਾਇਸੈਂਸ\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"ਸੀਸੀ-ਬੀਵਾਈ- SA 4.0\"/></a>"
+msgid "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Licence Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY-SA 4.0\"/></a>"
+msgstr "ਲਾਇਸੈਂਸ <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਾਇਸੈਂਸ\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"ਸੀਸੀ-ਬਾਈ-ਐਸਏ 4.0\"/></a>"
 
 #. type: Hash Value - Key: rigardiEn
 #: >lang
@@ -84,26 +105,3 @@ msgstr "ਮੋਸ਼ਨ ਈ.ਈ.ਓ."
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨੋਟ ਕਰੋ: ਇਹ ਪੰਨਾ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਹੋ ਗਿਆ ਹੈ. ਜੇ ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇੱਕ ਭਾਸ਼ਾ ਵਿੱਚ ਪੜ੍ਹਨਾ ਚਾਹੀਦਾ ਹੈ:"
 
-#, fuzzy
-#~ msgid "MotionEye.eo: plurlingva forkiĝo de motionEye."
-#~ msgstr "ਮੋਸ਼ਨ ਈ.ਈਓ: ਮੋਸ਼ਨ ਈਈ ਦਾ ਬਹੁ-ਭਾਸ਼ੀ ਫੋਰਕ."
-
-#, fuzzy
-#~ msgid "Similaj Eroj"
-#~ msgstr "ਇਸੇ ਤਰਾਂ ਦੇ ਹੋਰ Items"
-
-#, fuzzy
-#~ msgid ""
-#~ "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:"
-#~ "inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-"
-#~ "sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></ a>"
-#~ msgstr ""
-#~ "ਲਾਇਸੈਂਸ <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
-#~ "sa/4.0/\"><img Alt =\"ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਾਇਸੈਂਸ\" style=\"display:inline;border-"
-#~ "width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" "
-#~ "title=\"ਸੀਸੀ-ਬੀਵਾਈ- SA 4.0\"/></ a>"
-
-#, fuzzy
-#~ msgid "Permesilo"
-#~ msgstr "ਲਾਇਸੈਂਸ"

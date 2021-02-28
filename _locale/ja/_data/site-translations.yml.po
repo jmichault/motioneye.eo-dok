@@ -34,6 +34,27 @@ msgstr "すべての投稿"
 msgid "Elektu vian lingvon"
 msgstr "言語を選択してください"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "コメント："
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "github)にコメント (を追加する"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Komentoj:"
+msgstr "コメント："
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -84,26 +105,3 @@ msgstr "MotionEye.eo"
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "注意：このページは自動的に翻訳されています。可能であれば、次のいずれかの言語で読む必要があります。"
 
-#, fuzzy
-#~ msgid "MotionEye.eo: plurlingva forkiĝo de motionEye."
-#~ msgstr "MotionEye.eo：motionEyeの多言語フォーク。"
-
-#, fuzzy
-#~ msgid "Similaj Eroj"
-#~ msgstr "類似アイテム"
-
-#, fuzzy
-#~ msgid ""
-#~ "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:"
-#~ "inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-"
-#~ "sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></ a>"
-#~ msgstr ""
-#~ "ライセンス <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt =\"クリエイティブコモンズライセンス\" style="
-#~ "\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/"
-#~ "by-sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></ a>"
-
-#, fuzzy
-#~ msgid "Permesilo"
-#~ msgstr "ライセンス"

@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,87 +20,85 @@ msgstr ""
 #: >lang
 #, fuzzy, no-wrap
 msgid "Funkciigita de"
-msgstr "مشغل بواسطة"
+msgstr "Propulsé par"
 
 #. type: Hash Value - Key: cxiujAfisxoj
 #: >lang
 #, fuzzy, no-wrap
-msgid "Ĉiuj afiŝoj"
-msgstr "جميع المشاركات"
+msgid "Ĉiuj Afiŝoj"
+msgstr "Tous les messages"
 
 #. type: Hash Value - Key: elektuLingvon
 #: >lang
 #, fuzzy, no-wrap
 msgid "Elektu vian lingvon"
-msgstr "اختر لغتك"
+msgstr "Choisissez votre langue"
 
 #. type: Hash Value - Key: komentis
 #: >lang
 #, no-wrap
 #, fuzzy
 msgid "komentis:"
-msgstr "علق:"
+msgstr "a commenté le "
 
 #. type: Hash Value - Key: komentoButono
 #: >lang
 #, no-wrap
 #, fuzzy
 msgid "Aldoni vian komenton (pri github)"
-msgstr "أضف تعليق (على جيثب)"
+msgstr "Ajouter un commentaire (sur github)"
 
 #. type: Hash Value - Key: komentoj
 #: >lang
 #, no-wrap
 #, fuzzy
 msgid "Komentoj:"
-msgstr "تعليقات:"
+msgstr "Commentaires :"
 
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
 msgid "Legu ĉi tiun paĝon en alia lingvo"
-msgstr "اقرأ هذه الصفحة بلغة أخرى"
+msgstr "Lire cette page dans une autre langue"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
-msgid "MotionEye.eo: plurlingva forko de motionEye."
-msgstr "MotionEye.eo: شوكة حركة عين متعددة اللغات."
+#, fuzzy, no-wrap
+msgid "Priskribo."
+msgstr "La description."
 
 #. type: Hash Value - Key: rajtoj
 #: >lang
 #, fuzzy, no-wrap
-msgid "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></a>"
-msgstr "الترخيص <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"رخصة المشاع الإبداعي\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0 (درجة 9 درجة) (درجة 10 درجة) (درجة 11 درجة)"
+msgid "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Licence Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY-SA 4.0\"/></a>"
+msgstr "Licence <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt =\"Licence Creative Commons\" style=\"display:inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" title=\"CC-BY-SA 4.0\"/></ a>"
 
 #. type: Hash Value - Key: rigardiEn
 #: >lang
 #, fuzzy, no-wrap
-msgid "Enrigardu"
-msgstr "إلق نظرة"
+msgid "Rigardi en"
+msgstr "Regarder dans"
 
 #. type: Hash Value - Key: rilatajAfisxoj
 #: >lang
-#, no-wrap
-#, fuzzy
-msgid "Similaj Afiŝoj"
-msgstr "وظائف مماثلة"
+#, fuzzy, no-wrap
+msgid "Rilataj Afiŝoj"
+msgstr "Articles Similaires"
 
 #. type: Hash Value - Key: sercxi
 #: >lang
 #, fuzzy, no-wrap
-msgid "Google serĉo."
-msgstr "بحث جوجل."
+msgid "Serĉu per Google."
+msgstr "Recherche google."
 
 #. type: Hash Value - Key: titolo
 #: >lang
 #, fuzzy, no-wrap
-msgid "MotionEye.eo"
-msgstr "MotionEye.eo"
+msgid "Titolo."
+msgstr "Titre."
 
 #. type: Hash Value - Key: tradukoAverto
 #: >lang
 #, fuzzy, no-wrap
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
-msgstr "يرجى ملاحظة: هذه الصفحة تمت ترجمتها تلقائيًا. إذا استطعت ، يجب أن تقرأها بإحدى اللغات التالية:"
+msgstr "Attention: cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues:"

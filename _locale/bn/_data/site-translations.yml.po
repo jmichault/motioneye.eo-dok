@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-07 23:22+0100\n"
+"POT-Creation-Date: 2021-02-19 19:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,6 +33,27 @@ msgstr "সমস্ত পোস্ট"
 #, fuzzy, no-wrap
 msgid "Elektu vian lingvon"
 msgstr "আপনার ভাষা নির্বাচন করুন"
+
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "মন্তব্য করেছেন:"
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "গিথুব)এ একটি মন্তব্য (যুক্ত করুন"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Komentoj:"
+msgstr "মন্তব্যসমূহ:"
 
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
@@ -84,62 +105,3 @@ msgstr "মোশনই.ইও"
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "দয়া করে নোট করুন: এই পৃষ্ঠাটি স্বয়ংক্রিয়ভাবে অনুবাদ করা হয়েছে। যদি আপনি পারেন তবে আপনার এটির একটির ভাষায় এটি পড়তে হবে:"
 
-#, fuzzy
-#~ msgid "MotionEye.eo: plurlingva forkiĝo de motionEye."
-#~ msgstr "মোশনই.ইইও: গতিপথের বহুভাষিক কাঁটাচামচ।"
-
-#, fuzzy
-#~ msgid "Similaj Eroj"
-#~ msgstr "অনুরূপ আইটেম"
-
-#, fuzzy
-#~ msgid ""
-#~ "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt =\"Permesilo Creative Commons\" style=\"display:"
-#~ "inline;border-width:0\" src=\"https://i.creativecommons.org/l/by-"
-#~ "sa/4.0/88x31.png\" title=\"CC-BY- SA 4.0\"/></ a>"
-#~ msgstr ""
-#~ "লাইসেন্স <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
-#~ "sa/4.0/\"><img Alt =\"ক্রিয়েটিভ কমন্স লাইসেন্স\" style=\"display:inline;"
-#~ "border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png"
-#~ "\" title=\"সিসি-বিওয়াই- এসএ 4.0\"/></ a>"
-
-#, fuzzy
-#~ msgid "Permesilo"
-#~ msgstr "লাইসেন্স"
-
-#, fuzzy
-#~ msgid "Ĉiuj Afiŝoj"
-#~ msgstr "সমস্ত পোস্ট"
-
-#, fuzzy
-#~ msgid "Mia Priskribo."
-#~ msgstr "আমার বিবরণ।"
-
-#, fuzzy
-#~ msgid ""
-#~ "Permesilo <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-#~ "by-sa/4.0/\"><img alt=\"Licence Creative Commons\" style=\"display:inline;"
-#~ "border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png"
-#~ "\" title=\"CC-BY-SA 4.0\"/></a>"
-#~ msgstr ""
-#~ "লাইসেন্স <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
-#~ "sa/4.0/\"><img alt=\"ক্রিয়েটিভ কমন্স লাইসেন্স\" style=\"display:inline;"
-#~ "border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png"
-#~ "\" title=\"সিসি-বাই-এসএ 4.0\"/></a>"
-
-#, fuzzy
-#~ msgid "Rigardi en"
-#~ msgstr "ভিতরে তাকান"
-
-#, fuzzy
-#~ msgid "Rilataj Afiŝoj"
-#~ msgstr "সম্পর্কিত পোস্ট"
-
-#, fuzzy
-#~ msgid "Serĉu per Google."
-#~ msgstr "গুগল অনুসন্ধান করুন।"
-
-#, fuzzy
-#~ msgid "Mia Titolo."
-#~ msgstr "আমার শিরোনাম।"
