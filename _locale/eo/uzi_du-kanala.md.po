@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# jean, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-28 17:31+0100\n"
+"PO-Revision-Date: 2021-02-28 17:42+0200\n"
+"Last-Translator: jean <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#. type: YAML Front Matter: lang
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "fr"
+msgstr "eo"
+
+#. type: YAML Front Matter: lang-niv
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "fonto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "040-uzi_du-kanala"
+msgstr "040-uzi_du-kanala"
+
+#. type: YAML Front Matter: layout
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "Utiliser une caméra bi-canal"
+msgstr "Uzi dukanalan fotilon"
+
+#. type: Plain text
+#: uzi_du-kanala.md:10
+#, no-wrap
+msgid "Les caméras IP ont souvent deux canaux :\n"
+msgstr "IP-kameraoj ofte havas du kanalojn:\n"
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:13
+#, no-wrap
+msgid "le premier en haute résolution.\n"
+msgstr "la unua en alta distingivo.\n"
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:13
+#, no-wrap
+msgid "le second en basse résolution.\n"
+msgstr "la dua en malalta distingivo.\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:15
+#, no-wrap
+msgid "La basse résolution est largement suffisante pour détecter les mouvements, c'est donc ce canal qu'on utilisera principalement.\n"
+msgstr ""
+"La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun "
+"kanalon ni uzos.\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:16
+#, no-wrap
+msgid "Par contre il est préférable que les vidéos enregistrées le soient en haute résolution. Ceci est prévu dans _motion_ (option _netcam hires_), mais pas dans _motioneye.eo_ .  \n"
+msgstr ""
+"Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta "
+"distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), "
+"sed ne en _motioneye.eo_ .  \n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:18
+#, no-wrap
+msgid "Cependant motioneye.eo a prévu la case «Options suplémentaires» pour ce genre de cas.\n"
+msgstr ""
+"Tamen motioneye.eo provizis la keston \"Pliaj opcioj\" por ĉi tia kazo.\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:20
+#, no-wrap
+msgid "Donc pour ce type de caméra, on mettra le flux basse résolution dans l'option «Périphérique», par exemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, et on mettra dans la case «Options suplémentaires» le flux haute résolution, par exemple :\n"
+msgstr ""
+"Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en "
+"la \"Ekstercentra\" opcio, ekzemple "
+"`rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la "
+"keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
+
+#. type: Fenced code block
+#: uzi_du-kanala.md:20
+#, no-wrap
+msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+msgstr "netcam_highres rtsp://uzanto:pasvorto@192.168.1.10/stream1\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:25
+#, no-wrap
+msgid "Ainsi on économisera du temps processeur, tout en ayant le maximum de détails sur les vidéos enregistrées.\n"
+msgstr ""
+"Ĉi tio ŝparos tempon de procesoro, havante tiom da detaloj kiel eble pri la "
+"registritaj filmetoj.\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:26
+#, no-wrap
+msgid "À noter : malheureusement _motion_ ne prévoit pas d'utiliser le flux haute résolution pour les images enregistrées. Celles-ci seront donc en basse résolution.\n"
+msgstr ""
+"Noto: bedaŭrinde _motion_ ne planas uzi la altdifinan fluon por la "
+"registritaj bildoj. Ĉi tiuj do estos en malalta distingivo.\n"
+

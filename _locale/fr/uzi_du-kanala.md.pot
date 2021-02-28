@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-28 17:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "040-uzi_du-kanala"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "Utiliser une caméra bi-canal"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:10
+#, no-wrap
+msgid "Les caméras IP ont souvent deux canaux :\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:13
+#, no-wrap
+msgid "le premier en haute résolution.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:13
+#, no-wrap
+msgid "le second en basse résolution.\n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:15
+#, no-wrap
+msgid "La basse résolution est largement suffisante pour détecter les mouvements, c'est donc ce canal qu'on utilisera principalement.\n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:16
+#, no-wrap
+msgid "Par contre il est préférable que les vidéos enregistrées le soient en haute résolution. Ceci est prévu dans _motion_ (option _netcam hires_), mais pas dans _motioneye.eo_ .  \n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:18
+#, no-wrap
+msgid "Cependant motioneye.eo a prévu la case «Options suplémentaires» pour ce genre de cas.\n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:20
+#, no-wrap
+msgid "Donc pour ce type de caméra, on mettra le flux basse résolution dans l'option «Périphérique», par exemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, et on mettra dans la case «Options suplémentaires» le flux haute résolution, par exemple :\n"
+msgstr ""
+
+#. type: Fenced code block
+#: uzi_du-kanala.md:20
+#, no-wrap
+msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:25
+#, no-wrap
+msgid "Ainsi on économisera du temps processeur, tout en ayant le maximum de détails sur les vidéos enregistrées.\n"
+msgstr ""
+
+#. type: Plain text
+#: uzi_du-kanala.md:26
+#, no-wrap
+msgid "À noter : malheureusement _motion_ ne prévoit pas d'utiliser le flux haute résolution pour les images enregistrées. Celles-ci seront donc en basse résolution.\n"
+msgstr ""

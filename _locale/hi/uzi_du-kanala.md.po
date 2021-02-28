@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "eo"
+msgstr "hi"
+
+#. type: YAML Front Matter: lang-niv
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "homa"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "040-uzi_du-kanala"
+msgstr "040-uzi_du-kanala"
+
+#. type: YAML Front Matter: layout
+#: uzi_du-kanala.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: uzi_du-kanala.md:1
+#, no-wrap
+#, fuzzy
+msgid "Uzi dukanalan fotilon"
+msgstr "दोहरे चैनल कैमरे का उपयोग करें"
+
+#. type: Plain text
+#: uzi_du-kanala.md:10
+#, no-wrap
+#, fuzzy
+msgid "IP-kameraoj ofte havas du kanalojn:\n"
+msgstr "आईपी ​​कैमरों में अक्सर दो चैनल होते हैं:\n"
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:12
+#, fuzzy, no-wrap
+msgid "la unua en alta distingivo.\n"
+msgstr "उच्च संकल्प में पहला।\n"
+
+#. type: Bullet: '* '
+#: uzi_du-kanala.md:14
+#, fuzzy, no-wrap
+msgid "la dua en malalta distingivo.\n"
+msgstr "कम संकल्प में दूसरा।\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:17
+#, no-wrap
+#, fuzzy
+msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
+msgstr "कम रिज़ॉल्यूशन आंदोलनों का पता लगाने के लिए पर्याप्त है, इसलिए यह वास्तव में चैनल है जिसका हम उपयोग करेंगे।\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:18
+#, no-wrap
+#, fuzzy
+msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
+msgstr "दूसरी ओर, यह बेहतर है कि रिकॉर्ड किए गए वीडियो उच्च रिज़ॉल्यूशन में हैं। इसमें _motion_ ( विकल्प _netcam hires_)की भविष्यवाणी की जाती है, लेकिन _motioneye.eo_ में नहीं।  \n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:20
+#, fuzzy, no-wrap
+msgid "Tamen motioneye.eo provizis la keston \"Pliaj opcioj\" por ĉi tia kazo.\n"
+msgstr "हालाँकि इस मामले के लिए मोशन.इन ने बॉक्स \"अतिरिक्त विकल्प\"प्रदान किया।\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:22
+#, no-wrap
+#, fuzzy
+msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
+msgstr "इसलिए इस प्रकार के कैमरे के लिए, हम निम्न रिज़ॉल्यूशन चैनल को \"पेरिफेरल\"विकल्प में रखेंगे, उदाहरण के लिए `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, और हम बॉक्स में डालेंगे \"अतिरिक्त विकल्प\"उच्च संकल्प चैनल, उदाहरण के लिए:\n"
+
+#. type: Fenced code block
+#: uzi_du-kanala.md:22
+#, no-wrap
+msgid "netcam_highres rtsp://uzanto:pasvorto@192.168.1.10/stream1\n"
+msgstr "netcam_highres rtsp://uzanto:pasvorto@192.168.1.10/stream1\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:27
+#, fuzzy, no-wrap
+msgid "Ĉi tio ŝparos tempon de procesoro, havante tiom da detaloj kiel eble pri la registritaj filmetoj.\n"
+msgstr "इससे प्रोसेसर समय की बचत होगी, रिकॉर्ड किए गए वीडियो के बारे में जितना संभव हो उतना विस्तार होगा।\n"
+
+#. type: Plain text
+#: uzi_du-kanala.md:28
+#, fuzzy, no-wrap
+msgid "Noto: bedaŭrinde _motion_ ne planas uzi la altdifinan fluon por la registritaj bildoj. Ĉi tiuj do estos en malalta distingivo.\n"
+msgstr "नोट: दुर्भाग्य से _motion_ रिकॉर्ड की गई छवियों के लिए उच्च परिभाषा धारा का उपयोग करने की योजना नहीं है। इसलिए ये कम रेजोल्यूशन में होंगे।\n"
+
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Uzu dukanalan fotilon"
+#~ msgstr "दोहरे चैनल कैमरे का उपयोग करें"
+
+#, fuzzy
+#~ msgid "IP-fotiloj ofte havas du kanalojn:\n"
+#~ msgstr "आईपी ​​कैमरों में अक्सर दो चैनल होते हैं:\n"
+
+#, fuzzy
+#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
+#~ msgstr "कम रिज़ॉल्यूशन आंदोलनों का पता लगाने के लिए पर्याप्त है, इसलिए यह वास्तव में चैनल है जिसका हम उपयोग करेंगे।\n"
+
+#, fuzzy
+#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
+#~ msgstr "दूसरी ओर, यह बेहतर है कि रिकॉर्ड किए गए वीडियो को ओवरराइट किया जाए। यह विकल्प _motion_ ( _netcam hires_)में भविष्यवाणी की जाती है, लेकिन _motioneye.eo_ में नहीं।  \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Do por ĉi tiu tipo de fotilo, ni metos la malaltan distingivan fluon en "
+#~ "la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:"
+#~ "mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj "
+#~ "opcioj\" la altan distingivan fluon, ekzemple:\n"
+#~ msgstr ""
+#~ "तो इस प्रकार के कैमरे के लिए, हम निम्न रिज़ॉल्यूशन करंट को \"पेरिफेरल\"विकल्प में रखेंगे, "
+#~ "उदाहरण के लिए `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, और "
+#~ "हम बॉक्स में डालेंगे \"अतिरिक्त विकल्प\"उदाहरण के लिए, उच्च प्रतिष्ठित धारा:\n"
+
+#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Do por ĉi tiu tipo de fotilo, ni metos la malaltan distingivan fluon en "
+#~ "la elekton \"Ekstercentra\", ekzemple `rtsp://utilisateur:"
+#~ "mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos la keston \"Pliaj "
+#~ "opcioj\":\n"
+#~ msgstr ""
+#~ "तो इस प्रकार के कैमरे के लिए, हम चयन में कम रिज़ॉल्यूशन करंट \"पेरिफेरल\", उदाहरण के "
+#~ "लिए `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`डालेंगे, और हम "
+#~ "बॉक्स \"अतिरिक्त विकल्प डालेंगे।\":\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Bonvolu noti: bedaŭrinde movado ne planas uzi la altan distingivan fluon "
+#~ "por registritaj bildoj. Ĉi tiuj do estos en malalta distingivo.\n"
+#~ msgstr ""
+#~ "कृपया ध्यान दें: दुर्भाग्य से गति रिकॉर्ड की गई छवियों के लिए उच्च रिज़ॉल्यूशन प्रवाह का "
+#~ "उपयोग करने की योजना नहीं है। इसलिए ये कम रेजोल्यूशन में होंगे।\n"
