@@ -70,6 +70,8 @@ do
     else
       echo ĝisdatigi _locale/${lang}/${FIC}.po
       mv ../_locale/${lang}/${FIC}.po.nova ../_locale/${lang}/${FIC}.po
+      ## forigi neuzatajn frazojn 
+      msgattrib --no-obsolete -o ../_locale/${lang}/${FIC}.po ../_locale/${lang}/${FIC}.po
     fi
     if [ ../${lang}/${FIC} -ot ../_locale/${lang}/${FIC}.po ]
     then

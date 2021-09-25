@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-02-07 21:28+0100\n"
-"PO-Revision-Date: 2021-02-07 23:20+0100\n"
+"POT-Creation-Date: 2021-09-25 19:25+0200\n"
+"PO-Revision-Date: 2021-09-25 19:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: YAML Front Matter: lang
@@ -66,25 +66,31 @@ msgid "C'est une bifurcation de [ _motionEye_ ](https://github.com/ccrisan/motio
 msgstr "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  \n"
 
 #. type: Plain text
-#: index.md:14
+#: index.md:13
+#, no-wrap
+msgid "Il utilise python3, et fonctionne donc aussi bien sous _debian buster_ que sous _debian bullseye_.  \n"
+msgstr "Ĝi uzas Python3, do ĝi funkcias ĉe kaj Debian Buster kaj Debian Bullseye.  \n"
+
+#. type: Plain text
+#: index.md:15
 #, no-wrap
 msgid "Les langues prises en charge sont : le français, l'espéranto et l'anglais.\n"
 msgstr "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
 
 #. type: Plain text
-#: index.md:16
+#: index.md:17
 #, no-wrap
 msgid "Les langues suivantes ont été traduites par une traduction automatique et ont besoin d'être corrigées :\n"
 msgstr "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "arabe ( _العربية_ )\n"
 msgstr "araba ( _العربية_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "bengali ( _বাংলা _ )\n"
 msgstr ""
@@ -92,149 +98,149 @@ msgstr ""
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "allemand ( _Deutsch_ )\n"
-msgstr "Germana ( _Deutsch_ )\n"
+msgstr "germana ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "espagnol ( _Español_ )\n"
-msgstr "Hispana ( _Español_ )\n"
+msgstr "hispana ( _Español_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "hindi ( _हिन्दी _ )\n"
 msgstr ""
-"Hinda ( _हिन्दी _ )\n"
+"hinda ( _हिन्दी _ )\n"
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "italien ( _Italiano_ )\n"
-msgstr "Itala ( _Italiano_ )\n"
+msgstr "itala ( _Italiano_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "japonais ( _日本語_ )\n"
-msgstr "Japana ( _日本語_ )\n"
+msgstr "japana ( _日本語_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "malais ( _بهاس ملايو_ )\n"
-msgstr "Malaja ( _بهاس ملايو_ )\n"
+msgstr "malaja ( _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "pendjabi ( _ਪੰਜਾਬੀ _ )\n"
 msgstr ""
-"Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+"panĝaba ( _ਪੰਜਾਬੀ _ )\n"
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "portugais ( _Português_ )\n"
-msgstr "Portugala ( _Português_ )\n"
+msgstr "portugala ( _Português_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "russe ( _русский язык_ )\n"
-msgstr "Rusa ( _русский язык_ )\n"
+msgstr "rusa ( _русский язык_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:29
+#: index.md:30
 #, no-wrap
 msgid "chinois ( _中文_ )\n"
-msgstr "Ĉina ( _中文_ )\n"
+msgstr "ĉina ( _中文_ )\n"
 
 #. type: Title #
-#: index.md:31
+#: index.md:32
 #, no-wrap
 msgid "Les principaux changements depuis la bifurcation sont :"
 msgstr "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20210207 : version 21.02.2 :\n"
 msgstr "20210207: versio 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "incorporation des changements de _motioneye_.\n"
 msgstr "aliĝo de ŝanĝoj de _motioneye_.\n"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20210115 : version 21.01.1 :\n"
 msgstr "20210115: versio 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "**ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20201214 : version 20.12.1 :\n"
 msgstr "20201214: versio 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "**migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20201008 : version 20.10.0 :\n"
 msgstr "20201008: versio 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "**ajout du script _debian install_ pour faciliter l'installation.**\n"
 msgstr "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20200815 : version 20.8.0 :\n"
 msgstr "20200815: versio 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "**multilangage.**\n"
 msgstr "**plurlingva.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "_motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).\n"
 msgstr "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:51
 #, no-wrap
 msgid "20200704 : bifurcation.\n"
 msgstr "20200704: forko.\n"
