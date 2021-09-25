@@ -10,7 +10,7 @@ title: ' _Motioneye.eo_ '
 [ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun movado-detekto.
 
 Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  
-Ĝi uzas Python3, do ĝi funkcias ĉe kaj Debian Buster kaj Debian Bullseye.  
+Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  
 La subtenataj lingvoj estas: la franca, esperanta kaj la angla.
 
 La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:

@@ -10,6 +10,7 @@ title: ' _Motioneye.eo_ '
 [ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) è un'interfaccia Internet per il software [ _motion_ ](https://motion-project.github.io/), un programma di videosorveglianza con rilevamento del movimento.
 
 È una scissione di [ _motionEye_ ](https://github.com/ccrisan/motioneye) con l'aggiunta dell'internazionalizzazione.  
+Utilizza Python3, quindi funziona a e _debian buster_ e _debian bullseye_.  
 Le lingue supportate sono: francese, esperanto e inglese.
 
 Le seguenti lingue sono state tradotte tramite traduzione automatica e devono essere corrette:
@@ -25,29 +26,29 @@ Le seguenti lingue sono state tradotte tramite traduzione automatica e devono es
 * Tedesco ( _Deutsch_ )
 
 
-* Hispana ( _Español_ )
+* Spagnolo ( _Español_ )
 
 
-* Indica ( _हिन्दी _ )
+* Hindi ( _हिन्दी _ )
   
 
   
 
-* Itala ( _Italiano_ )
+* Italiano ( _Italiano_ )
 
 
-* Giappone ( _日本語_ )
+* Giapponese ( _日本語_ )
 
 
 * Malese ( _بهاس ملايو_ )
 
 
-* Punjab ( _ਪੰਜਾਬੀ _ )
+* Panjaba ( _ਪੰਜਾਬੀ _ )
   
 
   
 
-* Portogallo ( _Português_ )
+* Portoghese ( _Português_ )
 
 
 * Russo ( _русский язык_ )

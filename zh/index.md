@@ -10,6 +10,7 @@ title: ' _Motioneye.eo_ '
 [ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) 是软件 [ _motion_ ](https://motion-project.github.io/)的Internet接口，该软件是带有运动检测的视频监视程序。
 
 它是 [ _motionEye_ ](https://github.com/ccrisan/motioneye) 的一部分，并附加了国际化功能。  
+它使用Python3，因此它适用于 _debian buster_ 和 _debian bullseye_。  
 支持的语言是：法语，世界语和英语。
 
 下列语言已通过机器翻译翻译，必须更正：
@@ -25,35 +26,35 @@ title: ' _Motioneye.eo_ '
 * 德语 ( _Deutsch_ )
 
 
-* 西班牙裔 ( _Español_ )
+* 西班牙语 ( _Español_ )
 
 
-* 表示 ( _हिन्दी _ )
+* 印地语 ( _हिन्दी _ )
   
 
   
 
-* Itala ( _Italiano_ )
+* 意大利 ( _Italiano_ )
 
 
 * 日本 ( _日本語_ )
 
 
-* 马来语 ( _بهاس ملايو_ )
+* 马来 ( _بهاس ملايو_ )
 
 
-* 旁遮普 ( _ਪੰਜਾਬੀ _ )
+* Panjaba ( _ਪੰਜਾਬੀ _ )
   
 
   
 
-* 葡萄牙 ( _Português_ )
+* 葡萄牙语 ( _Português_ )
 
 
-* 俄语 ( _русский язык_ )
+* 俄罗斯 ( _русский язык_ )
 
 
-* 中文 ( _中文_ )
+* 中文 ( _中文_ ))
 
 
 

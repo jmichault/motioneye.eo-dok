@@ -10,6 +10,7 @@ title: ' _Motioneye.eo_ '
 [ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) は、モーション検出機能を備えたビデオ監視プログラムであるソフトウェア [ _motion_ ](https://motion-project.github.io/)のインターネットインターフェイスです。
 
 これは、国際化が追加された [ _motionEye_ ](https://github.com/ccrisan/motioneye) の分割です。  
+Python3を使用しているため、 _debian buster_ と _debian bullseye_で動作します。  
 サポートされている言語は、フランス語、エスペラント、英語です。
 
 次の言語は機械翻訳によって翻訳されており、修正する必要があります：
@@ -22,18 +23,18 @@ title: ' _Motioneye.eo_ '
 
   
 
-* ドイツ語 ( _Deutsch_ )
+* ドイツ ( _Deutsch_ )
 
 
-* ヒスパナ ( _Español_ )
+* スペイン語 ( _Español_ )
 
 
-* 表示 ( _हिन्दी _ )
+* ヒンディー語 ( _हिन्दी _ )
   
 
   
 
-* イタラ ( _Italiano_ )
+* イタリア ( _Italiano_ )
 
 
 * 日本 ( _日本語_ )
@@ -42,15 +43,15 @@ title: ' _Motioneye.eo_ '
 * マレー ( _بهاس ملايو_ )
 
 
-* パンジャブ ( _ਪੰਜਾਬੀ _ )
+* Panjaba ( _ਪੰਜਾਬੀ _ )
   
 
   
 
-* ポルトガル ( _Português_ )
+* ポルトガル語 ( _Português_ )
 
 
-* ロシア語 ( _русский язык_ )
+* ロシア ( _русский язык_ )
 
 
 * 中国語 ( _中文_ )

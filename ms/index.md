@@ -10,6 +10,7 @@ title: ' _Motioneye.eo_ '
 [ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) adalah antara muka Internet untuk perisian [ _motion_ ](https://motion-project.github.io/), program pengawasan video dengan pengesanan gerakan.
 
 Ia adalah pemisahan [ _motionEye_ ](https://github.com/ccrisan/motioneye) dengan penambahan pengantarabangsaan.  
+Ia menggunakan Python3, jadi ia berfungsi pada dan _debian buster_ dan _debian bullseye_.  
 Bahasa yang disokong adalah: Perancis, Esperanto dan Inggeris.
 
 Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulkan:
@@ -25,15 +26,15 @@ Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulk
 * Jerman ( _Deutsch_ )
 
 
-* Hispana ( _Español_ )
+* Bahasa Sepanyol ( _Español_ )
 
 
-* Menunjukkan ( _हिन्दी _ )
+* Hindi ( _हिन्दी _ )
   
 
   
 
-* Itala ( _Italiano_ )
+* Itali ( _Italiano_ )
 
 
 * Jepun ( _日本語_ )
@@ -42,15 +43,15 @@ Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulk
 * Bahasa Melayu ( _بهاس ملايو_ )
 
 
-* Punjab ( _ਪੰਜਾਬੀ _ )
+* Panjaba ( _ਪੰਜਾਬੀ _ )
   
 
   
 
-* Portugal ( _Português_ )
+* Portuguese ( _Português_ )
 
 
-* Rusia ( _русский язык_ )
+* Russian ( _русский язык_ )
 
 
 * Cina ( _中文_ )

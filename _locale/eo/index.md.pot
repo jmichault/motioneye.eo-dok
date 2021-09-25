@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-07 23:22+0100\n"
+"POT-Creation-Date: 2021-09-25 21:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,169 +65,175 @@ msgid "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioney
 msgstr ""
 
 #. type: Plain text
-#: index.md:14
+#: index.md:13
+#, no-wrap
+msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  \n"
+msgstr ""
+
+#. type: Plain text
+#: index.md:15
 #, no-wrap
 msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
 msgstr ""
 
 #. type: Plain text
-#: index.md:16
+#: index.md:17
 #, no-wrap
 msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:18
+#: index.md:19
 #, no-wrap
 msgid "araba ( _العربية_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:20
+#: index.md:21
 #, no-wrap
 msgid "bengala ( _বাংলা _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:23
+#: index.md:24
 #, no-wrap
-msgid "Germana ( _Deutsch_ )\n"
+msgid "germana ( _Deutsch_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:25
+#: index.md:26
 #, no-wrap
-msgid "Hispana ( _Español_ )\n"
+msgid "hispana ( _Español_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:27
+#: index.md:28
 #, no-wrap
-msgid "Hinda ( _हिन्दी _ )\n"
+msgid "hinda ( _हिन्दी _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:31
 #, no-wrap
-msgid "Itala ( _Italiano_ )\n"
+msgid "itala ( _Italiano_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:32
+#: index.md:33
 #, no-wrap
-msgid "Japana ( _日本語_ )\n"
+msgid "japana ( _日本語_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:34
+#: index.md:35
 #, no-wrap
-msgid "Malaja ( _بهاس ملايو_ )\n"
+msgid "malaja ( _بهاس ملايو_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:36
+#: index.md:37
 #, no-wrap
-msgid "Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:39
+#: index.md:40
 #, no-wrap
-msgid "Portugala ( _Português_ )\n"
+msgid "portugala ( _Português_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:41
+#: index.md:42
 #, no-wrap
-msgid "Rusa ( _русский язык_ )\n"
+msgid "rusa ( _русский язык_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:43
+#: index.md:44
 #, no-wrap
-msgid "Ĉina ( _中文_ )\n"
+msgid "ĉina ( _中文_ )\n"
 msgstr ""
 
 #. type: Title #
-#: index.md:46
+#: index.md:47
 #, no-wrap
 msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:49
+#: index.md:50
 #, no-wrap
 msgid "20210207: versio 21.02.2:\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:52
 #, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#: index.md:54 index.md:60 index.md:66 index.md:72 index.md:80
 #, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:55
+#: index.md:56
 #, no-wrap
 msgid "20210115: versio 21.01.1:\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:57
+#: index.md:58
 #, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:61
+#: index.md:62
 #, no-wrap
 msgid "20201214: versio 20.12.1:\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:63
+#: index.md:64
 #, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:67
+#: index.md:68
 #, no-wrap
 msgid "20201008: versio 20.10.0:\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:69
+#: index.md:70
 #, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:73
+#: index.md:74
 #, no-wrap
 msgid "20200815: versio 20.8.0:\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:75
+#: index.md:76
 #, no-wrap
 msgid "**plurlingva.**\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:77
+#: index.md:78
 #, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:81
+#: index.md:82
 #, no-wrap
 msgid "20200704: forko.\n"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-07 23:22+0100\n"
+"POT-Creation-Date: 2021-09-25 21:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,26 +65,32 @@ msgid "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioney
 msgstr "إنه انقسام من [ _motionEye_ ](https://github.com/ccrisan/motioneye) مع إضافة التدويل.  \n"
 
 #. type: Plain text
-#: index.md:14
+#: index.md:13
+#, no-wrap
+#, fuzzy
+msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  \n"
+msgstr "يستخدم Python3، لذلك يعمل في و _debian buster_ و _debian bullseye_.  \n"
+
+#. type: Plain text
+#: index.md:15
 #, fuzzy, no-wrap
 msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
 msgstr "اللغات المدعومة هي: الفرنسية والإسبرانتو والإنجليزية.\n"
 
 #. type: Plain text
-#: index.md:16
+#: index.md:17
 #, fuzzy, no-wrap
 msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 msgstr "تمت ترجمة اللغات التالية عن طريق الترجمة الآلية ويجب تصحيحها:\n"
 
 #. type: Bullet: '* '
-#: index.md:18
-#, no-wrap
-#, fuzzy
+#: index.md:19
+#, fuzzy, no-wrap
 msgid "araba ( _العربية_ )\n"
 msgstr "العربية ( _العربية_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:20
+#: index.md:21
 #, fuzzy, no-wrap
 msgid "bengala ( _বাংলা _ )\n"
 msgstr ""
@@ -92,154 +98,202 @@ msgstr ""
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:23
-#, fuzzy, no-wrap
-msgid "Germana ( _Deutsch_ )\n"
+#: index.md:24
+#, no-wrap
+#, fuzzy
+msgid "germana ( _Deutsch_ )\n"
 msgstr "الألمانية ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:25
-#, fuzzy, no-wrap
-msgid "Hispana ( _Español_ )\n"
-msgstr "Hispana ( _Español_ )\n"
+#: index.md:26
+#, no-wrap
+#, fuzzy
+msgid "hispana ( _Español_ )\n"
+msgstr "الإسبانية ( _Español_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:27
-#, fuzzy, no-wrap
-msgid "Hinda ( _हिन्दी _ )\n"
-msgstr ""
-"يشير إلى ( _हिन्दी _ )\n"
-"\n"
+#: index.md:28
+#, no-wrap
+#, fuzzy
+msgid "hinda ( _हिन्दी _ )\n"
+msgstr "الهندية ( _हिन्दी _ )\n\n"
 
 #. type: Bullet: '* '
-#: index.md:30
-#, fuzzy, no-wrap
-msgid "Itala ( _Italiano_ )\n"
-msgstr "Itala ( _Italiano_ )\n"
+#: index.md:31
+#, no-wrap
+#, fuzzy
+msgid "itala ( _Italiano_ )\n"
+msgstr "الإيطالية ( _Italiano_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:32
-#, fuzzy, no-wrap
-msgid "Japana ( _日本語_ )\n"
-msgstr "اليابان ( _日本語_ )\n"
+#: index.md:33
+#, no-wrap
+#, fuzzy
+msgid "japana ( _日本語_ )\n"
+msgstr "اليابانية ( _日本語_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:34
-#, fuzzy, no-wrap
-msgid "Malaja ( _بهاس ملايو_ )\n"
-msgstr "الملايو ( _بهاس ملايو_ )\n"
+#: index.md:35
+#, no-wrap
+#, fuzzy
+msgid "malaja ( _بهاس ملايو_ )\n"
+msgstr "الملايو (° 1 درجة)_بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:36
-#, fuzzy, no-wrap
-msgid "Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
-msgstr ""
-"البنجاب ( _ਪੰਜਾਬੀ _ )\n"
-"\n"
+#: index.md:37
+#, no-wrap
+#, fuzzy
+msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+msgstr "بنجابا ( _ਪੰਜਾਬੀ _ )\n\n"
 
 #. type: Bullet: '* '
-#: index.md:39
-#, fuzzy, no-wrap
-msgid "Portugala ( _Português_ )\n"
-msgstr "البرتغال ( _Português_ )\n"
+#: index.md:40
+#, no-wrap
+#, fuzzy
+msgid "portugala ( _Português_ )\n"
+msgstr "البرتغالية (° 1 درجة)_Português_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:41
-#, fuzzy, no-wrap
-msgid "Rusa ( _русский язык_ )\n"
+#: index.md:42
+#, no-wrap
+#, fuzzy
+msgid "rusa ( _русский язык_ )\n"
 msgstr "الروسية ( _русский язык_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:43
-#, fuzzy, no-wrap
-msgid "Ĉina ( _中文_ )\n"
+#: index.md:44
+#, no-wrap
+#, fuzzy
+msgid "ĉina ( _中文_ )\n"
 msgstr "الصينية ( _中文_ )\n"
 
 #. type: Title #
-#: index.md:46
+#: index.md:47
 #, fuzzy, no-wrap
 msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 msgstr "التغييرات الرئيسية بعد التشعب هي:"
 
 #. type: Bullet: '* '
-#: index.md:49
+#: index.md:50
 #, fuzzy, no-wrap
 msgid "20210207: versio 21.02.2:\n"
 msgstr "20210207: الإصدار 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:52
 #, fuzzy, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "التكوين في الوضع _async_ لبعض نصوص جافا للعرض التقديمي. (شكرا لك [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:53 index.md:59 index.md:65 index.md:71 index.md:79
+#: index.md:54 index.md:60 index.md:66 index.md:72 index.md:80
 #, fuzzy, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr "إدخال تغييرات _motioneye_.\n"
 
 #. type: Bullet: '* '
-#: index.md:55
+#: index.md:56
 #, fuzzy, no-wrap
 msgid "20210115: versio 21.01.1:\n"
 msgstr "20210115: الإصدار 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:57
-#, no-wrap
-#, fuzzy
+#: index.md:58
+#, fuzzy, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**إضافة زر لتشغيل مقاطع فيديو اليوم في التسارع والمتابعة.** (شكرا لك [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:61
+#: index.md:62
 #, fuzzy, no-wrap
 msgid "20201214: versio 20.12.1:\n"
 msgstr "20201214: الإصدار 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:63
+#: index.md:64
 #, fuzzy, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**الهجرة إلى _python3_** (شكرا لك [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:67
+#: index.md:68
 #, fuzzy, no-wrap
 msgid "20201008: versio 20.10.0:\n"
 msgstr "20201008: الإصدار 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:69
+#: index.md:70
 #, fuzzy, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr "**إضافة النص _debian install_ لتسهيل التثبيت.**\n"
 
 #. type: Bullet: '* '
-#: index.md:73
+#: index.md:74
 #, fuzzy, no-wrap
 msgid "20200815: versio 20.8.0:\n"
 msgstr "20200815: الإصدار 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:75
+#: index.md:76
 #, fuzzy, no-wrap
 msgid "**plurlingva.**\n"
 msgstr "**متعدد اللغات.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:77
+#: index.md:78
 #, fuzzy, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr "_motioneye_ يتم تنفيذه بواسطة المستخدم _motion_ بشكل افتراضي (بدلاً من _root_).\n"
 
 #. type: Bullet: '* '
-#: index.md:81
-#, no-wrap
-#, fuzzy
+#: index.md:82
+#, fuzzy, no-wrap
 msgid "20200704: forko.\n"
 msgstr "20200704: شوكة.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Germana ( _Deutsch_ )\n"
+#~ msgstr "الألمانية ( _Deutsch_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Hispana ( _Español_ )\n"
+#~ msgstr "Hispana ( _Español_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Hinda ( _हिन्दी _ )\n"
+#~ msgstr ""
+#~ "يشير إلى ( _हिन्दी _ )\n"
+#~ "\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Itala ( _Italiano_ )\n"
+#~ msgstr "Itala ( _Italiano_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Japana ( _日本語_ )\n"
+#~ msgstr "اليابان ( _日本語_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Malaja ( _بهاس ملايو_ )\n"
+#~ msgstr "الملايو ( _بهاس ملايو_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+#~ msgstr ""
+#~ "البنجاب ( _ਪੰਜਾਬੀ _ )\n"
+#~ "\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Portugala ( _Português_ )\n"
+#~ msgstr "البرتغال ( _Português_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Rusa ( _русский язык_ )\n"
+#~ msgstr "الروسية ( _русский язык_ )\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Ĉina ( _中文_ )\n"
+#~ msgstr "الصينية ( _中文_ )\n"
 
 #~ msgid "auto"
 #~ msgstr "auto"
@@ -249,8 +303,12 @@ msgstr "20200704: شوكة.\n"
 #~ msgstr "العربية ( _العربية_ )\n"
 
 #, fuzzy
-#~ msgid "**aldono de butono por reprodukti la filmetojn de la tago en tempopaso kaj poste.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
-#~ msgstr "**إضافة زر لتشغيل مقاطع فيديو اليوم بمرور الوقت وما بعده.** (شكرا لك [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+#~ msgid ""
+#~ "**aldono de butono por reprodukti la filmetojn de la tago en tempopaso "
+#~ "kaj poste.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+#~ msgstr ""
+#~ "**إضافة زر لتشغيل مقاطع فيديو اليوم بمرور الوقت وما بعده.** (شكرا لك "
+#~ "[ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #, fuzzy
 #~ msgid "20200704: krucvojo.\n"
