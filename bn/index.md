@@ -82,7 +82,7 @@ title: ' _Motioneye.eo_ '
 * 20201214: সংস্করণ 20.12.1:
 
 
-  * **স্থানান্তর _python3_** (° 4 mig) আপনাকে ধন্যবাদ [ _Vlsarro_ ](https://github.com/Vlsarro) )।
+  * ** মাইগ্রেশন থেকে  _python3_**  ( ধন্যবাদ  [  _Vlsarro_  ](https://github.com/Vlsarro)  )। .
 
 
   *  _motioneye_এর পরিবর্তনগুলি অন্তর্ভুক্ত।
@@ -103,7 +103,7 @@ title: ' _Motioneye.eo_ '
   * **বহুভাষিক।**
 
 
-  * _motioneye_ ব্যবহারকারীর দ্বারা নির্বাহ _motion_ ডিফল্ট (° 5 instead) এর পরিবর্তে _root_)।
+  * _motioneye_  ব্যবহারকারী দ্বারা মৃত্যুদন্ড কার্যকর  _motion_  পরিবর্তে  _root_) এর পরিবর্তে  (। .
 
 
   *  _motioneye_এর পরিবর্তনগুলি অন্তর্ভুক্ত।

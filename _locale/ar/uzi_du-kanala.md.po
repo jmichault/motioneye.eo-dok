@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "استخدم كاميرا مزدوجة القناة"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "غالبًا ما تحتوي كاميرات IP على قناتين:\n"
 
@@ -68,15 +66,13 @@ msgstr "الثانية بدقة منخفضة.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "الدقة المنخفضة كافية لاكتشاف الحركات ، لذا فهذه هي القناة التي سنستخدمها بالضبط.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "من ناحية أخرى ، يفضل أن تكون مقاطع الفيديو المسجلة عالية الدقة. هذا متوقع في _motion_ ( إعداد _netcam hires_)، لكن ليس في _motioneye.eo_ .  \n"
 
@@ -88,8 +84,7 @@ msgstr "ومع ذلك ، قدمت Motioneye.eo المربع \"خيارات إض�
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "لذلك بالنسبة لهذا النوع من الكاميرا ، سنضع القناة ذات الدقة المنخفضة في خيار \"Peripheral\"، على سبيل المثال `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`، وسنضع في المربع \"إضافي خيارات\"القناة المميزة العالية ، على سبيل المثال:\n"
 
@@ -123,12 +118,21 @@ msgstr "ملاحظة: للأسف _motion_ لا تخطط لاستخدام دفق 
 #~ msgstr "غالبًا ما تحتوي كاميرات IP على قناتين:\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "الدقة المنخفضة كبيرة بما يكفي لاكتشاف الحركات ، لذا فهذه هي القناة التي سنستخدمها بالضبط.\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "الدقة المنخفضة كبيرة بما يكفي لاكتشاف الحركات ، لذا فهذه هي القناة التي "
+#~ "سنستخدمها بالضبط.\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "من ناحية أخرى ، يفضل الكتابة فوق مقاطع الفيديو المسجلة. هذا متوقع في الخيار _motion_ ( _netcam hires_)، لكن ليس في _motioneye.eo_ .  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "من ناحية أخرى ، يفضل الكتابة فوق مقاطع الفيديو المسجلة. هذا متوقع في "
+#~ "الخيار _motion_ ( _netcam hires_)، لكن ليس في _motioneye.eo_ .  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -142,8 +146,10 @@ msgstr "ملاحظة: للأسف _motion_ لا تخطط لاستخدام دفق 
 #~ "mot_de_passe@192.168.1.10/stream2`، وسنضع في المربع \"إضافي خيارات\"تيار "
 #~ "التمييز العالي ، على سبيل المثال:\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

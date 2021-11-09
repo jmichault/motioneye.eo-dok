@@ -64,3 +64,4 @@ msgstr ""
 "    sudo nano /etc/systemd/system/motioneye.service\n"
 "    sudo systemctl daemon-reload\n"
 "    sudo systemctl restart motioneye\n"
+

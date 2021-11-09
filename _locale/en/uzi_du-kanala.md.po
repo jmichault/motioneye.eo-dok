@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "Use a dual-channel camera"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "IP cameras often have two channels:\n"
 
@@ -68,15 +66,13 @@ msgstr "the second in low resolution.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "The low resolution is sufficient to detect movements, so this is exactly the channel we will use.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "On the other hand, it is preferable that the recorded videos are in high resolution. This is predicted in _motion_ ( setting _netcam hires_), but not in _motioneye.eo_ .  \n"
 
@@ -88,8 +84,7 @@ msgstr "However motioneye.eo provided the box \"Additional options\"for this cas
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "So for this type of camera, we will put the low resolution channel in the \"Peripheral\"option, for example `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, and we will put in the box \"Additional options\"the high distinguishing channel, for example:\n"
 
@@ -123,12 +118,22 @@ msgstr "Note: unfortunately _motion_ does not plan to use the high definition st
 #~ msgstr "IP cameras often have two channels:\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "The low resolution is large enough to detect movements, so this is exactly the channel we will use.\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "The low resolution is large enough to detect movements, so this is "
+#~ "exactly the channel we will use.\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "On the other hand, it is preferable that the recorded videos be overwritten. This is predicted in option _motion_ ( _netcam hires_), but not in _motioneye.eo_ .  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "On the other hand, it is preferable that the recorded videos be "
+#~ "overwritten. This is predicted in option _motion_ ( _netcam hires_), but "
+#~ "not in _motioneye.eo_ .  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -142,8 +147,10 @@ msgstr "Note: unfortunately _motion_ does not plan to use the high definition st
 #~ "mot_de_passe@192.168.1.10/stream2`, and we will put in the box "
 #~ "\"Additional options\"the high distinguishing current, for example:\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

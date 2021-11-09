@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "দ্বৈত চ্যানেল ক্যামেরা ব্যবহার করুন"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "আইপি ক্যামেরায় প্রায়শই দুটি চ্যানেল থাকে:\n"
 
@@ -68,15 +66,13 @@ msgstr "নিম্ন রেজোলিউশনে দ্বিতীয়�
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "নিম্নচিকিত্সার গতিবিধি সনাক্ত করতে যথেষ্ট, তাই এটি আমরা ব্যবহার করব এমন চ্যানেল।\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "অন্যদিকে, রেকর্ড করা ভিডিওগুলি উচ্চ রেজোলিউশনে রয়েছে এমনটি আরও ভাল। এটি _motion_ ( সেটিং _netcam hires_)এ পূর্বাভাস দেওয়া হয়েছে তবে এটি _motioneye.eo_ নয়।  \n"
 
@@ -88,8 +84,7 @@ msgstr "তবে মোজিএইইও এই কেসটির জন্�
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "সুতরাং এই ধরণের ক্যামেরার জন্য, আমরা নিম্ন রেজোলিউশন চ্যানেলটি \"পেরিফেরিয়াল\"বিকল্পে রাখব, উদাহরণস্বরূপ `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, এবং আমরা বাক্সে \"অতিরিক্ত রাখব বিকল্পগুলি\"উচ্চ বিশিষ্ট চ্যানেল, উদাহরণস্বরূপ:\n"
 
@@ -123,12 +118,21 @@ msgstr "দ্রষ্টব্য: দুর্ভাগ্যক্রমে 
 #~ msgstr "আইপি ক্যামেরায় প্রায়শই দুটি চ্যানেল থাকে:\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "নিম্ন রেজোলিউশনটি চলাচলগুলি সনাক্ত করতে যথেষ্ট বড়, তাই এটি আমরা ব্যবহার করব এমন চ্যানেল।\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "নিম্ন রেজোলিউশনটি চলাচলগুলি সনাক্ত করতে যথেষ্ট বড়, তাই এটি আমরা ব্যবহার করব "
+#~ "এমন চ্যানেল।\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "অন্যদিকে, রেকর্ড করা ভিডিওগুলি ওভাররাইট করা ভাল। এটি বিকল্পে _motion_ ( _netcam hires_)পূর্বাভাস দেওয়া হয়েছে তবে এটি _motioneye.eo_ নয়।  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "অন্যদিকে, রেকর্ড করা ভিডিওগুলি ওভাররাইট করা ভাল। এটি বিকল্পে _motion_ "
+#~ "( _netcam hires_)পূর্বাভাস দেওয়া হয়েছে তবে এটি _motioneye.eo_ নয়।  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -141,8 +145,10 @@ msgstr "দ্রষ্টব্য: দুর্ভাগ্যক্রমে 
 #~ "রাখব, উদাহরণস্বরূপ `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, "
 #~ "এবং আমরা বাক্সে \"অতিরিক্ত রাখব বিকল্পগুলি\"উচ্চ স্বতন্ত্র বর্তমান, উদাহরণস্বরূপ:\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

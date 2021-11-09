@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "デュアルチャンネルカメラを使用する"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "IPカメラには多くの場合2つのチャネルがあります：\n"
 
@@ -68,15 +66,13 @@ msgstr "低解像度の2番目。\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "動きを検出するには低解像度で十分なので、これがまさに使用するチャネルです。\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "他方、記録されたビデオは高解像度であることが好ましい。これは、 _motion_ ( 設定 _netcam hires_)では予測されますが、 _motioneye.eo_ では予測されません。  \n"
 
@@ -88,8 +84,7 @@ msgstr "ただし、motioneye.eoは、この場合のボックス \"追加オプ
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "したがって、このタイプのカメラでは、低解像度チャネルを \"周辺機器\"オプション（たとえば `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`）に配置し、ボックス \"に追加しますオプション\"高識別チャネル、例：\n"
 
@@ -123,12 +118,22 @@ msgstr "注：残念ながら _motion_ は、記録された画像に高解像�
 #~ msgstr "IPカメラには多くの場合2つのチャネルがあります：\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "低解像度は動きを検出するのに十分な大きさなので、これはまさに私たちが使用するチャネルです。\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "低解像度は動きを検出するのに十分な大きさなので、これはまさに私たちが使用す"
+#~ "るチャネルです。\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "一方、録画したビデオは上書きすることが望ましい。これはオプション _motion_ ( _netcam hires_)では予測されますが、 _motioneye.eo_ では予測されません。  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "一方、録画したビデオは上書きすることが望ましい。これはオプション _motion_ "
+#~ "( _netcam hires_)では予測されますが、 _motioneye.eo_ では予測されませ"
+#~ "ん。  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -141,8 +146,10 @@ msgstr "注：残念ながら _motion_ は、記録された画像に高解像�
 #~ "ン（たとえば `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`）に入"
 #~ "れ、ボックス \"に入れます追加オプション\"高識別電流、例：\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

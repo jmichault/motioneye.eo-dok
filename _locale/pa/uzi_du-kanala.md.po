@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "ਇੱਕ ਦੋਹਰਾ-ਚੈਨਲ ਕੈਮਰਾ ਵਰਤੋ"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "ਆਈਪੀ ਕੈਮਰੇ ਵਿੱਚ ਅਕਸਰ ਦੋ ਚੈਨਲ ਹੁੰਦੇ ਹਨ:\n"
 
@@ -68,15 +66,13 @@ msgstr "ਘੱਟ ਰੈਜ਼ੋਲੇਸ਼ਨ ਵਿਚ ਦੂਜਾ.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "ਘੱਟ ਰੈਜ਼ੋਲਿ movementsਸ਼ਨ ਅੰਦੋਲਨਾਂ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਕਾਫ਼ੀ ਹੈ, ਇਸ ਲਈ ਇਹ ਬਿਲਕੁਲ ਉਹ ਚੈਨਲ ਹੈ ਜੋ ਅਸੀਂ ਇਸਤੇਮਾਲ ਕਰਾਂਗੇ.\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "ਦੂਜੇ ਪਾਸੇ, ਇਹ ਵਧੀਆ ਹੈ ਕਿ ਰਿਕਾਰਡ ਕੀਤੇ ਵੀਡੀਓ ਉੱਚੇ ਰੈਜ਼ੋਲੇਸ਼ਨ ਵਿੱਚ ਹਨ. ਇਸ ਦੀ ਭਵਿੱਖਬਾਣੀ _motion_ ( ਸੈਟਿੰਗ _netcam hires_)ਵਿਚ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ _motioneye.eo_ ਵਿਚ ਨਹੀਂ.  \n"
 
@@ -88,8 +84,7 @@ msgstr "ਹਾਲਾਂਕਿ ਮੋਜ਼ੀਏ.ਈਓ ਨੇ ਇਸ ਕੇਸ 
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "ਇਸ ਕਿਸਮ ਦੇ ਕੈਮਰੇ ਲਈ, ਅਸੀਂ ਘੱਟ ਰੈਜ਼ੋਲਿ channelਸ਼ਨ ਚੈਨਲ ਨੂੰ \"ਪੈਰੀਫਿਰਲ\"ਵਿਕਲਪ ਵਿੱਚ ਪਾਵਾਂਗੇ, ਉਦਾਹਰਣ ਵਜੋਂ `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, ਅਤੇ ਅਸੀਂ ਬਾਕਸ ਵਿੱਚ ਪਾਵਾਂਗੇ \"ਵਾਧੂ ਚੋਣਾਂ\"ਉੱਚ ਵੱਖ ਕਰਨ ਵਾਲਾ ਚੈਨਲ, ਉਦਾਹਰਣ ਵਜੋਂ:\n"
 
@@ -123,12 +118,21 @@ msgstr "ਨੋਟ: ਬਦਕਿਸਮਤੀ ਨਾਲ _motion_ ਰਿਕਾਰ�
 #~ msgstr "ਆਈਪੀ ਕੈਮਰੇ ਵਿੱਚ ਅਕਸਰ ਦੋ ਚੈਨਲ ਹੁੰਦੇ ਹਨ:\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "ਅੰਦੋਲਨ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਘੱਟ ਰੈਜ਼ੋਲੇਸ਼ਨ ਕਾਫ਼ੀ ਵੱਡਾ ਹੈ, ਇਸ ਲਈ ਇਹ ਬਿਲਕੁਲ ਉਹ ਚੈਨਲ ਹੈ ਜੋ ਅਸੀਂ ਇਸਤੇਮਾਲ ਕਰਾਂਗੇ.\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "ਅੰਦੋਲਨ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਘੱਟ ਰੈਜ਼ੋਲੇਸ਼ਨ ਕਾਫ਼ੀ ਵੱਡਾ ਹੈ, ਇਸ ਲਈ ਇਹ ਬਿਲਕੁਲ ਉਹ ਚੈਨਲ ਹੈ ਜੋ ਅਸੀਂ "
+#~ "ਇਸਤੇਮਾਲ ਕਰਾਂਗੇ.\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "ਦੂਜੇ ਪਾਸੇ, ਇਹ ਬਿਹਤਰ ਹੈ ਕਿ ਰਿਕਾਰਡ ਕੀਤੇ ਵੀਡੀਓ ਨੂੰ ਮੁੜ ਲਿਖੋ. ਇਹ ਵਿਕਲਪ _motion_ ( _netcam hires_)ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ _motioneye.eo_ ਵਿੱਚ ਨਹੀਂ.  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "ਦੂਜੇ ਪਾਸੇ, ਇਹ ਬਿਹਤਰ ਹੈ ਕਿ ਰਿਕਾਰਡ ਕੀਤੇ ਵੀਡੀਓ ਨੂੰ ਮੁੜ ਲਿਖੋ. ਇਹ ਵਿਕਲਪ _motion_ "
+#~ "( _netcam hires_)ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ _motioneye.eo_ ਵਿੱਚ ਨਹੀਂ.  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -141,8 +145,10 @@ msgstr "ਨੋਟ: ਬਦਕਿਸਮਤੀ ਨਾਲ _motion_ ਰਿਕਾਰ�
 #~ "ਉਦਾਹਰਣ ਵਜੋਂ `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, ਅਤੇ ਅਸੀਂ "
 #~ "ਬਾਕਸ ਵਿੱਚ ਪਾਵਾਂਗੇ \"ਵਾਧੂ ਵਿਕਲਪ\"ਉੱਚ ਵੱਖ ਕਰਨ ਵਾਲਾ ਮੌਜੂਦਾ, ਉਦਾਹਰਣ ਵਜੋਂ:\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-25 21:12+0200\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,8 +66,7 @@ msgstr "これは、国際化が追加された [ _motionEye_ ](https://github.c
 
 #. type: Plain text
 #: index.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  \n"
 msgstr "Python3を使用しているため、 _debian buster_ と _debian bullseye_で動作します。  \n"
 
@@ -99,71 +98,65 @@ msgstr ""
 
 #. type: Bullet: '* '
 #: index.md:24
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "germana ( _Deutsch_ )\n"
 msgstr "ドイツ ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:26
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "hispana ( _Español_ )\n"
 msgstr "スペイン語 ( _Español_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:28
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "hinda ( _हिन्दी _ )\n"
-msgstr "ヒンディー語 ( _हिन्दी _ )\n\n"
+msgstr ""
+"ヒンディー語 ( _हिन्दी _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:31
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "itala ( _Italiano_ )\n"
 msgstr "イタリア ( _Italiano_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:33
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "japana ( _日本語_ )\n"
 msgstr "日本 ( _日本語_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:35
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "malaja ( _بهاس ملايو_ )\n"
 msgstr "マレー ( _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:37
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
-msgstr "Panjaba ( _ਪੰਜਾਬੀ _ )\n\n"
+msgstr ""
+"Panjaba ( _ਪੰਜਾਬੀ _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:40
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "portugala ( _Português_ )\n"
 msgstr "ポルトガル語 ( _Português_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:42
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "rusa ( _русский язык_ )\n"
 msgstr "ロシア ( _русский язык_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "ĉina ( _中文_ )\n"
 msgstr "中国語 ( _中文_ )\n"
 

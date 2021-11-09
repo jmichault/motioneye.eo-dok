@@ -103,5 +103,5 @@ msgid ""
 "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ "
 "](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en "
 "la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
-msgstr "_Motioneye.eo_ এখন পোর্ট 8765: (: 3 °)_http://localhost:8765/_ ](http://localhost:8765/) ( বা _http://IP_বা_nomo:8765/_ প্রাঙ্গনে অন্য স্টেশন থেকে অ্যাক্সেসযোগ্য নেটওয়ার্ক)। ডিফল্ট ব্যবহারকারী হ'ল _«admin»_, কোনও পাসওয়ার্ড ছাড়াই।\n"
+msgstr "_Motioneye.eo_  এখন পোর্ট 8765 এ অ্যাক্সেসযোগ্য:  [  _http://localhost:8765/_  ](http://localhost:8765/)  (  বা _nomo:8765/_  স্থানীয় নেটওয়ার্কের অন্য স্টেশন )। ডিফল্ট ব্যবহারকারী  _«admin»_, পাসওয়ার্ড ছাড়া। .\n"
 

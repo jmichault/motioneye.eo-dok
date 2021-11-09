@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-19 19:02+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,27 +34,6 @@ msgstr "Все сообщения"
 msgid "Elektu vian lingvon"
 msgstr "Выберите свой язык"
 
-#. type: Hash Value - Key: komentis
-#: >lang
-#, no-wrap
-#, fuzzy
-msgid "komentis:"
-msgstr "прокомментировал:"
-
-#. type: Hash Value - Key: komentoButono
-#: >lang
-#, no-wrap
-#, fuzzy
-msgid "Aldoni vian komenton (pri github)"
-msgstr "Добавить комментарий (на github)"
-
-#. type: Hash Value - Key: komentoj
-#: >lang
-#, no-wrap
-#, fuzzy
-msgid "Komentoj:"
-msgstr "Комментарии:"
-
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -63,8 +42,7 @@ msgstr "Прочтите эту страницу на другом языке"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "MotionEye.eo: plurlingva forko de motionEye."
 msgstr "MotionEye.eo: многоязычный форк motionEye."
 
@@ -82,8 +60,7 @@ msgstr "Взглянем"
 
 #. type: Hash Value - Key: rilatajAfisxoj
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Similaj Afiŝoj"
 msgstr "Похожие сообщения"
 
@@ -105,3 +82,14 @@ msgstr "MotionEye.eo"
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "Обратите внимание: эта страница была переведена автоматически. Если можете, прочтите его на одном из этих языков:"
 
+#, fuzzy
+#~ msgid "komentis:"
+#~ msgstr "прокомментировал:"
+
+#, fuzzy
+#~ msgid "Aldoni vian komenton (pri github)"
+#~ msgstr "Добавить комментарий (на github)"
+
+#, fuzzy
+#~ msgid "Komentoj:"
+#~ msgstr "Комментарии:"

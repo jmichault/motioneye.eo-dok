@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-25 21:10+0200\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,8 +66,7 @@ msgstr "এটি আন্তর্জাতিকীকরণ সংযোজ�
 
 #. type: Plain text
 #: index.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  \n"
 msgstr "এটি Python3 ব্যবহার করে, তাই এটি এ কাজ করে এবং _debian buster_ এবং _debian bullseye_।  \n"
 
@@ -99,71 +98,65 @@ msgstr ""
 
 #. type: Bullet: '* '
 #: index.md:24
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "germana ( _Deutsch_ )\n"
 msgstr "জার্মান ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:26
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "hispana ( _Español_ )\n"
 msgstr "স্প্যানিশ ( _Español_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:28
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "hinda ( _हिन्दी _ )\n"
-msgstr "হিন্দি ( _हिन्दी _ )\n\n"
+msgstr ""
+"হিন্দি ( _हिन्दी _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:31
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "itala ( _Italiano_ )\n"
 msgstr "ইতালীয় ( )\n"
 
 #. type: Bullet: '* '
 #: index.md:33
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "japana ( _日本語_ )\n"
 msgstr "জাপানি ( _日本語_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:35
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "malaja ( _بهاس ملايو_ )\n"
 msgstr "মালয় ( _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:37
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
-msgstr "পাঞ্জাবা ( _ਪੰਜਾਬੀ _ )\n\n"
+msgstr ""
+"পাঞ্জাবা ( _ਪੰਜਾਬੀ _ )\n"
+"\n"
 
 #. type: Bullet: '* '
 #: index.md:40
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "portugala ( _Português_ )\n"
 msgstr "পর্তুগিজ ( _Português_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:42
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "rusa ( _русский язык_ )\n"
 msgstr "রাশিয়ান ( _русский язык_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "ĉina ( _中文_ )\n"
 msgstr "চীনা ( _中文_ )\n"
 
@@ -211,9 +204,10 @@ msgstr "20201214: সংস্করণ 20.12.1:\n"
 
 #. type: Bullet: '  * '
 #: index.md:64
-#, fuzzy, no-wrap
+#, no-wrap
+#, fuzzy
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
-msgstr "**স্থানান্তর _python3_** (° 4 mig) আপনাকে ধন্যবাদ [ _Vlsarro_ ](https://github.com/Vlsarro) )।\n"
+msgstr "** মাইগ্রেশন থেকে  _python3_**  ( ধন্যবাদ  [  _Vlsarro_  ](https://github.com/Vlsarro)  )। .\n"
 
 #. type: Bullet: '* '
 #: index.md:68
@@ -241,9 +235,10 @@ msgstr "**বহুভাষিক।**\n"
 
 #. type: Bullet: '  * '
 #: index.md:78
-#, fuzzy, no-wrap
+#, no-wrap
+#, fuzzy
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
-msgstr "_motioneye_ ব্যবহারকারীর দ্বারা নির্বাহ _motion_ ডিফল্ট (° 5 instead) এর পরিবর্তে _root_)।\n"
+msgstr "_motioneye_  ব্যবহারকারী দ্বারা মৃত্যুদন্ড কার্যকর  _motion_  পরিবর্তে  _root_) এর পরিবর্তে  (। .\n"
 
 #. type: Bullet: '* '
 #: index.md:82

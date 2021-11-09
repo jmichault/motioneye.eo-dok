@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "दोहरे चैनल कैमरे का उपयोग करें"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "आईपी ​​कैमरों में अक्सर दो चैनल होते हैं:\n"
 
@@ -68,15 +66,13 @@ msgstr "कम संकल्प में दूसरा।\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "कम रिज़ॉल्यूशन आंदोलनों का पता लगाने के लिए पर्याप्त है, इसलिए यह वास्तव में चैनल है जिसका हम उपयोग करेंगे।\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "दूसरी ओर, यह बेहतर है कि रिकॉर्ड किए गए वीडियो उच्च रिज़ॉल्यूशन में हैं। इसमें _motion_ ( विकल्प _netcam hires_)की भविष्यवाणी की जाती है, लेकिन _motioneye.eo_ में नहीं।  \n"
 
@@ -88,8 +84,7 @@ msgstr "हालाँकि इस मामले के लिए मोश�
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "इसलिए इस प्रकार के कैमरे के लिए, हम निम्न रिज़ॉल्यूशन चैनल को \"पेरिफेरल\"विकल्प में रखेंगे, उदाहरण के लिए `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, और हम बॉक्स में डालेंगे \"अतिरिक्त विकल्प\"उच्च संकल्प चैनल, उदाहरण के लिए:\n"
 
@@ -123,12 +118,22 @@ msgstr "नोट: दुर्भाग्य से _motion_ रिकॉर�
 #~ msgstr "आईपी ​​कैमरों में अक्सर दो चैनल होते हैं:\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
-#~ msgstr "कम रिज़ॉल्यूशन आंदोलनों का पता लगाने के लिए पर्याप्त है, इसलिए यह वास्तव में चैनल है जिसका हम उपयोग करेंगे।\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
+#~ msgstr ""
+#~ "कम रिज़ॉल्यूशन आंदोलनों का पता लगाने के लिए पर्याप्त है, इसलिए यह वास्तव में चैनल है "
+#~ "जिसका हम उपयोग करेंगे।\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "दूसरी ओर, यह बेहतर है कि रिकॉर्ड किए गए वीडियो को ओवरराइट किया जाए। यह विकल्प _motion_ ( _netcam hires_)में भविष्यवाणी की जाती है, लेकिन _motioneye.eo_ में नहीं।  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "दूसरी ओर, यह बेहतर है कि रिकॉर्ड किए गए वीडियो को ओवरराइट किया जाए। यह विकल्प "
+#~ "_motion_ ( _netcam hires_)में भविष्यवाणी की जाती है, लेकिन _motioneye.eo_ में "
+#~ "नहीं।  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -141,8 +146,10 @@ msgstr "नोट: दुर्भाग्य से _motion_ रिकॉर�
 #~ "उदाहरण के लिए `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, और "
 #~ "हम बॉक्स में डालेंगे \"अतिरिक्त विकल्प\"उदाहरण के लिए, उच्च प्रतिष्ठित धारा:\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

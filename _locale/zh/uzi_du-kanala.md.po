@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-28 17:43+0100\n"
+"POT-Creation-Date: 2021-11-09 21:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,13 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: uzi_du-kanala.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Uzi dukanalan fotilon"
 msgstr "使用双通道相机"
 
 #. type: Plain text
 #: uzi_du-kanala.md:10
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "IP-kameraoj ofte havas du kanalojn:\n"
 msgstr "IP摄像机通常具有两个通道：\n"
 
@@ -68,15 +66,13 @@ msgstr "低分辨率的第二个。\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "La malalta distingivo estas sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
 msgstr "低分辨率足以检测运动，因此这正是我们将使用的通道。\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj estas en alta distingivo. Ĉi tio estas antaŭvidita en _motion_ ( opcio _netcam hires_), sed ne en _motioneye.eo_ .  \n"
 msgstr "另一方面，优选地，所记录的视频是高分辨率的。这是在 _motion_ ( 设置 _netcam hires_)中预测的，但不是在 _motioneye.eo_ 中预测的。  \n"
 
@@ -88,8 +84,7 @@ msgstr "但是，motioneye.eo提供了此框 \"的其他选项\"。\n"
 
 #. type: Plain text
 #: uzi_du-kanala.md:22
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Do por ĉi tiu tipo de kamerao, ni metos la malaltan distingivan kanalon en la \"Ekstercentra\" opcio, ekzemple `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`, kaj ni enmetos en la keston \"Pliaj opcioj\" la altan distingivan kanalon, ekzemple:\n"
 msgstr "因此，对于这种类型的相机，我们将低分辨率通道置于 \"外围\"选项中，例如 `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`，然后将其放入框 \"中。选项\"高分辨通道，例如：\n"
 
@@ -123,12 +118,19 @@ msgstr "注意：不幸的是 _motion_ 并不打算将高清流用于录制的�
 #~ msgstr "IP摄像机通常具有两个通道：\n"
 
 #, fuzzy
-#~ msgid "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste ĉi tiun kanalon ni uzos.\n"
+#~ msgid ""
+#~ "La malalta distingivo estas sufiĉe sufiĉa por detekti movadojn, do ĝuste "
+#~ "ĉi tiun kanalon ni uzos.\n"
 #~ msgstr "低分辨率足以检测到运动，因此这正是我们将使用的通道。\n"
 
 #, fuzzy
-#~ msgid "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en _motioneye.eo_ .  \n"
-#~ msgstr "另一方面，最好覆盖所记录的视频。这是在选项 _motion_ ( _netcam hires_)中预测的，但不是在 _motioneye.eo_ 中预测的。  \n"
+#~ msgid ""
+#~ "Aliflanke, estas preferinde, ke la registritaj filmetoj altrezolu. Ĉi tio "
+#~ "estas antaŭvidita en opcio _motion_ ( _netcam hires_), sed ne en "
+#~ "_motioneye.eo_ .  \n"
+#~ msgstr ""
+#~ "另一方面，最好覆盖所记录的视频。这是在选项 _motion_ ( _netcam hires_)中预"
+#~ "测的，但不是在 _motioneye.eo_ 中预测的。  \n"
 
 #, fuzzy
 #~ msgid ""
@@ -141,8 +143,10 @@ msgstr "注意：不幸的是 _motion_ 并不打算将高清流用于录制的�
 #~ "如 `rtsp://utilisateur:mot_de_passe@192.168.1.10/stream2`，然后将其放入框"
 #~ "中 \"选项\"高识别电流，例如：\n"
 
-#~ msgid "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
-#~ msgstr "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgid ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
+#~ msgstr ""
+#~ "netcam_highres rtsp://utilisateur:mot_de_passe@192.168.1.10/stream1\n"
 
 #, fuzzy
 #~ msgid ""

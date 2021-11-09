@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-07 23:22+0100\n"
+"POT-Creation-Date: 2021-11-09 21:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,9 +48,10 @@ msgstr "भाषा बदलें"
 
 #. type: Plain text
 #: sxangxi_la_lingvon.md:10
-#, fuzzy, no-wrap
+#, no-wrap
+#, fuzzy
 msgid "Se vi volas ke [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) uzas lingvon krom la defaŭltosistemo: modifu la dosieron _\"/etc/systemd/system/motioneye.service\"_ per komentado de la linio _\"#Environment=LANGUAGE=en\"_ (forigu la _\"#\"_ ) kaj anstataŭigu _\"en\"_ kun la dezirata lingvokodo.\n"
-msgstr "यदि आप चाहते हैं [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) डिफ़ॉल्ट प्रणाली के अलावा किसी अन्य भाषा का उपयोग करने के लिए: लाइन पर टिप्पणी करके फ़ाइल (° ६ °) को संशोधित करें (° १० °) (° १४ °) _\"#\"_ ) और वांछित भाषा कोड के साथ _\"en\"_ बदलें।\n"
+msgstr "यदि आप डिफ़ॉल्ट सिस्टम के अलावा  [  _Motioneye.eo_  ](https://github.com/jmichault/motioneye.eo)  भाषा का उपयोग करना चाहते हैं:  _\"#Environment=LANGUAGE=en\"_  (  _\"#\"_  )  को हटाकर  _\"#\"_  )  को हटाकर और  _\"en\"_  को टिप्पणी करके  _\"/etc/systemd/system/motioneye.service\"_  फ़ाइल को संशोधित करें वांछित भाषा कोडिंग। \n"
 
 #. type: Fenced code block (bash)
 #: sxangxi_la_lingvon.md:11

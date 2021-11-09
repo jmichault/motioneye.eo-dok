@@ -6,7 +6,7 @@ layout: page
 title: 'भाषा बदलें'
 ---
 
-यदि आप चाहते हैं [ _Motioneye.eo_ ](https://github.com/jmichault/motioneye.eo) डिफ़ॉल्ट प्रणाली के अलावा किसी अन्य भाषा का उपयोग करने के लिए: लाइन पर टिप्पणी करके फ़ाइल (° ६ °) को संशोधित करें (° १० °) (° १४ °) _"#"_ ) और वांछित भाषा कोड के साथ _"en"_ बदलें।
+यदि आप डिफ़ॉल्ट सिस्टम के अलावा  [  _Motioneye.eo_  ](https://github.com/jmichault/motioneye.eo)  भाषा का उपयोग करना चाहते हैं:  _"#Environment=LANGUAGE=en"_  (  _"#"_  )  को हटाकर  _"#"_  )  को हटाकर और  _"en"_  को टिप्पणी करके  _"/etc/systemd/system/motioneye.service"_  फ़ाइल को संशोधित करें वांछित भाषा कोडिंग। 
 
 ```bash
     sudo nano /etc/systemd/system/motioneye.service
