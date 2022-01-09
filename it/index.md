@@ -11,7 +11,17 @@ title: ' _Motioneye.eo_ '
 
 È una scissione di [ _motionEye_ ](https://github.com/ccrisan/motioneye) con l'aggiunta dell'internazionalizzazione.  
 Utilizza Python3, quindi funziona a e _debian buster_ e _debian bullseye_.  
-Le lingue supportate sono: francese, esperanto e inglese.
+Le lingue configurate sono:   
+
+* Francese  
+
+
+* Esperanto  
+
+
+* Inglese  
+
+
 
 Le seguenti lingue sono state tradotte tramite traduzione automatica e devono essere corrette:
 
@@ -60,6 +70,18 @@ Le seguenti lingue sono state tradotte tramite traduzione automatica e devono es
 
 
 # I principali cambiamenti dopo la biforcazione sono:
+
+* 20220109: Versione 22.1.5:  
+
+
+  * ** Amministrazione telecamera V4L **  
+
+
+  * ** è emesso da PYPI.org **  
+
+
+  * Installazione semplificata  
+
 
 * 20210207: versione 21.02.2:
 

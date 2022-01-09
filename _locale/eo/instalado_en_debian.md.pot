@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"POT-Creation-Date: 2022-01-09 14:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,82 +17,85 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "eo"
 msgstr ""
 
 #. type: YAML Front Matter: lang-niv
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "homa"
 msgstr ""
 
 #. type: YAML Front Matter: lang-ref
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "010-instalado"
 msgstr ""
 
 #. type: YAML Front Matter: layout
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "page"
 msgstr ""
 
 #. type: YAML Front Matter: title
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "Instalado sur _debian_"
 msgstr ""
 
 #. type: Plain text
-#: ./instalado_en_debian.md:10
-#, markdown-text, no-wrap
-msgid ""
-"Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii pri "
-"aliaj distribuoj _debian_.\n"
+#: instalado_en_debian.md:10
+#, no-wrap
+msgid "Ĉi tiu procedo estis testita en  _Raspbian bullseye_  kaj  _Debian bullseye_, sed devus labori pri aliaj distribuoj bazitaj sur  _debian_. \n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:11
-#, markdown-text, no-wrap
-msgid ""
-"Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia "
-"[dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
+#: instalado_en_debian.md:11
+#, no-wrap
+msgid "Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia [dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:14
-#, markdown-text, no-wrap
-msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
+#: instalado_en_debian.md:14
+#, no-wrap
+msgid "Instalu rekomendajn pakojn: \n"
+msgstr ""
+
+#. type: Fenced code block
+#: instalado_en_debian.md:16
+#, no-wrap
+msgid "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: instalado_en_debian.md:21
+#, no-wrap
+msgid "Instalu  _MotionEye.eo_ : \n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: ./instalado_en_debian.md:16
+#: instalado_en_debian.md:23
 #, no-wrap
-msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgid "sudo pip install motioneye.eo\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:21
-#, markdown-text, no-wrap
-msgid "komenci la instaladon:\n"
+#: instalado_en_debian.md:28
+#, no-wrap
+msgid "lanĉu la instaladon de dependecoj kaj la inicialigo de la sistemo: \n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: ./instalado_en_debian.md:23
+#: instalado_en_debian.md:30
 #, no-wrap
-msgid ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
+msgid "sudo motioneye_init\n"
 msgstr ""
 
 #. type: Plain text
-#: ./instalado_en_debian.md:29
-#, markdown-text, no-wrap
-msgid ""
-"_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ "
-"](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en "
-"la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
+#: instalado_en_debian.md:35
+#, no-wrap
+msgid "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
 msgstr ""

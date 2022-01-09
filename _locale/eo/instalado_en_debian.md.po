@@ -5,15 +5,16 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:18+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-09 13:25+0100\n"
+"PO-Revision-Date: 2022-01-09 13:52+0100\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: YAML Front Matter: lang
 #: instalado_en_debian.md:1
@@ -47,9 +48,12 @@ msgstr "Instalado sur _debian_"
 
 #. type: Plain text
 #: instalado_en_debian.md:10
-#, no-wrap
-msgid "Cette procédure a été testée sur _Raspbian buster_, mais devrait fonctionner sur d'autres distributions _debian_.\n"
-msgstr "Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii pri aliaj distribuoj _debian_.\n"
+msgid ""
+"Cette procédure a été testée sur _Raspbian bullseye_ et _Debian bullseye_, "
+"mais devrait fonctionner sur d'autres distributions basées sur _debian_.\n"
+msgstr ""
+"Ĉi tiu procedo estis testita en  _Raspbian bullseye_  kaj  _Debian "
+"bullseye_, sed devus labori pri aliaj distribuoj bazitaj sur  _debian_. \n"
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:11
@@ -60,33 +64,41 @@ msgstr "Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia [dokume
 #. type: Bullet: '* '
 #: instalado_en_debian.md:13
 #, no-wrap
-msgid "Récupérez les sources de _MotionEye.eo_ :\n"
-msgstr "Kolektu la fontojn de _MotionEye.eo_ :\n"
+msgid "Installez les paquets recommandés :\n"
+msgstr "Instalu rekomendajn pakojn: \n"
 
-#. type: Fenced code block (bash)
+#. type: Fenced code block
 #: instalado_en_debian.md:14
 #, no-wrap
-msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
-msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgid "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
+msgstr "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:19
 #, no-wrap
-msgid "lancez l'installation :\n"
-msgstr "komenci la instaladon:\n"
+msgid "Installez _MotionEye.eo_ :\n"
+msgstr "Instalu  _MotionEye.eo_ : \n"
 
 #. type: Fenced code block (bash)
 #: instalado_en_debian.md:20
 #, no-wrap
-msgid ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
-msgstr ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
+msgid "sudo pip install motioneye.eo\n"
+msgstr "sudo pip install motioneye.eo\n"
+
+#. type: Bullet: '* '
+#: instalado_en_debian.md:25
+#, no-wrap
+msgid "lancez l'installation des dépendances et l'initialisation du sytème :\n"
+msgstr "lanĉu la instaladon de dependecoj kaj la inicialigo de la sistemo: \n"
+
+#. type: Fenced code block (bash)
+#: instalado_en_debian.md:26
+#, no-wrap
+msgid "sudo motioneye_init\n"
+msgstr "sudo motioneye_init\n"
 
 #. type: Plain text
-#: instalado_en_debian.md:26
+#: instalado_en_debian.md:31
 #, no-wrap
 msgid "_Motioneye.eo_ est maintenant accessible sur le port 8765 : [ _http://localhost:8765/_ ](http://localhost:8765/) ( ou _http://IP_ou_nom:8765/_ depuis un autre poste du réseau local). L'utilisateur par défaut est _«admin»_, sans mot de passe.\n"
 msgstr "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"

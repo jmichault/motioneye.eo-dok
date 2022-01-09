@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:48+0100\n"
+"POT-Creation-Date: 2022-01-09 14:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,91 +17,113 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "eo"
 msgstr "pa"
 
 #. type: YAML Front Matter: lang-niv
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "010-instalado"
 msgstr "010-instalado"
 
 #. type: YAML Front Matter: layout
-#: ./instalado_en_debian.md:1
+#: instalado_en_debian.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./instalado_en_debian.md:1
-#, no-wrap
-#, fuzzy
+#: instalado_en_debian.md:1
+#, fuzzy, no-wrap
 msgid "Instalado sur _debian_"
 msgstr " _debian_ਤੇ ਸਥਾਪਨਾ"
 
 #. type: Plain text
-#: ./instalado_en_debian.md:10
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii pri "
-"aliaj distribuoj _debian_.\n"
-msgstr "ਇਸ ਪ੍ਰਕਿਰਿਆ ਦੀ ਜਾਂਚ _Raspbian buster_'ਤੇ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ ਹੋਰ ਡਿਸਟਰੀਬਿ .ਸ਼ਨਾਂ _debian_' ਤੇ ਕੰਮ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ.\n"
+#: instalado_en_debian.md:10
+#, fuzzy, no-wrap
+msgid "Ĉi tiu procedo estis testita en  _Raspbian bullseye_  kaj  _Debian bullseye_, sed devus labori pri aliaj distribuoj bazitaj sur  _debian_. \n"
+msgstr "ਇਸ ਵਿਧੀ ਨੂੰ   _Raspbian bullseye_   ਅਤੇ   _Debian bullseye_ ਵਿੱਚ ਟੈਸਟ ਕੀਤਾ ਗਿਆ ਸੀ, ਪਰ   _debian_ ਦੇ ਅਧਾਰ ਤੇ ਹੋਰ ਡਿਸਟ੍ਰੀਬਿ .ਸ਼ਨਾਂ ਤੇ ਕੰਮ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.  \n"
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:11
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia "
-"[dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
+#: instalado_en_debian.md:11
+#, fuzzy, no-wrap
+msgid "Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia [dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
 msgstr "ਜੇ _motioneye_ ਸਥਾਪਿਤ ਹੈ, ਤਾਂ ਇਸ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰੋ: ਇਸਦੇ [ਡੌਕੂਮੈਂਟੇਸ਼ਨ](https://github.com/ccrisan/motioneye/wiki)ਵੇਖੋ.  \n"
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:14
-#, markdown-text, no-wrap
-#, fuzzy
-msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
-msgstr " _MotionEye.eo_ ਦੇ ਸਰੋਤ ਇਕੱਤਰ ਕਰੋ:\n"
+#: instalado_en_debian.md:14
+#, fuzzy, no-wrap
+msgid "Instalu rekomendajn pakojn: \n"
+msgstr "ਸਿਫਾਰਸ ਕੀਤੇ ਪੈਕੇਜ ਸਥਾਪਿਤ ਕਰੋ:  \n"
 
-#. type: Fenced code block (bash)
-#: ./instalado_en_debian.md:16
+#. type: Fenced code block
+#: instalado_en_debian.md:16
 #, no-wrap
-msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
-msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgid "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
+msgstr "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
 
 #. type: Bullet: '* '
-#: ./instalado_en_debian.md:21
-#, markdown-text, no-wrap
-#, fuzzy
-msgid "komenci la instaladon:\n"
-msgstr "ਸਥਾਪਨਾ ਅਰੰਭ ਕਰੋ:\n"
+#: instalado_en_debian.md:21
+#, fuzzy, no-wrap
+msgid "Instalu  _MotionEye.eo_ : \n"
+msgstr "  _MotionEye.eo_ :  ਸਥਾਪਤ ਕਰੋ \n"
 
 #. type: Fenced code block (bash)
-#: ./instalado_en_debian.md:23
+#: instalado_en_debian.md:23
 #, no-wrap
-msgid ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
-msgstr ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
+msgid "sudo pip install motioneye.eo\n"
+msgstr "sudo pip install motioneye.eo\n"
+
+#. type: Bullet: '* '
+#: instalado_en_debian.md:28
+#, fuzzy, no-wrap
+msgid "lanĉu la instaladon de dependecoj kaj la inicialigo de la sistemo: \n"
+msgstr "ਨਿਰਭਰਤਾ ਦੀ ਸਥਾਪਨਾ ਅਤੇ ਸਿਸਟਮ ਦੀ ਸ਼ੁਰੂਆਤ ਸ਼ੁਰੂ ਕਰੋ:  \n"
+
+#. type: Fenced code block (bash)
+#: instalado_en_debian.md:30
+#, no-wrap
+msgid "sudo motioneye_init\n"
+msgstr "sudo motioneye_init\n"
 
 #. type: Plain text
-#: ./instalado_en_debian.md:29
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ "
-"](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en "
-"la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
+#: instalado_en_debian.md:35
+#, fuzzy, no-wrap
+msgid "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
 msgstr "_Motioneye.eo_ ਹੁਣ ਪੋਰਟ 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( ਜਾਂ _http://IP_ਜਾਂ_nomo:8765/_ ਦੇ ਅਹਾਤੇ ਦੇ ਕਿਸੇ ਹੋਰ ਸਟੇਸ਼ਨ ਤੋਂ ਪਹੁੰਚਯੋਗ ਹੈ. ਨੈੱਟਵਰਕ). ਮੂਲ ਉਪਭੋਗਤਾ _«admin»_ਬਿਨਾਂ ਪਾਸਵਰਡ ਤੋਂ ਹੁੰਦਾ ਹੈ.\n"
 
+#, fuzzy
+#~ msgid ""
+#~ "Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii "
+#~ "pri aliaj distribuoj _debian_.\n"
+#~ msgstr ""
+#~ "ਇਸ ਪ੍ਰਕਿਰਿਆ ਦੀ ਜਾਂਚ _Raspbian buster_'ਤੇ ਕੀਤੀ ਗਈ ਹੈ, ਪਰ ਹੋਰ ਡਿਸਟਰੀਬਿ .ਸ਼ਨਾਂ "
+#~ "_debian_' ਤੇ ਕੰਮ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ.\n"
+
+#, fuzzy
+#~ msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
+#~ msgstr " _MotionEye.eo_ ਦੇ ਸਰੋਤ ਇਕੱਤਰ ਕਰੋ:\n"
+
+#, no-wrap
+#~ msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
+#~ msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
+
+#, fuzzy
+#~ msgid "komenci la instaladon:\n"
+#~ msgstr "ਸਥਾਪਨਾ ਅਰੰਭ ਕਰੋ:\n"
+
+#, no-wrap
+#~ msgid ""
+#~ "cd motioneye.eo\n"
+#~ "sudo ./debian_install\n"
+#~ msgstr ""
+#~ "cd motioneye.eo\n"
+#~ "sudo ./debian_install\n"

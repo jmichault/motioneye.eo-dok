@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-25 19:25+0200\n"
+"POT-Creation-Date: 2022-01-09 13:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,167 +73,209 @@ msgstr ""
 #. type: Plain text
 #: index.md:15
 #, no-wrap
-msgid "Les langues prises en charge sont : le français, l'espéranto et l'anglais.\n"
+msgid "Les langues prises en charge sont : \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:19
+#, no-wrap
+msgid "le français\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:19
+#, no-wrap
+msgid "l'espéranto\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:19
+#, no-wrap
+msgid "l'anglais\n"
 msgstr ""
 
 #. type: Plain text
-#: index.md:17
+#: index.md:21
 #, no-wrap
 msgid "Les langues suivantes ont été traduites par une traduction automatique et ont besoin d'être corrigées :\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "arabe ( _العربية_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "bengali ( _বাংলা _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "allemand ( _Deutsch_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "espagnol ( _Español_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "hindi ( _हिन्दी _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "italien ( _Italiano_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "japonais ( _日本語_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "malais ( _بهاس ملايو_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "pendjabi ( _ਪੰਜਾਬੀ _ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "portugais ( _Português_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "russe ( _русский язык_ )\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:30
+#: index.md:34
 #, no-wrap
 msgid "chinois ( _中文_ )\n"
 msgstr ""
 
 #. type: Title #
-#: index.md:32
+#: index.md:36
 #, no-wrap
 msgid "Les principaux changements depuis la bifurcation sont :"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
+#, no-wrap
+msgid "20220109 : version 22.1.5 :\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, no-wrap
+msgid "**correction de la gestion des caméras v4l**\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, no-wrap
+msgid "**diffusion sur pypi.org**\n"
+msgstr ""
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, no-wrap
+msgid "installation simplifiée\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: index.md:59
 #, no-wrap
 msgid "20210207 : version 21.02.2 :\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "incorporation des changements de _motioneye_.\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "20210115 : version 21.01.1 :\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "**ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "20201214 : version 20.12.1 :\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "**migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "20201008 : version 20.10.0 :\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "**ajout du script _debian install_ pour faciliter l'installation.**\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "20200815 : version 20.8.0 :\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "**multilangage.**\n"
 msgstr ""
 
 #. type: Bullet: '  * '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "_motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).\n"
 msgstr ""
 
 #. type: Bullet: '* '
-#: index.md:51
+#: index.md:59
 #, no-wrap
 msgid "20200704 : bifurcation.\n"
 msgstr ""

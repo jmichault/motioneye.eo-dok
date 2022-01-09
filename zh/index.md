@@ -11,7 +11,17 @@ title: ' _Motioneye.eo_ '
 
 它是 [ _motionEye_ ](https://github.com/ccrisan/motioneye) 的一部分，并附加了国际化功能。  
 它使用Python3，因此它适用于 _debian buster_ 和 _debian bullseye_。  
-支持的语言是：法语，世界语和英语。
+配置的语言是：  
+
+* 法国人 
+
+
+* esperanto  
+
+
+* 英语 
+
+
 
 下列语言已通过机器翻译翻译，必须更正：
 
@@ -60,6 +70,18 @@ title: ' _Motioneye.eo_ '
 
 
 # 分叉后的主要变化是：
+
+* 20220109：版本22.1.5： 
+
+
+  * **摄像机管理V4L **  
+
+
+  * **由pypi.org **  发出
+
+
+  * 简化安装 
+
 
 * 20210207：版本21.02.2：
 

@@ -9,10 +9,7 @@ title: Ĝisdatigo
 Malfermu terminalon sur la _raspberry_, kaj lanĉu la jenajn komandojn: 
 
 ```bash
-    cd motioneye.eo
-    git pull
     sudo systemctl stop motioneye
-    sudo pip3 install .
+    sudo pip install motioneye.eo --upgrade
     sudo systemctl start motioneye
 ```
-(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon de via uzanto).

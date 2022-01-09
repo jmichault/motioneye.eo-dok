@@ -6,26 +6,33 @@ layout: page
 title: 'Installazione su _debian_'
 ---
 
-Questa procedura è stata testata su _Raspbian buster_, ma deve funzionare su altre distribuzioni _debian_.
+Questa procedura è stata testata in   _Raspbian bullseye_   e   _Debian bullseye_, ma dovrebbe funzionare su altre distribuzioni basate su   _debian_. . 
 
 * Se è installato _motioneye_ , disinstallarlo: fare riferimento alla relativa documentazione [](https://github.com/ccrisan/motioneye/wiki).  
 
 
-* Raccogliere le sorgenti di _MotionEye.eo_ :
+* Installare i pacchetti raccomandati:  
 
 
 
-```bash
-git clone https://github.com/jmichault/motioneye.eo.git
+```
+sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3
 ```
 
-* inizio installazione:
+* Installa   _MotionEye.eo_ :  
 
 
 
 ```bash
-cd motioneye.eo
-sudo ./debian_install
+sudo pip install motioneye.eo
+```
+
+* Avviare l'installazione delle affannie e l'inizializzazione del sistema:  
+
+
+
+```bash
+sudo motioneye_init
 ```
 
 _Motioneye.eo_ è ora accessibile alla porta 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( o _http://IP_o_nomo:8765/_ da un'altra stazione nei locali rete). L'utente predefinito è _«admin»_, senza password.

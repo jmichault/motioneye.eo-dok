@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:18+0100\n"
+"POT-Creation-Date: 2022-01-09 13:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgstr ""
 #. type: Plain text
 #: instalado_en_debian.md:10
 #, no-wrap
-msgid "Cette procédure a été testée sur _Raspbian buster_, mais devrait fonctionner sur d'autres distributions _debian_.\n"
+msgid "Cette procédure a été testée sur _Raspbian bullseye_ et _Debian bullseye_, mais devrait fonctionner sur d'autres distributions basées sur _debian_.\n"
 msgstr ""
 
 #. type: Bullet: '* '
@@ -61,31 +61,41 @@ msgstr ""
 #. type: Bullet: '* '
 #: instalado_en_debian.md:13
 #, no-wrap
-msgid "Récupérez les sources de _MotionEye.eo_ :\n"
+msgid "Installez les paquets recommandés :\n"
 msgstr ""
 
-#. type: Fenced code block (bash)
+#. type: Fenced code block
 #: instalado_en_debian.md:14
 #, no-wrap
-msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
+msgid "sudo apt-get install python3-tornado python3-jinja2 python3-pillow python3-pycurl python3-babel python3-numpy python3-boto3\n"
 msgstr ""
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:19
 #, no-wrap
-msgid "lancez l'installation :\n"
+msgid "Installez _MotionEye.eo_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
 #: instalado_en_debian.md:20
 #, no-wrap
-msgid ""
-"cd motioneye.eo\n"
-"sudo ./debian_install\n"
+msgid "sudo pip install motioneye.eo\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: instalado_en_debian.md:25
+#, no-wrap
+msgid "lancez l'installation des dépendances et l'initialisation du sytème :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: instalado_en_debian.md:26
+#, no-wrap
+msgid "sudo motioneye_init\n"
 msgstr ""
 
 #. type: Plain text
-#: instalado_en_debian.md:26
+#: instalado_en_debian.md:31
 #, no-wrap
 msgid "_Motioneye.eo_ est maintenant accessible sur le port 8765 : [ _http://localhost:8765/_ ](http://localhost:8765/) ( ou _http://IP_ou_nom:8765/_ depuis un autre poste du réseau local). L'utilisateur par défaut est _«admin»_, sans mot de passe.\n"
 msgstr ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 18:18+0100\n"
+"POT-Creation-Date: 2022-01-09 13:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,20 +55,10 @@ msgstr "Malfermu terminalon sur la _raspberry_, kaj lanĉu la jenajn komandojn: 
 #: gxisdatigi.md:11
 #, no-wrap
 msgid ""
-"    cd motioneye.eo\n"
-"    git pull\n"
 "    sudo systemctl stop motioneye\n"
-"    sudo pip3 install .\n"
+"    sudo pip install motioneye.eo --upgrade\n"
 "    sudo systemctl start motioneye\n"
 msgstr ""
-"    cd motioneye.eo\n"
-"    git pull\n"
 "    sudo systemctl stop motioneye\n"
-"    sudo pip3 install .\n"
+"    sudo pip install motioneye.eo --upgrade\n"
 "    sudo systemctl start motioneye\n"
-
-#. type: Plain text
-#: gxisdatigi.md:18
-#, no-wrap
-msgid "(Remplacez _motioneye.eo_ sur la première ligne par le répertoire dans lequel se trouvent les sources, si vous ne les avez pas déposées directement dans le dossier de travail de votre utilisateur).\n"
-msgstr "(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon de via uzanto).\n"

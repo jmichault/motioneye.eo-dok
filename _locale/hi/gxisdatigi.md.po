@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-23 18:46+0100\n"
+"POT-Creation-Date: 2022-01-09 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,66 +17,72 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./gxisdatigi.md:1
+#: gxisdatigi.md:1
 #, no-wrap
 msgid "eo"
 msgstr "hi"
 
 #. type: YAML Front Matter: lang-niv
-#: ./gxisdatigi.md:1
+#: gxisdatigi.md:1
 #, no-wrap
 msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./gxisdatigi.md:1
+#: gxisdatigi.md:1
 #, no-wrap
 msgid "030-gxisdatigi"
 msgstr "030-gxisdatigi"
 
 #. type: YAML Front Matter: layout
-#: ./gxisdatigi.md:1
+#: gxisdatigi.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./gxisdatigi.md:1
-#, no-wrap
-#, fuzzy
+#: gxisdatigi.md:1
+#, fuzzy, no-wrap
 msgid "Ĝisdatigo"
 msgstr "अपडेट करें"
 
 #. type: Plain text
-#: ./gxisdatigi.md:10
-#, markdown-text, no-wrap
-#, fuzzy
+#: gxisdatigi.md:10
+#, fuzzy, no-wrap
 msgid "Malfermu terminalon sur la _raspberry_, kaj lanĉu la jenajn komandojn: \n"
 msgstr " _raspberry_पर एक टर्मिनल खोलें, और निम्नलिखित कमांड चलाएं: \n"
 
 #. type: Fenced code block (bash)
-#: ./gxisdatigi.md:11
+#: gxisdatigi.md:11
 #, no-wrap
 msgid ""
-"    cd motioneye.eo\n"
-"    git pull\n"
 "    sudo systemctl stop motioneye\n"
-"    sudo pip3 install .\n"
+"    sudo pip install motioneye.eo --upgrade\n"
 "    sudo systemctl start motioneye\n"
 msgstr ""
-"    cd motioneye.eo\n"
-"    git pull\n"
 "    sudo systemctl stop motioneye\n"
-"    sudo pip3 install .\n"
+"    sudo pip install motioneye.eo --upgrade\n"
 "    sudo systemctl start motioneye\n"
 
-#. type: Plain text
-#: ./gxisdatigi.md:18
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu "
-"troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon de "
-"via uzanto).\n"
-msgstr "(फ़ोल्डर के साथ पहली पंक्ति पर _motioneye.eo_ बदलें जिसमें स्रोत स्थित हैं यदि आपने उन्हें सीधे अपने उपयोगकर्ता के कार्य निर्देशिका)में नहीं रखा है।\n"
+#, no-wrap
+#~ msgid ""
+#~ "    cd motioneye.eo\n"
+#~ "    git pull\n"
+#~ "    sudo systemctl stop motioneye\n"
+#~ "    sudo pip3 install .\n"
+#~ "    sudo systemctl start motioneye\n"
+#~ msgstr ""
+#~ "    cd motioneye.eo\n"
+#~ "    git pull\n"
+#~ "    sudo systemctl stop motioneye\n"
+#~ "    sudo pip3 install .\n"
+#~ "    sudo systemctl start motioneye\n"
 
+#, fuzzy
+#~ msgid ""
+#~ "(Anstataŭigu _motioneye.eo_ sur la unua linio per la dosierujo en kiu "
+#~ "troviĝas la fontoj, se vi ne metis ilin rekte en la funkcian dosierujon "
+#~ "de via uzanto).\n"
+#~ msgstr ""
+#~ "(फ़ोल्डर के साथ पहली पंक्ति पर _motioneye.eo_ बदलें जिसमें स्रोत स्थित हैं यदि आपने उन्हें "
+#~ "सीधे अपने उपयोगकर्ता के कार्य निर्देशिका)में नहीं रखा है।\n"

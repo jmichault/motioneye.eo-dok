@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-09 21:32+0100\n"
+"POT-Creation-Date: 2022-01-09 14:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,25 +71,43 @@ msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bul
 msgstr "ਇਹ ਪਾਈਥਨ 3 ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ, ਇਸ ਲਈ ਇਹ ਕੰਮ ਕਰਦਾ ਹੈ ਅਤੇ _debian buster_ ਅਤੇ _debian bullseye_.  \n"
 
 #. type: Plain text
-#: index.md:15
+#: index.md:14
 #, fuzzy, no-wrap
-msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
-msgstr "ਸਮਰਥਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ: ਫ੍ਰੈਂਚ, ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਅੰਗਰੇਜ਼ੀ.\n"
+msgid "La agorditaj lingvoj estas:  \n"
+msgstr "ਸੰਰਚਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ:   \n"
+
+#. type: Bullet: '* '
+#: index.md:17
+#, fuzzy, no-wrap
+msgid "franca \n"
+msgstr "ਫ੍ਰੈਂਚ  \n"
+
+#. type: Bullet: '* '
+#: index.md:19
+#, fuzzy, no-wrap
+msgid "esperanto \n"
+msgstr "ਐਸਪੇਰਾਂਤੋ  \n"
+
+#. type: Bullet: '* '
+#: index.md:21
+#, fuzzy, no-wrap
+msgid "angla \n"
+msgstr "ਅੰਗਰੇਜ਼ੀ  \n"
 
 #. type: Plain text
-#: index.md:17
+#: index.md:24
 #, fuzzy, no-wrap
 msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 msgstr "ਹੇਠ ਲਿਖੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਅਨੁਵਾਦ ਮਸ਼ੀਨ ਅਨੁਵਾਦ ਦੁਆਰਾ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਸਹੀ ਕੀਤਾ ਜਾਣਾ ਲਾਜ਼ਮੀ ਹੈ:\n"
 
 #. type: Bullet: '* '
-#: index.md:19
+#: index.md:26
 #, fuzzy, no-wrap
 msgid "araba ( _العربية_ )\n"
 msgstr "ਅਰਬੀ ( _العربية_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:21
+#: index.md:28
 #, fuzzy, no-wrap
 msgid "bengala ( _বাংলা _ )\n"
 msgstr ""
@@ -97,19 +115,19 @@ msgstr ""
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:24
+#: index.md:31
 #, fuzzy, no-wrap
 msgid "germana ( _Deutsch_ )\n"
 msgstr "ਜਰਮਨ ( (10 2)))\n"
 
 #. type: Bullet: '* '
-#: index.md:26
+#: index.md:33
 #, fuzzy, no-wrap
 msgid "hispana ( _Español_ )\n"
 msgstr "ਸਪੈਨਿਸ਼ ( _Español_ _Español_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:28
+#: index.md:35
 #, fuzzy, no-wrap
 msgid "hinda ( _हिन्दी _ )\n"
 msgstr ""
@@ -117,130 +135,158 @@ msgstr ""
 "\n"
 
 #. type: Bullet: '* '
-#: index.md:31
+#: index.md:38
 #, fuzzy, no-wrap
 msgid "itala ( _Italiano_ )\n"
 msgstr "ਇਤਾਲਵੀ ( _Italiano_ _Italiano_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:33
+#: index.md:40
 #, fuzzy, no-wrap
 msgid "japana ( _日本語_ )\n"
 msgstr "ਜਪਾਨੀ (  ( _日本語_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:35
+#: index.md:42
 #, fuzzy, no-wrap
 msgid "malaja ( _بهاس ملايو_ )\n"
 msgstr "ਮਾਲੇਈ ( _بهاس ملايو_ _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:37
+#: index.md:44
 #, fuzzy, no-wrap
 msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
 msgstr "ਪੰਜਾਬੀ (  ( \n"
 
 #. type: Bullet: '* '
-#: index.md:40
+#: index.md:47
 #, fuzzy, no-wrap
 msgid "portugala ( _Português_ )\n"
 msgstr "ਪੁਰਤਗਾਲੀ ( _Português_ _Português_ ))\n"
 
 #. type: Bullet: '* '
-#: index.md:42
+#: index.md:49
 #, fuzzy, no-wrap
 msgid "rusa ( _русский язык_ )\n"
 msgstr "ਰੂਸੀ (  ( _русский язык_ _русский язык_ )\n"
 
 #. type: Bullet: '* '
-#: index.md:44
+#: index.md:51
 #, fuzzy, no-wrap
 msgid "ĉina ( _中文_ )\n"
 msgstr "ਚੀਨੀ ( _中文_ _中文_ )\n"
 
 #. type: Title #
-#: index.md:47
+#: index.md:54
 #, fuzzy, no-wrap
 msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 msgstr "ਵਿਭਾਜਨ ਤੋਂ ਬਾਅਦ ਮੁੱਖ ਬਦਲਾਅ ਇਹ ਹਨ:"
 
 #. type: Bullet: '* '
-#: index.md:50
+#: index.md:57
+#, fuzzy, no-wrap
+msgid "20220109: Versio 22.1.5: \n"
+msgstr "20220109: ਵਰਜਨ 22.1.5:  \n"
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, fuzzy, no-wrap
+msgid "**fotila administrado v4l** \n"
+msgstr "** ਕੈਮਰਾ ਪ੍ਰਬੰਧਨ V4L **  \n"
+
+#. type: Bullet: '  * '
+#: index.md:61
+#, fuzzy, no-wrap
+msgid "**elsendas per Pypi.org** \n"
+msgstr "** ਪਾਈਪੀਆਈ.ਆਰ.ਓ. **   ਦੁਆਰਾ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਹੈ\n"
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, fuzzy, no-wrap
+msgid "Simpligita instalado \n"
+msgstr "ਸਰਲੀਕ੍ਰਿਤ ਇੰਸਟਾਲੇਸ਼ਨ  \n"
+
+#. type: Bullet: '* '
+#: index.md:65
 #, fuzzy, no-wrap
 msgid "20210207: versio 21.02.2:\n"
 msgstr "20210207: ਸੰਸਕਰਣ 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:52
+#: index.md:67
 #, fuzzy, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "ਪੇਸ਼ਕਾਰੀ ਲਈ ਕੁਝ ਜਾਵਾ ਸਕ੍ਰਿਪਟਾਂ ਦੇ modeੰਗ ਵਿੱਚ _async_ . (ਧੰਨਵਾਦ [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:54 index.md:60 index.md:66 index.md:72 index.md:80
+#: index.md:69 index.md:75 index.md:81 index.md:87 index.md:95
 #, fuzzy, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr " _motioneye_ਦੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨਾ.\n"
 
 #. type: Bullet: '* '
-#: index.md:56
+#: index.md:71
 #, fuzzy, no-wrap
 msgid "20210115: versio 21.01.1:\n"
 msgstr "20210115: ਸੰਸਕਰਣ 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:58
+#: index.md:73
 #, fuzzy, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**ਦਿਨ ਦੇ ਵੀਡੀਓ ਤੇਜ਼ ਕਰਨ ਅਤੇ ਹੇਠ ਲਿਖਣ ਲਈ ਇੱਕ ਬਟਨ ਦਾ ਜੋੜ.** (ਤੁਹਾਡਾ ਧੰਨਵਾਦ [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:62
+#: index.md:77
 #, fuzzy, no-wrap
 msgid "20201214: versio 20.12.1:\n"
 msgstr "20201214: ਸੰਸਕਰਣ 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:64
+#: index.md:79
 #, fuzzy, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**ਮਾਈਗ੍ਰੇਸ਼ਨ _python3_** (ਧੰਨਵਾਦ [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:68
+#: index.md:83
 #, fuzzy, no-wrap
 msgid "20201008: versio 20.10.0:\n"
 msgstr "20201008: ਸੰਸਕਰਣ 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:70
+#: index.md:85
 #, fuzzy, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr "**ਸਕ੍ਰਿਪਟ ਦਾ ਜੋੜ _debian install_ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਸਹੂਲਤ ਲਈ.**\n"
 
 #. type: Bullet: '* '
-#: index.md:74
+#: index.md:89
 #, fuzzy, no-wrap
 msgid "20200815: versio 20.8.0:\n"
 msgstr "20200815: ਸੰਸਕਰਣ 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:76
+#: index.md:91
 #, fuzzy, no-wrap
 msgid "**plurlingva.**\n"
 msgstr "**ਬਹੁਭਾਸ਼ਾਈ.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:78
+#: index.md:93
 #, fuzzy, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr "_motioneye_ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਚਲਾਇਆ ਗਿਆ _motion_ ਮੂਲ ਰੂਪ ਵਿੱਚ ( _root_)ਦੀ ਬਜਾਏ.\n"
 
 #. type: Bullet: '* '
-#: index.md:82
+#: index.md:97
 #, fuzzy, no-wrap
 msgid "20200704: forko.\n"
 msgstr "20200704: ਕਾਂਟਾ.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
+#~ msgstr "ਸਮਰਥਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ: ਫ੍ਰੈਂਚ, ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਅੰਗਰੇਜ਼ੀ.\n"
 
 #, fuzzy, no-wrap
 #~ msgid "Germana ( _Deutsch_ )\n"

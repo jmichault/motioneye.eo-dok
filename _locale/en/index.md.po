@@ -3,18 +3,18 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-09 21:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-09 14:24+0100\n"
+"PO-Revision-Date: 2022-01-09 14:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: YAML Front Matter: lang
 #: index.md:1
@@ -42,207 +42,247 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
-#, fuzzy, no-wrap
+#, no-wrap
 msgid " _Motioneye.eo_ "
 msgstr " _Motioneye.eo_ "
 
 #. type: Title #
 #: index.md:8
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Kio estas [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
-msgstr "What is [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) "
+msgstr "What is [ _MotionEye.eo_ ](https://github.com/jmichault/motioneye.eo) ?"
 
 #. type: Plain text
 #: index.md:11
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) estas interreta interfaco por la programaro [ _motion_ ](https://motion-project.github.io/), videovigila programo kun movado-detekto.\n"
-msgstr "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) is an Internet interface for the software [ _motion_ ](https://motion-project.github.io/), a video surveillance program with motion detection.\n"
+msgstr "[ _motionEye.eo_ ](https://github.com/jmichault/motioneye.eo) is an Internet interface for the software [ _motion_ ](https://motion-project.github.io/), a video surveillance software with motion detection.\n"
 
 #. type: Plain text
 #: index.md:12
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Ĝi estas forkiĝo de [ _motionEye_ ](https://github.com/ccrisan/motioneye) kun aldono de internaciigo.  \n"
-msgstr "It is a split of [ _motionEye_ ](https://github.com/ccrisan/motioneye) with the addition of internationalization.  \n"
+msgstr "It's a fork of [ _motionEye_ ](https://github.com/ccrisan/motioneye) with the addition of internationalization.  \n"
 
 #. type: Plain text
 #: index.md:13
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bullseye_.  \n"
-msgstr "  \n"
+msgstr " It uses Python3, so it works on both _debian Buster_ and _debian Bullseye_. \n"
 
 #. type: Plain text
-#: index.md:15
-#, fuzzy, no-wrap
-msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
-msgstr "The supported languages ​​are: French, Esperanto and English.\n"
+#: index.md:14
+#, no-wrap
+msgid "La agorditaj lingvoj estas:  \n"
+msgstr "The configured languages are:   \n"
 
-#. type: Plain text
+#. type: Bullet: '* '
 #: index.md:17
-#, fuzzy, no-wrap
+#, no-wrap
+msgid "franca \n"
+msgstr "french  \n"
+
+#. type: Bullet: '* '
+#: index.md:19
+#, no-wrap
+msgid "esperanto \n"
+msgstr "esperanto  \n"
+
+#. type: Bullet: '* '
+#: index.md:21
+#, no-wrap
+msgid "angla \n"
+msgstr "english  \n"
+
+#. type: Plain text
+#: index.md:24
+#, no-wrap
 msgid "La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj:\n"
 msgstr "The following languages ​​have been translated by machine translation and must be corrected:\n"
 
 #. type: Bullet: '* '
-#: index.md:19
-#, fuzzy, no-wrap
-msgid "araba ( _العربية_ )\n"
-msgstr "Arabic ( _العربية_ )\n"
-
-#. type: Bullet: '* '
-#: index.md:21
-#, fuzzy, no-wrap
-msgid "bengala ( _বাংলা _ )\n"
-msgstr ""
-"Bengal ( _বাংলা _ )\n"
-"\n"
-
-#. type: Bullet: '* '
-#: index.md:24
-#, fuzzy, no-wrap
-msgid "germana ( _Deutsch_ )\n"
-msgstr "German ( _Deutsch_ )\n"
-
-#. type: Bullet: '* '
 #: index.md:26
-#, fuzzy, no-wrap
-msgid "hispana ( _Español_ )\n"
-msgstr "Spanish ( _Español_ )\n"
+#, no-wrap
+msgid "araba ( _العربية_ )\n"
+msgstr "arabic ( _العربية_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:28
-#, fuzzy, no-wrap
-msgid "hinda ( _हिन्दी _ )\n"
-msgstr ""
-"Spanish ( _हिन्दी _ )\n"
-")\n"
+#, no-wrap
+msgid "bengala ( _বাংলা _ )\n"
+msgstr "bengal ( _বাংলা _ )\n"
 
 #. type: Bullet: '* '
 #: index.md:31
-#, fuzzy, no-wrap
-msgid "itala ( _Italiano_ )\n"
-msgstr "Italian ( _Italiano_ )\n"
+#, no-wrap
+msgid "germana ( _Deutsch_ )\n"
+msgstr "german ( _Deutsch_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:33
-#, fuzzy, no-wrap
-msgid "japana ( _日本語_ )\n"
-msgstr "Japanese ( _日本語_ )\n"
+#, no-wrap
+msgid "hispana ( _Español_ )\n"
+msgstr "spanish ( _Español_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:35
-#, fuzzy, no-wrap
-msgid "malaja ( _بهاس ملايو_ )\n"
-msgstr "Malay ( _بهاس ملايو_ )\n"
+#, no-wrap
+msgid "hinda ( _हिन्दी _ )\n"
+msgstr "hindi ( _हिन्दी _ )\n"
 
 #. type: Bullet: '* '
-#: index.md:37
-#, fuzzy, no-wrap
-msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
-msgstr ""
-"Panjaba ( _ਪੰਜਾਬੀ _ )\n"
-"\n"
+#: index.md:38
+#, no-wrap
+msgid "itala ( _Italiano_ )\n"
+msgstr "italian ( _Italiano_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:40
-#, fuzzy, no-wrap
-msgid "portugala ( _Português_ )\n"
-msgstr "Panjaba ( _Português_ \n"
+#, no-wrap
+msgid "japana ( _日本語_ )\n"
+msgstr "japanese ( _日本語_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:42
-#, fuzzy, no-wrap
-msgid "rusa ( _русский язык_ )\n"
-msgstr "Russian ( _русский язык_ )\n"
+#, no-wrap
+msgid "malaja ( _بهاس ملايو_ )\n"
+msgstr "malay ( _بهاس ملايو_ )\n"
 
 #. type: Bullet: '* '
 #: index.md:44
-#, fuzzy, no-wrap
+#, no-wrap
+msgid "panĝaba ( _ਪੰਜਾਬੀ _ )\n"
+msgstr "panjaba ( _ਪੰਜਾਬੀ _ )\n"
+
+#. type: Bullet: '* '
+#: index.md:47
+#, no-wrap
+msgid "portugala ( _Português_ )\n"
+msgstr "portuguese ( _Português_)\n"
+
+#. type: Bullet: '* '
+#: index.md:49
+#, no-wrap
+msgid "rusa ( _русский язык_ )\n"
+msgstr "russian ( _русский язык_ )\n"
+
+#. type: Bullet: '* '
+#: index.md:51
+#, no-wrap
 msgid "ĉina ( _中文_ )\n"
-msgstr "Chinese ( _中文_ )\n"
+msgstr "chinese ( _中文_ )\n"
 
 #. type: Title #
-#: index.md:47
-#, fuzzy, no-wrap
+#: index.md:54
+#, no-wrap
 msgid "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 msgstr "The main changes after the bifurcation are:"
 
 #. type: Bullet: '* '
-#: index.md:50
-#, fuzzy, no-wrap
-msgid "20210207: versio 21.02.2:\n"
-msgstr "20210207: version 21.02.2:\n"
+#: index.md:57
+#, no-wrap
+msgid "20220109: Versio 22.1.5: \n"
+msgstr "20220109: Release 22.1.5:  \n"
 
 #. type: Bullet: '  * '
-#: index.md:52
-#, fuzzy, no-wrap
+#: index.md:59
+#, no-wrap
+msgid "**fotila administrado v4l** \n"
+msgstr "** Camera Administration V4L **  \n"
+
+#. type: Bullet: '  * '
+#: index.md:61
+#, no-wrap
+msgid "**elsendas per Pypi.org** \n"
+msgstr "** is issued by Pypi.org **  \n"
+
+#. type: Bullet: '  * '
+#: index.md:63
+#, no-wrap
+msgid "Simpligita instalado \n"
+msgstr "Simplified installation  \n"
+
+#. type: Bullet: '* '
+#: index.md:65
+#, no-wrap
+msgid "20210207: versio 21.02.2:\n"
+msgstr "20210207: release 21.02.2:\n"
+
+#. type: Bullet: '  * '
+#: index.md:67
+#, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "configuration in mode _async_ of some javascripts for the presentation. (thank you [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:54 index.md:60 index.md:66 index.md:72 index.md:80
-#, fuzzy, no-wrap
+#: index.md:69 index.md:75 index.md:81 index.md:87 index.md:95
+#, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr "incorporation of changes of _motioneye_.\n"
 
 #. type: Bullet: '* '
-#: index.md:56
-#, fuzzy, no-wrap
+#: index.md:71
+#, no-wrap
 msgid "20210115: versio 21.01.1:\n"
-msgstr "20210115: version 21.01.1:\n"
+msgstr "20210115: release 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:58
-#, fuzzy, no-wrap
+#: index.md:73
+#, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
-msgstr "**addition of a button to play the videos of the day in acceleration and following.** (thank you [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
+msgstr "**addition of a button to play the videos of the day in acceleration and chaining.** (thank you [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:62
-#, fuzzy, no-wrap
+#: index.md:77
+#, no-wrap
 msgid "20201214: versio 20.12.1:\n"
-msgstr "20201214: version 20.12.1:\n"
+msgstr "20201214: release 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:64
-#, fuzzy, no-wrap
+#: index.md:79
+#, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**migration to _python3_** (thank you [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:68
-#, fuzzy, no-wrap
+#: index.md:83
+#, no-wrap
 msgid "20201008: versio 20.10.0:\n"
-msgstr "20201008: version 20.10.0:\n"
+msgstr "20201008: release 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:70
-#, fuzzy, no-wrap
+#: index.md:85
+#, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr "**addition of the script _debian install_ to facilitate the installation.**\n"
 
 #. type: Bullet: '* '
-#: index.md:74
-#, fuzzy, no-wrap
+#: index.md:89
+#, no-wrap
 msgid "20200815: versio 20.8.0:\n"
-msgstr "20200815: version 20.8.0:\n"
+msgstr "20200815: release 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:76
-#, fuzzy, no-wrap
+#: index.md:91
+#, no-wrap
 msgid "**plurlingva.**\n"
 msgstr "**multilingual.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:78
-#, fuzzy, no-wrap
+#: index.md:93
+#, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr "_motioneye_ executed by user _motion_ by default (instead of _root_).\n"
 
 #. type: Bullet: '* '
-#: index.md:82
-#, fuzzy, no-wrap
+#: index.md:97
+#, no-wrap
 msgid "20200704: forko.\n"
 msgstr "20200704: fork.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"
+#~ msgstr "The supported languages ​​are: French, Esperanto and English.\n"
 
 #, fuzzy, no-wrap
 #~ msgid "Germana ( _Deutsch_ )\n"

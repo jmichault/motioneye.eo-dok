@@ -11,7 +11,11 @@ title: ' _Motioneye.eo_ '
 
 C'est une bifurcation de [ _motionEye_ ](https://github.com/ccrisan/motioneye) avec l'ajout de l'internationalisation.  
 Il utilise python3, et fonctionne donc aussi bien sous _debian buster_ que sous _debian bullseye_.  
-Les langues prises en charge sont : le français, l'espéranto et l'anglais.
+Les langues prises en charge sont : 
+
+* le français
+* l'espéranto
+* l'anglais
 
 Les langues suivantes ont été traduites par une traduction automatique et ont besoin d'être corrigées :
 
@@ -31,6 +35,10 @@ Les langues suivantes ont été traduites par une traduction automatique et ont 
 
 # Les principaux changements depuis la bifurcation sont :
 
+* 20220109 : version 22.1.5 :
+  * **correction de la gestion des caméras v4l**
+  * **diffusion sur pypi.org**
+  * installation simplifiée
 * 20210207 : version 21.02.2 :
   * mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).
   * incorporation des changements de _motioneye_.
