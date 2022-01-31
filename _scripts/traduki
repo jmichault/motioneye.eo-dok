@@ -97,7 +97,7 @@ do
       #grep -v "^#, fuzzy" ../_locale/${lang}/${FIC}.po >../_locale/temp$$.po
       cat "../_locale/${lang}/${FIC}.po"|sed "s/^#, fuzzy/#/" >../_locale/temp$$.po
       po4a-translate $OPTIONS -m "${FIC}" --master-charset "UTF-8"  --po ../_locale/temp$$.po --localized "../${lang}/${FIC}" --localized-charset "UTF-8" -k 0
-      if egrep -m 1 "^#.*, fuzzy" "../_locale/${lang}/${FIC}.po" >/dev/null
+      if head "../_locale/${lang}/${FIC}.po"| egrep -m 1 "^#.*, fuzzy" >/dev/null
       then
        true
       else

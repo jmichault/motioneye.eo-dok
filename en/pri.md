@@ -1,6 +1,6 @@
 ---
 lang: en
-lang-niv: auto
+lang-niv: homa
 lang-ref: pri
 layout: page
 title: 'About the Author'

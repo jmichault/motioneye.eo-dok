@@ -1,6 +1,6 @@
 ---
 lang: en
-lang-niv: auto
+lang-niv: homa
 lang-ref: 030-gxisdatigi
 layout: page
 title: Update

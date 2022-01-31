@@ -1,6 +1,6 @@
 ---
 lang: en
-lang-niv: auto
+lang-niv: homa
 lang-ref: 040-uzi_du-kanala
 layout: page
 title: 'Use a dual-channel camera'

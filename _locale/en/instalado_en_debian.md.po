@@ -3,22 +3,22 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-01-09 14:24+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-31 22:33+0100\n"
+"PO-Revision-Date: 2022-01-31 22:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: YAML Front Matter: lang
 #: instalado_en_debian.md:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "eo"
 msgstr "en"
 
@@ -42,27 +42,27 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: instalado_en_debian.md:1
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Instalado sur _debian_"
 msgstr "Installation on _debian_"
 
 #. type: Plain text
 #: instalado_en_debian.md:10
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Ĉi tiu procedo estis testita en  _Raspbian bullseye_  kaj  _Debian bullseye_, sed devus labori pri aliaj distribuoj bazitaj sur  _debian_. \n"
 msgstr "This procedure was tested in   _Raspbian bullseye_   and   _Debian bullseye_, but should work on other distributions based on   _debian_.  \n"
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:11
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Se _motioneye_ estas instalita, malinstalu ĝin: raportu al ĝia [dokumentado](https://github.com/ccrisan/motioneye/wiki).  \n"
 msgstr "If _motioneye_ is installed, uninstall it: refer to its [documentation](https://github.com/ccrisan/motioneye/wiki).  \n"
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:14
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Instalu rekomendajn pakojn: \n"
-msgstr "Install Recommended Packages:  \n"
+msgstr "Install recommended packages:  \n"
 
 #. type: Fenced code block
 #: instalado_en_debian.md:16
@@ -72,7 +72,7 @@ msgstr "sudo apt-get install python3-tornado python3-jinja2 python3-pillow pytho
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:21
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Instalu  _MotionEye.eo_ : \n"
 msgstr "Install   _MotionEye.eo_ :  \n"
 
@@ -84,9 +84,9 @@ msgstr "sudo pip install motioneye.eo\n"
 
 #. type: Bullet: '* '
 #: instalado_en_debian.md:28
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "lanĉu la instaladon de dependecoj kaj la inicialigo de la sistemo: \n"
-msgstr "Launch the installation of dependancies and the initialization of the system:  \n"
+msgstr "launch the installation of dependencies and the initialization of the system:  \n"
 
 #. type: Fenced code block (bash)
 #: instalado_en_debian.md:30
@@ -96,34 +96,6 @@ msgstr "sudo motioneye_init\n"
 
 #. type: Plain text
 #: instalado_en_debian.md:35
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "_Motioneye.eo_ nun estas alirebla ĉe haveno 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( aŭ _http://IP_aŭ_nomo:8765/_ de alia stacio en la loka reto). La defaŭlta uzanto estas _«admin»_, sen pasvorto.\n"
-msgstr "_Motioneye.eo_ is now accessible at port 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( or _http://IP_or_nomo:8765/_ from another station on the premises network). The default user is _«admin»_, without a password.\n"
-
-#, fuzzy
-#~ msgid ""
-#~ "Ĉi tiu proceduro estis provita sur _Raspbian buster_, sed devas funkcii "
-#~ "pri aliaj distribuoj _debian_.\n"
-#~ msgstr ""
-#~ "This procedure has been tested on _Raspbian buster_, but must work on "
-#~ "other distributions _debian_.\n"
-
-#, fuzzy
-#~ msgid "Kolektu la fontojn de _MotionEye.eo_ :\n"
-#~ msgstr "Collect the sources of _MotionEye.eo_ :\n"
-
-#, no-wrap
-#~ msgid "git clone https://github.com/jmichault/motioneye.eo.git\n"
-#~ msgstr "git clone https://github.com/jmichault/motioneye.eo.git\n"
-
-#, fuzzy
-#~ msgid "komenci la instaladon:\n"
-#~ msgstr "start installation:\n"
-
-#, no-wrap
-#~ msgid ""
-#~ "cd motioneye.eo\n"
-#~ "sudo ./debian_install\n"
-#~ msgstr ""
-#~ "cd motioneye.eo\n"
-#~ "sudo ./debian_install\n"
+msgstr "_Motioneye.eo_ is now accessible at port 8765: [ _http://localhost:8765/_ ](http://localhost:8765/) ( or _http://IP_or_nomo:8765/_ from another station on the local network). The default user is _«admin»_, without a password.\n"
