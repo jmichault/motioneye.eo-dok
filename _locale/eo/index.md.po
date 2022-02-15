@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-01-09 13:25+0100\n"
-"PO-Revision-Date: 2022-01-09 13:50+0100\n"
+"POT-Creation-Date: 2022-02-15 18:32+0100\n"
+"PO-Revision-Date: 2022-02-15 18:37+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: eo\n"
@@ -73,21 +73,25 @@ msgstr "Ĝi uzas Python3, do ĝi funkcias ĉe kaj _debian buster_ kaj _debian bu
 
 #. type: Plain text
 #: index.md:15
+#, no-wrap
 msgid "Les langues prises en charge sont : \n"
 msgstr "La agorditaj lingvoj estas:  \n"
 
 #. type: Bullet: '* '
 #: index.md:19
+#, no-wrap
 msgid "le français\n"
 msgstr "franca \n"
 
 #. type: Bullet: '* '
 #: index.md:19
+#, no-wrap
 msgid "l'espéranto\n"
 msgstr "esperanto \n"
 
 #. type: Bullet: '* '
 #: index.md:19
+#, no-wrap
 msgid "l'anglais\n"
 msgstr "angla \n"
 
@@ -182,101 +186,113 @@ msgid "Les principaux changements depuis la bifurcation sont :"
 msgstr "La ĉefaj ŝanĝoj post la forkiĝo estas:"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
+msgid "20220215 : version 22.2.1 :\n"
+msgstr "20220215: Versio 22.2.1: \n"
+
+#. type: Bullet: '  * '
+#: index.md:61
+msgid "correction du transfert sftp\n"
+msgstr "sencimigado  sftp translokigo\n"
+
+#. type: Bullet: '* '
+#: index.md:61
 #, no-wrap
 msgid "20220109 : version 22.1.5 :\n"
 msgstr "20220109: Versio 22.1.5: \n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
+#, no-wrap
 msgid "**correction de la gestion des caméras v4l**\n"
 msgstr "**fotila administrado v4l** \n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
+#, no-wrap
 msgid "**diffusion sur pypi.org**\n"
 msgstr "**elsendas per Pypi.org** \n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "installation simplifiée\n"
-msgstr "Simpligita instalado \n"
+msgstr "simpligita instalado \n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20210207 : version 21.02.2 :\n"
 msgstr "20210207: versio 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "mise en mode _async_ de certains javascripts pour la performance. (merci [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "incorporation des changements de _motioneye_.\n"
 msgstr "aliĝo de ŝanĝoj de _motioneye_.\n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20210115 : version 21.01.1 :\n"
 msgstr "20210115: versio 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "**ajout d'un bouton pour lire les vidéos du jour en accéléré et à la suite.** (merci [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20201214 : version 20.12.1 :\n"
 msgstr "20201214: versio 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "**migration vers _python3_** (merci [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20201008 : version 20.10.0 :\n"
 msgstr "20201008: versio 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "**ajout du script _debian install_ pour faciliter l'installation.**\n"
 msgstr "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20200815 : version 20.8.0 :\n"
 msgstr "20200815: versio 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "**multilangage.**\n"
 msgstr "**plurlingva.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "_motioneye_ exécuté par l'utilisateur _motion_ par défaut (au lieu de _root_).\n"
 msgstr "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 
 #. type: Bullet: '* '
-#: index.md:59
+#: index.md:61
 #, no-wrap
 msgid "20200704 : bifurcation.\n"
 msgstr "20200704: forko.\n"

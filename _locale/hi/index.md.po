@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-01-31 22:33+0100\n"
+"POT-Creation-Date: 2022-02-15 18:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,105 +182,124 @@ msgstr "द्विभाजन के बाद मुख्य परिव�
 
 #. type: Bullet: '* '
 #: index.md:57
+#, no-wrap
+#, fuzzy
+msgid "20220215: Versio 22.2.1: \n"
+msgstr "20220215: संस्करण 22.2.1:  \n"
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, no-wrap
+#, fuzzy
+msgid "sencimigado  sftp translokigo\n"
+msgstr "प्रदर्शन एसएफटीपी स्थानांतरण <एच 1>\n"
+
+#. type: Bullet: '* '
+#: index.md:61
 #, fuzzy, no-wrap
 msgid "20220109: Versio 22.1.5: \n"
 msgstr "20220109: संस्करण 22.1.5:  \n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:63
 #, fuzzy, no-wrap
 msgid "**fotila administrado v4l** \n"
 msgstr "** कैमरा प्रशासन v4l **  \n"
 
 #. type: Bullet: '  * '
-#: index.md:61
+#: index.md:65
 #, fuzzy, no-wrap
 msgid "**elsendas per Pypi.org** \n"
 msgstr "** pypi.org **   द्वारा जारी किया गया है\n"
 
 #. type: Bullet: '  * '
-#: index.md:63
-#, fuzzy, no-wrap
-msgid "Simpligita instalado \n"
+#: index.md:67
+#, no-wrap
+#, fuzzy
+msgid "simpligita instalado \n"
 msgstr "सरलीकृत स्थापना  \n"
 
 #. type: Bullet: '* '
-#: index.md:65
+#: index.md:69
 #, fuzzy, no-wrap
 msgid "20210207: versio 21.02.2:\n"
 msgstr "20210207: संस्करण 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:67
+#: index.md:71
 #, fuzzy, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "प्रस्तुति के लिए कुछ javascripts के मोड _async_ में सेटिंग। (धन्यवाद [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) )।\n"
 
 #. type: Bullet: '  * '
-#: index.md:69 index.md:75 index.md:81 index.md:87 index.md:95
+#: index.md:73 index.md:79 index.md:85 index.md:91 index.md:99
 #, fuzzy, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr " _motioneye_के परिवर्तनों का समावेश।\n"
 
 #. type: Bullet: '* '
-#: index.md:71
+#: index.md:75
 #, fuzzy, no-wrap
 msgid "20210115: versio 21.01.1:\n"
 msgstr "20210115: संस्करण 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:73
+#: index.md:77
 #, fuzzy, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**त्वरण और निम्नलिखित में दिन के वीडियो खेलने के लिए एक बटन के अलावा।** (धन्यवाद [ _Lu-Fi_ ](https://github.com/Lu-Fi) )।\n"
 
 #. type: Bullet: '* '
-#: index.md:77
+#: index.md:81
 #, fuzzy, no-wrap
 msgid "20201214: versio 20.12.1:\n"
 msgstr "20201214: संस्करण 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:79
+#: index.md:83
 #, fuzzy, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**तक प्रवास _python3_** (धन्यवाद [ _Vlsarro_ ](https://github.com/Vlsarro) ))।\n"
 
 #. type: Bullet: '* '
-#: index.md:83
+#: index.md:87
 #, fuzzy, no-wrap
 msgid "20201008: versio 20.10.0:\n"
 msgstr "20201008: संस्करण 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:85
+#: index.md:89
 #, fuzzy, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr "**स्थापना की सुविधा के लिए स्क्रिप्ट _debian install_ के अलावा।**\n"
 
 #. type: Bullet: '* '
-#: index.md:89
+#: index.md:93
 #, fuzzy, no-wrap
 msgid "20200815: versio 20.8.0:\n"
 msgstr "20200815: संस्करण 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:91
+#: index.md:95
 #, fuzzy, no-wrap
 msgid "**plurlingva.**\n"
 msgstr "**बहुभाषी।**\n"
 
 #. type: Bullet: '  * '
-#: index.md:93
+#: index.md:97
 #, fuzzy, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr "_motioneye_ उपयोगकर्ता _motion_ डिफ़ॉल्ट रूप से _root_)के बजाय _root_)द्वारा निष्पादित किया जाता है।\n"
 
 #. type: Bullet: '* '
-#: index.md:97
+#: index.md:101
 #, fuzzy, no-wrap
 msgid "20200704: forko.\n"
 msgstr "20200704: कांटा।\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Simpligita instalado \n"
+#~ msgstr "सरलीकृत स्थापना  \n"
 
 #, fuzzy, no-wrap
 #~ msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"

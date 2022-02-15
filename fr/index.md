@@ -35,6 +35,8 @@ Les langues suivantes ont été traduites par une traduction automatique et ont 
 
 # Les principaux changements depuis la bifurcation sont :
 
+* 20220215 : version 22.2.1 :
+  * correction du transfert sftp
 * 20220109 : version 22.1.5 :
   * **correction de la gestion des caméras v4l**
   * **diffusion sur pypi.org**

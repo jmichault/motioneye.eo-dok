@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-01-31 22:33+0100\n"
+"POT-Creation-Date: 2022-02-15 18:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -186,105 +186,124 @@ msgstr "Los principales cambios tras la bifurcación son:"
 
 #. type: Bullet: '* '
 #: index.md:57
+#, no-wrap
+#, fuzzy
+msgid "20220215: Versio 22.2.1: \n"
+msgstr "20220215: Versión 22.2.1:  \n"
+
+#. type: Bullet: '  * '
+#: index.md:59
+#, no-wrap
+#, fuzzy
+msgid "sencimigado  sftp translokigo\n"
+msgstr "Demostración SFTP Transferencia \n"
+
+#. type: Bullet: '* '
+#: index.md:61
 #, fuzzy, no-wrap
 msgid "20220109: Versio 22.1.5: \n"
 msgstr "20220109: Versión 22.1.5:  \n"
 
 #. type: Bullet: '  * '
-#: index.md:59
+#: index.md:63
 #, fuzzy, no-wrap
 msgid "**fotila administrado v4l** \n"
 msgstr "** Administración de la cámara V4L **  \n"
 
 #. type: Bullet: '  * '
-#: index.md:61
+#: index.md:65
 #, fuzzy, no-wrap
 msgid "**elsendas per Pypi.org** \n"
 msgstr "** es emitido por pypi.org **  \n"
 
 #. type: Bullet: '  * '
-#: index.md:63
-#, fuzzy, no-wrap
-msgid "Simpligita instalado \n"
+#: index.md:67
+#, no-wrap
+#, fuzzy
+msgid "simpligita instalado \n"
 msgstr "Instalación simplificada  \n"
 
 #. type: Bullet: '* '
-#: index.md:65
+#: index.md:69
 #, fuzzy, no-wrap
 msgid "20210207: versio 21.02.2:\n"
 msgstr "20210207: versión 21.02.2:\n"
 
 #. type: Bullet: '  * '
-#: index.md:67
+#: index.md:71
 #, fuzzy, no-wrap
 msgid "agordo en reĝimo _async_ de iuj ĝavaskriptoj por la prezentado. (dankon [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 msgstr "configuración en modo _async_ de algunos javascripts para la presentación. (gracias [ _ZeroDot1_ ]( https://github.com/ZeroDot1 ) ).\n"
 
 #. type: Bullet: '  * '
-#: index.md:69 index.md:75 index.md:81 index.md:87 index.md:95
+#: index.md:73 index.md:79 index.md:85 index.md:91 index.md:99
 #, fuzzy, no-wrap
 msgid "aliĝo de ŝanĝoj de _motioneye_.\n"
 msgstr "incorporación de cambios de _motioneye_.\n"
 
 #. type: Bullet: '* '
-#: index.md:71
+#: index.md:75
 #, fuzzy, no-wrap
 msgid "20210115: versio 21.01.1:\n"
 msgstr "20210115: versión 21.01.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:73
+#: index.md:77
 #, fuzzy, no-wrap
 msgid "**aldono de butono por reprodukti la filmetojn de la tago en akcelo kaj sekvante.** (dankon [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 msgstr "**adición de un botón para reproducir los videos del día en aceleración y seguimiento.** (gracias [ _Lu-Fi_ ](https://github.com/Lu-Fi) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:77
+#: index.md:81
 #, fuzzy, no-wrap
 msgid "20201214: versio 20.12.1:\n"
 msgstr "20201214: versión 20.12.1:\n"
 
 #. type: Bullet: '  * '
-#: index.md:79
+#: index.md:83
 #, fuzzy, no-wrap
 msgid "**migrado al _python3_** (dankon [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 msgstr "**migración a _python3_** (gracias [ _Vlsarro_ ](https://github.com/Vlsarro) ).\n"
 
 #. type: Bullet: '* '
-#: index.md:83
+#: index.md:87
 #, fuzzy, no-wrap
 msgid "20201008: versio 20.10.0:\n"
 msgstr "20201008: versión 20.10.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:85
+#: index.md:89
 #, fuzzy, no-wrap
 msgid "**aldono de la skripto _debian install_ por faciligi la instaladon.**\n"
 msgstr "**adición del guión _debian install_ para facilitar la instalación.**\n"
 
 #. type: Bullet: '* '
-#: index.md:89
+#: index.md:93
 #, fuzzy, no-wrap
 msgid "20200815: versio 20.8.0:\n"
 msgstr "20200815: versión 20.8.0:\n"
 
 #. type: Bullet: '  * '
-#: index.md:91
+#: index.md:95
 #, fuzzy, no-wrap
 msgid "**plurlingva.**\n"
 msgstr "**multilingüe.**\n"
 
 #. type: Bullet: '  * '
-#: index.md:93
+#: index.md:97
 #, fuzzy, no-wrap
 msgid "_motioneye_ ekzekutita de uzanto _motion_ defaŭlte (anstataŭ _root_).\n"
 msgstr "_motioneye_ ejecutado por el usuario _motion_ por defecto (en lugar de _root_).\n"
 
 #. type: Bullet: '* '
-#: index.md:97
+#: index.md:101
 #, fuzzy, no-wrap
 msgid "20200704: forko.\n"
 msgstr "20200704: tenedor.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Simpligita instalado \n"
+#~ msgstr "Instalación simplificada  \n"
 
 #, fuzzy, no-wrap
 #~ msgid "La subtenataj lingvoj estas: la franca, esperanta kaj la angla.\n"

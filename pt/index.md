@@ -71,6 +71,12 @@ Os seguintes idiomas foram traduzidos por tradução automática e devem ser cor
 
 # As principais mudanças após a bifurcação são:
 
+* 20220215: Versão 22.2.1:  
+
+
+  * Demonstração Transferência de SFTP 
+
+
 * 20220109: Versão 22.1.5:  
 
 

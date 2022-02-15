@@ -71,6 +71,12 @@ Bahasa berikut telah diterjemahkan dengan terjemahan mesin dan mesti diperbetulk
 
 # Perubahan utama selepas bifurkasi adalah:
 
+* 20220215: Versi 22.2.1:  
+
+
+  * Pindahan SFTP Demonstrasi 
+
+
 * 20220109: Versi 22.1.5:  
 
 

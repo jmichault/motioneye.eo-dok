@@ -68,6 +68,12 @@ The following languages ​​have been translated by machine translation and mu
 
 # The main changes after the bifurcation are:
 
+* 20220215: Version 22.2.1:  
+
+
+  * Demonstration SFTP Transfer 
+
+
 * 20220109: Release 22.1.5:  
 
 

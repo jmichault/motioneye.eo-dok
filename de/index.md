@@ -71,6 +71,12 @@ Die folgenden Sprachen wurden maschinell übersetzt und müssen korrigiert werde
 
 # Die wichtigsten Änderungen nach der Gabelung sind:
 
+* 20220215: Version 22.2.1:  
+
+
+  * Demonstration SFTP Transfer 
+
+
 * 20220109: Version 22.1.5:  
 
 

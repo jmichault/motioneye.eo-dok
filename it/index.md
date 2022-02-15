@@ -71,6 +71,12 @@ Le seguenti lingue sono state tradotte tramite traduzione automatica e devono es
 
 # I principali cambiamenti dopo la biforcazione sono:
 
+* 20220215: Versione 22.2.1:  
+
+
+  * Dimostrazione Transfer SFTP 
+
+
 * 20220109: Versione 22.1.5:  
 
 

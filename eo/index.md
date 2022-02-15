@@ -53,13 +53,17 @@ La sekvaj lingvoj estis tradukitaj per maŝintradukado kaj devas esti korektitaj
 
 # La ĉefaj ŝanĝoj post la forkiĝo estas:
 
+* 20220215: Versio 22.2.1: 
+
+  * sencimigado  sftp translokigo
+
 * 20220109: Versio 22.1.5: 
 
   * **fotila administrado v4l** 
 
   * **elsendas per Pypi.org** 
 
-  * Simpligita instalado 
+  * simpligita instalado 
 
 * 20210207: versio 21.02.2:
 
